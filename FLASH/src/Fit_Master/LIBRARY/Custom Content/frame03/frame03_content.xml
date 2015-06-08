@@ -1,0 +1,159 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame03/frame03_content" itemID="4dc2bd89-00006ec6" lastModified="1314128737" lastUniqueIdentifier="25">
+  <timeline>
+    <DOMTimeline name="frame03_content" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;88&lt;/guideline&gt;&lt;guideline direction="v"&gt;525&lt;/guideline&gt;&lt;guideline direction="h"&gt;124&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="labels" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="do you know" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="shoe" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/NB-Fit-Brannock_03.png">
+                  <matrix>
+                    <Matrix a="0.938125610351563" d="0.938125610351563" tx="441.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="440.05" y="343"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="content" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3692 10223|1880 10223!1880 10223|1880 9938!1880 9938[1880 9929 1880 9921!1880 9921[1880 9913 1880 9905!1880 9905|1880 9619!1880 9619|3692 9619!3692 9619|3692 10223"/>
+                    <Edge cubics="!1880 9938(;1880,9935 1880,9928 1880,9921q1880 9938 1880 9921);"/>
+                    <Edge cubics="!1880 9921(1880,9921;1880,9917 1880,9913 1880,9905q1880 9921 1880 9905);"/>
+                    <Edge cubics="!3692 9619(;3692,9619 3692,10223 3692,10223q3692 9619 3692 10223);"/>
+                    <Edge cubics="!1880 10223(;1880,10223 1880,9938 1880,9938q1880 10223 1880 9938);"/>
+                    <Edge cubics="!1880 9905(;1880,9905 1880,9619 1880,9619q1880 9905 1880 9619);"/>
+                    <Edge cubics="!1880 9619(;1880,9619 3692,9619 3692,9619q1880 9619 3692 9619);"/>
+                    <Edge cubics="!3692 10223(;3692,10223 1880,10223 1880,10223q3692 10223 1880 10223);"/>
+                  </edges>
+                </DOMShape>
+                <DOMTLFText left="-332" right="1731" bottom="360">
+                  <matrix>
+                    <Matrix a="1.43795776367188" d="1.43795776367188" tx="73.45" ty="475"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri-Bold" bold="true"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Bold*" fontSize="14" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%">Let's get started!</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMTLFText right="5520" bottom="530">
+                  <matrix>
+                    <Matrix tx="52" ty="81"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#ffffff" fontFamily="_Gotham Bold*" fontSize="24" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">This course will help you:</span></p></TextFlow></tlfTextObject></markup>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMTLFText>
+                <DOMTLFText right="7399" bottom="7939">
+                  <matrix>
+                    <Matrix tx="88" ty="123"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="20" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">Use a Brannock Device to measure a foot</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="20" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">Determine a person’s arch type.</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="20" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">Understand the different phases of the gait cycle.</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="20" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">Learn about the five categories of New Balance running shoes.</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="20" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">Recommend the best category of shoe based on foot type.</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="20" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">Identify basic components of a running shoe.</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="20" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">What lasts are, the four types of New Balance lasts and last construction</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="20" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%"></span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_01" centerPoint3DX="69.2" centerPoint3DY="133.55">
+                  <matrix>
+                    <Matrix tx="60.5" ty="126.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_02" centerPoint3DX="69.2" centerPoint3DY="174.7">
+                  <matrix>
+                    <Matrix tx="60.5" ty="167.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_03" centerPoint3DX="69.2" centerPoint3DY="214">
+                  <matrix>
+                    <Matrix tx="60.5" ty="206.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_04" centerPoint3DX="69.2" centerPoint3DY="255.15">
+                  <matrix>
+                    <Matrix tx="60.5" ty="248.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_06" centerPoint3DX="69.2" centerPoint3DY="317.4">
+                  <matrix>
+                    <Matrix tx="60.5" ty="310.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_07" centerPoint3DX="69.2" centerPoint3DY="419.15">
+                  <matrix>
+                    <Matrix tx="60.5" ty="412.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_08" centerPoint3DX="69.2" centerPoint3DY="380.3">
+                  <matrix>
+                    <Matrix tx="60.5" ty="373.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

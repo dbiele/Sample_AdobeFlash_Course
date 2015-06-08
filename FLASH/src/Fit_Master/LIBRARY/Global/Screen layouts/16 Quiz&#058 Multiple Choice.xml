@@ -1,0 +1,122 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/16 Quiz: Multiple Choice" itemID="49380590-00004a32" sourceFlashFilepath="../../../../New Balance History 101/FLASH/src/History_101_Master/History_101_Master.xfl" sourceLibraryItemHRef="Global/Screen layouts/16 Quiz: Multiple Choice" sourceLastModified="1308343477" lastModified="1313776311" lastUniqueIdentifier="66" sourceItemID="00000000-7fffffff">
+  <timeline>
+    <DOMTimeline name="16 Quiz: Multiple Choice">
+      <layers>
+        <DOMLayer name="actions" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="flag" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/final assessment elements/btn_flag" name="btnFlagReview" selected="true" centerPoint3DX="109" centerPoint3DY="561">
+                  <matrix>
+                    <Matrix tx="49" ty="546"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="btn_checkanswer" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/quiz elements/btn_checkanswer_wide" name="btnCheckAnswer" centerPoint3DX="905.8" centerPoint3DY="610.35">
+                  <matrix>
+                    <Matrix tx="815.8" ty="595.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="18.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="question_mc" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/screen layout elements/set_textbox_question" name="question_mc" centerPoint3DX="317.55" centerPoint3DY="144.45">
+                  <matrix>
+                    <Matrix a="1.00021362304688" d="1.0006103515625" tx="40" ty="80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="369.65" y="42.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="questionnumber_txt" width="415.95" height="22.35" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.00016784667969" tx="42" ty="29"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Question X of Y</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="20" bitmapSize="400" face="_Claredon Regular copy*" fillColor="#767676"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="textarea_mc" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/quiz elements/answer_multi" name="answer_mc" centerPoint3DX="327.45" centerPoint3DY="269.55">
+                  <matrix>
+                    <Matrix a="0.999740600585938" tx="50" ty="250"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="312.55" y="27.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BG WHITE BOX" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/assessment/assets/bg_question_shoe.png">
+                  <matrix>
+                    <Matrix tx="417" ty="105"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" centerPoint3DX="287.5" centerPoint3DY="295">
+                  <matrix>
+                    <Matrix a="116.996795654297" d="94.0042419433594" tx="-5" ty="60"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" distance="0" strength="0.75"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.1015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

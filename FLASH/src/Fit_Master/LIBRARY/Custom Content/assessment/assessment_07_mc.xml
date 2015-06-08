@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/assessment/assessment_07_mc" itemID="4e4d6803-00001a14" linkageExportForAS="true" linkageBaseClass="com.invision.SceneContainer" linkageClassName="assessment_07_mc" lastModified="1314107102" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="assessment_07_mc">
+      <layers>
+        <DOMLayer name="image" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/assessment/assessment_07_content" name="content_mc" selected="true" centerPoint3DX="948" centerPoint3DY="366">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

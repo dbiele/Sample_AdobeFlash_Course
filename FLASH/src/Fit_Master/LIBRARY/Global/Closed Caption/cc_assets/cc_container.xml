@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Closed Caption/cc_assets/cc_container" itemID="4dc176da-0000521e" lastModified="1308683614" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="cc_container">
+      <layers>
+        <DOMLayer name="text collapsed" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText name="ccTextCollapsed" right="18800" bottom="240">
+                  <matrix>
+                    <Matrix tx="28" ty="10"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="0" paddingTop="0" paddingRight="0" paddingBottom="0" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="true" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="toFit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#ffffff" fontFamily="_Calibri Regular*" fontSize="12" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">This </span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="text expanded" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText name="ccTextExpanded" selected="true" right="18800" bottom="2480">
+                  <matrix>
+                    <Matrix tx="28" ty="10"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="0" paddingTop="0" paddingRight="0" paddingBottom="0" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="true" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#ffffff" fontFamily="_Calibri Regular*" fontSize="12" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">Hello</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="toggle button" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Closed Caption/cc_assets/btn-cctoggle" name="mExpandToggle" centerPoint3DX="995.75" centerPoint3DY="19.75">
+                  <matrix>
+                    <Matrix tx="986" ty="10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9.75" y="9.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="slider" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="203.199951171875" d="32.0005035400391"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6484375" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="11" blueOffset="11" greenOffset="11"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

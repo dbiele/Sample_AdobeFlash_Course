@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/timeline_assets/bg_popUp" itemID="4dc2f660-000004b1" lastModified="1304963330">
+  <timeline>
+    <DOMTimeline name="bg_popUp" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;25&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E1E1E1"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#A0A0A0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!460 506|460 501!460 501[460 495 230 362!230 362[13 238 0 235!0 235[13 231 230 119!230 119[345 60 460 0!460 0|8460 0!8460 0|8460 506!8460 506|8460 512"/>
+                    <Edge fillStyle1="1" edges="!8460 512|460 512"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!460 512|460 506"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!460 506|8460 506"/>
+                    <Edge cubics="!460 0(;460,0 8460,0 8460,0p460 0q8460 0);"/>
+                    <Edge cubics="!8460 11600(;8460,11600 460,11600 460,11600p8460 11600q460 11600);"/>
+                    <Edge cubics="!230 119(;307,80 383,40 460,0q230 119Q345 60q460 0);"/>
+                    <Edge cubics="!0 235(;9,232 85,194 230,119q0 235Q13 231q230 119);"/>
+                    <Edge cubics="!460 501(;460,497 383,451 230,362q460 501Q460 495q230 362);"/>
+                    <Edge cubics="!230 362(;85,279 9,237 0,235q230 362Q13 238q0 235);"/>
+                    <Edge cubics="!460 11600(;460,11600 460,669 460,669q460 11600 460 669);"/>
+                    <Edge cubics="!460 669(;460,669 460,512 460,512q460 669 460 512);"/>
+                    <Edge cubics="!460 512(;460,512 460,506 460,506q460 512 460 506);"/>
+                    <Edge cubics="!460 506(;460,506 460,501 460,501q460 506 460 501);"/>
+                    <Edge cubics="!8460 506(;8460,506 460,506 460,506q8460 506 460 506);"/>
+                    <Edge cubics="!8460 506(;8460,506 8460,512 8460,512q8460 506 8460 512);"/>
+                    <Edge cubics="!8460 0(;8460,0 8460,506 8460,506q8460 0 8460 506);"/>
+                    <Edge cubics="!8460 512(;8460,512 460,512 460,512q8460 512 460 512);"/>
+                    <Edge cubics="!8460 512(;8460,512 8460,669 8460,669q8460 512 8460 669);"/>
+                    <Edge cubics="!8460 669(;8460,669 8460,11600 8460,11600q8460 669 8460 11600);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

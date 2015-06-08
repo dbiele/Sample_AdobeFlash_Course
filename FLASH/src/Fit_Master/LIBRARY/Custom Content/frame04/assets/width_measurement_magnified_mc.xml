@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/assets/width_measurement_magnified_mc" itemID="4e02506a-00000ef0" lastModified="1313160164">
+  <timeline>
+    <DOMTimeline name="width_measurement_magnified_mc">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/magnified-width_bar_v4.png">
+                  <matrix>
+                    <Matrix a="0.999984741210938" b="-1.52587890625e-005" c="1.52587890625e-005" d="0.999984741210938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="300" y="299.95"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

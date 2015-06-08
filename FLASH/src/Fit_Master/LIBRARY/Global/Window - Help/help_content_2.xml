@@ -1,0 +1,151 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Window - Help/help_content_2" itemID="4dfa4fba-000005e6" lastModified="1313085190" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="help_content_2">
+      <layers>
+        <DOMLayer name="text" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText right="8952" bottom="360">
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#000000" fontFamily="_Gotham Bold*" fontSize="15" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">Main Menu</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMTLFText referenceID="14A473FE-32AA-AB41-8427-73EE2BD51279" selected="true" right="9560" bottom="800">
+                  <matrix>
+                    <Matrix ty="20"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#000000" fontFamily="_Calibri Regular*" fontSize="15" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">The Main Menu indicates where you are in your course.  Each menu item is a lesson.  Some lessons have sublessons.  </span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#000000" fontFamily="_Calibri Regular*" fontSize="15" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">When you complete each lesson, your status will be updated visually by each colored circle being filled in.  You can continue to the next lesson by clicking the next button or the next lesson title.</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#000000" fontFamily="_Calibri Regular*" fontSize="15" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">You can revisit any lesson that you have completed to review its content. </span></p></TextFlow></tlfTextObject></markup>
+                  <markupElements>
+                    <MarkupElement referenceID="962E9EA4-3AB3-584D-BB0C-D475DEA432B2" referenceType="next"/>
+                  </markupElements>
+                </DOMTLFText>
+                <DOMTLFText referenceID="962E9EA4-3AB3-584D-BB0C-D475DEA432B2" selected="true" top="-140" right="9560" bottom="1680">
+                  <matrix>
+                    <Matrix ty="181"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true"><TextFlow xmlns="http://ns.adobe.com/textLayout/2008"></TextFlow></tlfTextObject></markup>
+                  <markupElements>
+                    <MarkupElement referenceID="14A473FE-32AA-AB41-8427-73EE2BD51279" referenceType="previous"/>
+                  </markupElements>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E8E8E8" alpha="0.498039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!20 5379|9339 5379!20 3159|9339 3159"/>
+                    <Edge fillStyle1="1" edges="!41 8676|41 6276!41 6276|9041 6276!9041 6276|9041 8676!9041 8676|41 8676"/>
+                    <Edge cubics="!41 8676(41,8676;41,8676 41,6276 41,6276q41 8676 41 6276)41,6276;"/>
+                    <Edge cubics="!9041 8676(9041,8676;9041,8676 41,8676 41,8676q9041 8676 41 8676);"/>
+                    <Edge cubics="!9041 6276(9041,6276;9041,6276 9041,8676 9041,8676q9041 6276 9041 8676);"/>
+                    <Edge cubics="!41 6276(;41,6276 9041,6276 9041,6276q41 6276 9041 6276);"/>
+                    <Edge cubics="!20 3159(;20,3159 9339,3159 9339,3159q20 3159 9339 3159);"/>
+                    <Edge cubics="!20 5379(;20,5379 9339,5379 9339,5379q20 5379 9339 5379);"/>
+                  </edges>
+                </DOMShape>
+                <DOMTLFText right="8952" bottom="360">
+                  <matrix>
+                    <Matrix ty="285"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#000000" fontFamily="_Gotham Bold*" fontSize="15" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">Lesson Status</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/screen_shot_navBar_chapter" centerPoint3DX="297.05" centerPoint3DY="105">
+                  <matrix>
+                    <Matrix tx="2.05" ty="71"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="295" y="34"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="148.999998861635" distance="3" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_13px" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="39" ty="330.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMTLFText right="1695" bottom="320">
+                  <matrix>
+                    <Matrix tx="26" ty="403.8"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="_Gotham Bold*" fontSize="12" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">INCOMPLETE</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_13px" symbolType="graphic" firstFrame="19" loop="single frame">
+                  <matrix>
+                    <Matrix tx="357.85" ty="330.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMTLFText left="129" right="1564" bottom="320">
+                  <matrix>
+                    <Matrix tx="344.85" ty="403.8"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="_Gotham Bold*" fontSize="12" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">COMPLETE</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_13px" symbolType="graphic" firstFrame="9" loop="single frame">
+                  <matrix>
+                    <Matrix tx="201.65" ty="330.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMTLFText left="-621" right="2639" bottom="360">
+                  <matrix>
+                    <Matrix tx="180.7" ty="403.8"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="toFit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="_Gotham Bold*" fontSize="12" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">STARTED &amp; INCOMPLETE</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Window - Audio Preloader/assets/blue-gradient" itemID="4dd27052-000003d3" lastModified="1305636946">
+  <timeline>
+    <DOMTimeline name="blue-gradient">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#3F99C7"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.0193634033203125" c="-0.025146484375" d="0" tx="-5" ty="53.3"/>
+                        </matrix>
+                        <GradientEntry color="#45A8DB" ratio="0"/>
+                        <GradientEntry color="#45A8DB" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-513 676|-513 0!-513 0|313 309!313 309|311 676"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!311 676|-513 676"/>
+                    <Edge fillStyle0="2" edges="!-513 676|-513 1513!-513 1513|311 1513!311 1513|311 676"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

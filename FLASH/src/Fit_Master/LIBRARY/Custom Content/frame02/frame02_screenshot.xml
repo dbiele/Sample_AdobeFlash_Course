@@ -1,0 +1,283 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame02/frame02_screenshot" itemID="4e53a5cb-000009ac" lastModified="1314104779">
+  <timeline>
+    <DOMTimeline name="frame02_screenshot">
+      <layers>
+        <DOMLayer name="labels" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" name="begin" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="40" name="showScrollNav" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="49" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="64" duration="15" name="showMilestoneNav" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="79" duration="15" name="hideMilestoneNav" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="94" duration="11" name="milestoneHoverState" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#808080" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="63" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="63" duration="15" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="78" duration="15" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="93" duration="11" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("begin");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="104" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("begin");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="milestones" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="64" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="64" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="69" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="73" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="76" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="78" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="79" duration="2" tweenType="motion" keyMode="17921">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="81" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="84" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="88" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="93" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="94" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hover milestone" color="#FF4F4F" locked="true" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="frame04_milestone03" color="#4FFFFF" parentLayerIndex="3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="94" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="94" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="frame04_milestone02" color="#808080" parentLayerIndex="3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="94" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="94" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="98" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="103" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="frame04_milestone01" color="#4F80FF" parentLayerIndex="3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="94" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="94" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="right scroller" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="49" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="59" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="64" duration="41" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="left scroller" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="18" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="25" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="35" duration="70" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="stroke" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="105" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#F8F8F8"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!10857 7380S4|0 7380!0 7380|0 0!0 0|10857 0!10857 0|10857 7380"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mask" color="#4FFF4F" locked="true" outline="true" useOutlineView="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="105" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="timeline-gfx" color="#FF4F4F" parentLayerIndex="10" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame02/frame_02_slider" centerPoint3DX="477" centerPoint3DY="156.4">
+                  <matrix>
+                    <Matrix tx="23.4" ty="-73.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="444.15" y="541.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="16" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame02/frame_02_slider" centerPoint3DX="477" centerPoint3DY="156.4">
+                  <matrix>
+                    <Matrix tx="23.4" ty="-73.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="444.15" y="541.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="19" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame02/frame_02_slider" centerPoint3DX="226" centerPoint3DY="156.4">
+                  <matrix>
+                    <Matrix tx="-227.6" ty="-73.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="444.15" y="541.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="53" duration="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame02/frame_02_slider" centerPoint3DX="477" centerPoint3DY="156.4">
+                  <matrix>
+                    <Matrix tx="23.4" ty="-73.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="444.15" y="541.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pic" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="105" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/screenGrab.png">
+                  <transformationPoint>
+                    <Point x="380.95" y="259"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/screenGrab.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

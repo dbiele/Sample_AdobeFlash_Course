@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Window - Bookmark/bookmarkWindow" itemID="4dc1b20c-00006bef" linkageExportForAS="true" linkageBaseClass="com.invision.client.components.BookmarkWindow" linkageClassName="bookmarkWindow" lastModified="1313183106" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="bookmarkWindow">
+      <layers>
+        <DOMLayer name="labels" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="panel" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Bookmark/bookmark_panel" name="bookmarkWindow" selected="true" centerPoint3DX="474" centerPoint3DY="169.45">
+                  <matrix>
+                    <Matrix tx="326" ty="80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="148" y="89.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Bookmark/background_panel" name="background_mc" centerPoint3DX="518.15" centerPoint3DY="345">
+                  <matrix>
+                    <Matrix a="101.60107421875" d="69.0006713867188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

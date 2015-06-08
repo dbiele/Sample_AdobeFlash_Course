@@ -1,0 +1,65 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/assessment/frame09_course_conclusion" itemID="4e53a5cb-00000999" lastModified="1314104779">
+  <timeline>
+    <DOMTimeline name="frame09_course_conclusion">
+      <layers>
+        <DOMLayer name="28_Course Conclusion" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMComponentInstance libraryItemName="28_Course Conclusion" centerPoint3DX="375" centerPoint3DY="100" uniqueID="7">
+                  <matrix>
+                    <Matrix tx="-235" ty="-365"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="610" y="472.65"/>
+                  </transformationPoint>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath=''>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="componentCaptionsFrame">
+      <Inspectable name="Captions Frame" variable="componentCaptionsFrame" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="componentFrame">
+      <Inspectable name="Component Window Frame" variable="componentFrame" category="" verbose="0" defaultValue="25" type="Number"/>
+   </property>
+   <property id="componentHelpFrame">
+      <Inspectable name="Help Frame" variable="componentHelpFrame" category="" verbose="0" defaultValue="26" type="Number"/>
+   </property>
+   <property id="componentImagesFrame">
+      <Inspectable name="Images Frame" variable="componentImagesFrame" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="componentMenuFrame">
+      <Inspectable name="Menu Frame" variable="componentMenuFrame" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="componentSceneType">
+      <Inspectable name="scene type" variable="componentSceneType" category="" verbose="0" defaultValue="25_courseconclusion" type="String"/>
+   </property>
+   <property id="componentTextFrame">
+      <Inspectable name="Text Frame" variable="componentTextFrame" category="" verbose="0" defaultValue="145" type="Number"/>
+   </property>
+   <property id="componentXMLUIFrame">
+      <Inspectable name="XMLUI Frame" variable="componentXMLUIFrame" category="" verbose="0" defaultValue="145" type="Number"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BG WHITE BOX" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/bg_question_shoe.png">
+                  <matrix>
+                    <Matrix tx="417" ty="105"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

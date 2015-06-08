@@ -1,0 +1,39 @@
+<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/MainMenu Outline/menu elements/container_lesson" itemID="4dd1584b-00000648" linkageExportForAS="true" linkageBaseClass="com.invision.client.views.OutlineContainerView" linkageClassName="container_lesson" lastModified="1310504286" lastUniqueIdentifier="8" displayAsComponent="false" customIconID="24" persistLivePreview11="true" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true">
+  <timeline>
+    <DOMTimeline name="container_lesson">
+      <layers>
+        <DOMLayer name="item title" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="lesson title" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/MainMenu Outline/menu elements/bg_highlight_lesson" name="background_mc" selected="true" centerPoint3DX="132.5" centerPoint3DY="15">
+                  <transformationPoint>
+                    <Point x="132.5" y="15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+  <parametersAsXML><![CDATA[   <property id="varName">
+      <Inspectable name="varName" variable="varName" category="" verbose="0" defaultValue="defaultValue" type="Default"/>
+   </property>
+]]></parametersAsXML>
+</DOMComponentItem>

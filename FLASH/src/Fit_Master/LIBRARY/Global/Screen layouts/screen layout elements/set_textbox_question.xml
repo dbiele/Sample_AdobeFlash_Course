@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/screen layout elements/set_textbox_question" itemID="4693e912-00004c1d" sourceFlashFilepath="../../../../New Balance History 101/FLASH/src/History_101_Master/History_101_Master.xfl" sourceLibraryItemHRef="Global/Screen layouts/screen layout elements/set_textbox_question" sourceLastModified="1306262701" lastModified="1313694086" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="set_textbox_question">
+      <layers>
+        <DOMLayer name="TXT" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textbox" width="343.85" height="505.65" includeOutlines="true" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Your question will display here.  Your question will display here.  Your question will display here.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="20" bitmapSize="400" face="Clarendon" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="112.999998861635" distance="1" strength="0.25"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="onscreen_field" width="550.95" height="19.8" includeOutlines="true" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.00006103515625" tx="2" ty="107"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="14" bitmapSize="280" face="_Claredon Regular copy*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

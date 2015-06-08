@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/final assessment introduction elements/reviewWindowFinal" itemID="4e53a5cf-00000b20" lastModified="1314104783">
+  <timeline>
+    <DOMTimeline name="reviewWindowFinal">
+      <layers>
+        <DOMLayer name="actions" color="#FFFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[import com.invision.Core;
+import com.invision.client.components.NavButton;
+import flash.display.MovieClip;
+import flash.events.MouseEvent;
+
+var Begin:MovieClip;
+var Review:MovieClip;
+
+var btnBegin:NavButton = new NavButton("begin", Begin);
+//var btnReview:NavButton = new NavButton("review", Review);
+
+Begin.addEventListener(MouseEvent.MOUSE_UP,onBeginUp,false,0,true);
+//Review.addEventListener(MouseEvent.MOUSE_UP,onReviewUp,false,0,true);
+
+function onBeginUp(evt:MouseEvent):void{
+	Core.Modules.AssessmentModule.begin();
+}
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="button" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/final assessment results elements/btnBegin" name="Begin" centerPoint3DX="90" centerPoint3DY="15">
+                  <transformationPoint>
+                    <Point x="107.5" y="12.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="button" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/final assessment results elements/btnBegin" name="Begin" centerPoint3DX="90" centerPoint3DY="15">
+                  <transformationPoint>
+                    <Point x="107.5" y="12.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/final assessment submit elements/reviewWindowSubmit" itemID="4554ea3a-00001c81" sourceFlashFilepath="../../../../New Balance History 101/FLASH/src/History_101_Master/History_101_Master.xfl" sourceLibraryItemHRef="Global/Screen layouts/final assessment submit elements/reviewWindowSubmit" sourceLastModified="1305293842" lastModified="1305293842" lastUniqueIdentifier="9" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="reviewWindowSubmit">
+      <layers>
+        <DOMLayer name="actions" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[import com.invision.Core;
+import com.invision.client.components.NavButton;
+import flash.events.MouseEvent;
+import flash.display.MovieClip;
+
+var Review:MovieClip;
+var Flagged:MovieClip;
+var Submit:MovieClip;
+
+var btnReview:NavButton = new NavButton("review", Review);
+var btnFlagged:NavButton = new NavButton("flagged", Flagged);
+var btnSubmit:NavButton = new NavButton("submit", Submit);
+
+Review.addEventListener(MouseEvent.MOUSE_UP, onReviewUP, false, 0, true);
+Submit.addEventListener(MouseEvent.MOUSE_UP, onSubmitUP, false, 0, true);
+
+function onReviewUP(evt:MouseEvent):void{
+	Core.Modules.AssessmentModule.reviewAll();
+}
+
+function onSubmitUP(evt:MouseEvent):void{
+	Core.Modules.AssessmentModule.submit();
+}
+
+function onFlaggedUP(evt:MouseEvent):void{
+	Core.Modules.AssessmentModule.reviewFlagged();
+}
+
+if (Core.Modules.AssessmentModule.getFlaggedCount() == 0) {
+	btnFlagged.setEnabled(false);
+} else {
+	Flagged.addEventListener(MouseEvent.MOUSE_UP, onFlaggedUP, false, 0, true);
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="text" color="#FFFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/btn-review-all-questions" name="Review" centerPoint3DX="60" centerPoint3DY="15">
+                  <transformationPoint>
+                    <Point x="50" y="12.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/btn-review-flagged-questions" name="Flagged" selected="true" centerPoint3DX="224" centerPoint3DY="15">
+                  <matrix>
+                    <Matrix tx="164"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="12.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/btn-submit-assessment" name="Submit" centerPoint3DX="418" centerPoint3DY="15">
+                  <matrix>
+                    <Matrix tx="358"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="12.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

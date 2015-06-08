@@ -1,0 +1,78 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame08/assets/popUp_lasting_board" itemID="4e089aa4-000011b3" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame08_04_CloseWindow" linkageClassName="popUp_lasting_board" lastModified="1313090671" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="popUp_lasting_board">
+      <layers>
+        <DOMLayer name="labels" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="text" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText selected="true" right="7694" bottom="2200">
+                  <matrix>
+                    <Matrix tx="25" ty="70"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">Board lasted shoes have a sturdy insole board running the entire length of the foot bed. This type of construction provides the greatest stability. </span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">These shoes offer the stability and motion control needed by pronators.</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMTLFText right="4027" bottom="560">
+                  <matrix>
+                    <Matrix tx="25" ty="30"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#2a6786" fontFamily="_Gotham Bold*" fontSize="24" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">BOARD LASTED</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" centerPoint3DX="123.5" centerPoint3DY="155">
+                  <matrix>
+                    <Matrix a="89.7019958496094" d="43.1521911621094" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="20" blurY="20" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/btn_close_pop_up_short" name="btn_close" centerPoint3DX="715.05" centerPoint3DY="12.8">
+                  <matrix>
+                    <Matrix tx="380.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.5" y="11.25"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

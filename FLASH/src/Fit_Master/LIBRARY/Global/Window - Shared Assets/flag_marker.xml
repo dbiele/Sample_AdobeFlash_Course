@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Window - Shared Assets/flag_marker" itemID="4dcd239c-00000404" lastModified="1305289794">
+  <timeline>
+    <DOMTimeline name="flag_marker">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7A909B"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!223 107[225 110 223 112!223 112[222 113 206 128!206 128[190 144 169 163!169 163[148 183 132 198!132 198[116 213 115 213!115 213[114 215 108 218!108 218|4 218!4 218[0 217 0 214!0 214|0 4!0 4[0 0 4 0!4 0|108 0!108 0[115 2 115 4!115 4[116
+ 5 132 20!132 20[148 35 168 55!168 55[189 75 205 90!205 90[221 106 223 107"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

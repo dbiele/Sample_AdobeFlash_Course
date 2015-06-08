@@ -1,0 +1,197 @@
+<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/MainMenu Outline/mainmenuoutline_mc" itemID="4dd539f1-000007b9" linkageExportForAS="true" linkageBaseClass="com.invision.client.views.OutlineView" linkageClassName="mainmenuoutline_mc" lastModified="1311112922" lastUniqueIdentifier="21" displayAsComponent="false" customIconID="24" persistLivePreview11="true" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true">
+  <timeline>
+    <DOMTimeline name="mainmenuoutline_mc" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;55&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="close arrow" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/MainMenu Outline/menu elements/btn_close_menu_popup_mc" name="close_btn" selected="true" centerPoint3DX="252" centerPoint3DY="7.15">
+                  <matrix>
+                    <Matrix tx="243" ty="3.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9" y="3.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="legend" color="#808080" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/MainMenu Outline/menu elements/legend_mainmenu" centerPoint3DX="26.5" centerPoint3DY="567.15">
+                  <matrix>
+                    <Matrix tx="20" ty="543.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.5" y="29.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText name="menu_tfield" right="779" bottom="340">
+                  <matrix>
+                    <Matrix tx="20" ty="10"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#ffffff" fontFamily="_Gotham Bold*" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="off" lineHeight="122.307692%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">Menu</span></p></TextFlow></tlfTextObject></markup>
+                  <filters>
+                    <DropShadowFilter angle="112.999998861635" distance="1" quality="3" strength="0.5"/>
+                  </filters>
+                </DOMTLFText>
+                <DOMTLFText name="status_tfield" right="899" bottom="340">
+                  <matrix>
+                    <Matrix tx="190" ty="10"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#ffffff" fontFamily="_Gotham Bold*" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="off" lineHeight="122.307692%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">Status</span></p></TextFlow></tlfTextObject></markup>
+                  <filters>
+                    <DropShadowFilter angle="112.999998861635" distance="1" quality="3" strength="0.5"/>
+                  </filters>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="vertical line" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" name="linespacer_mc" centerPoint3DX="170.5" centerPoint3DY="265">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="106.000244140625" tx="170"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#9F9F9F"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="dark top btm" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/MainMenu Outline/menu elements/bg_top_btm" name="header_mc" centerPoint3DX="132.5" centerPoint3DY="17.5">
+                  <transformationPoint>
+                    <Point x="132.5" y="17.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/MainMenu Outline/menu elements/bg_bottom" name="footer_mc" centerPoint3DX="132.5" centerPoint3DY="570">
+                  <matrix>
+                    <Matrix ty="530"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="132.5" y="40"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="scrollbar" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMComponentInstance libraryItemName="Global/Screen layouts/Scrollbar/scrollbar elements/scrollbar_nb" name="slider_mc" centerPoint3DX="251.95" centerPoint3DY="269.55" uniqueID="17">
+                  <matrix>
+                    <Matrix tx="239.95" ty="35.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12" y="234.5"/>
+                  </transformationPoint>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath=''>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="component_maxheight">
+      <Inspectable name="MaxHeight" variable="component_maxheight" category="" verbose="0" defaultValue="495.00" type="Number"/>
+   </property>
+   <property id="component_mcname">
+      <Inspectable name="Scroll Name MC" variable="component_mcname" category="" verbose="0" defaultValue="itemcontent_mc" type="String"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mask" color="#9933CC" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/MainMenu Outline/menu elements/mainmenu_mask" name="mask_mc">
+                  <matrix>
+                    <Matrix ty="35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="132.5" y="247.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="item content" color="#FF800A" parentLayerIndex="6" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/MainMenu Outline/menu elements/blank_content_mc" name="itemcontent_mc" centerPoint3DX="132.5" centerPoint3DY="59.5">
+                  <matrix>
+                    <Matrix ty="35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="lesson" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/MainMenu Outline/menu elements/bg_menu" name="body_mc" centerPoint3DX="132.5" centerPoint3DY="305">
+                  <transformationPoint>
+                    <Point x="132.5" y="305"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="15" blurY="15" distance="0" inner="true" quality="3" strength="0.3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+  <parametersAsXML><![CDATA[   <property id="varName">
+      <Inspectable name="varName" variable="varName" category="" verbose="0" defaultValue="defaultValue" type="Default"/>
+   </property>
+]]></parametersAsXML>
+</DOMComponentItem>

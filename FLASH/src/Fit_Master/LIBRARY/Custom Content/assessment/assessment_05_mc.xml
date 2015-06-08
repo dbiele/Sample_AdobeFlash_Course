@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/assessment/assessment_05_mc" itemID="4e4d64c8-00000aa4" linkageExportForAS="true" linkageBaseClass="com.invision.SceneContainer" linkageClassName="assessment_05_mc" lastModified="1313775903" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="assessment_05_mc">
+      <layers>
+        <DOMLayer name="15_Quiz: Multiple Choice" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="image" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/assessment/assessment_05_content" name="content_mc" selected="true" centerPoint3DX="948" centerPoint3DY="366">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

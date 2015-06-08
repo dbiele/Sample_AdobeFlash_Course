@@ -1,0 +1,100 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Closed Caption/cc_assets/btn-cctoggle" itemID="4dc177f8-0000522b" lastModified="1311112263" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="btn-cctoggle">
+      <layers>
+        <DOMLayer name="action" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="labels" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hit area" color="#FF4FFF" outline="true" useOutlineView="true" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/nav_hit_area" name="hitarea_mc" centerPoint3DX="5.75" centerPoint3DY="16.65">
+                  <matrix>
+                    <Matrix a="0.375045776367188" d="0.375045776367188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20" y="19.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="arrow" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/MainMenu Outline/menu elements/triangle" centerPoint3DX="7.4" centerPoint3DY="7.45">
+                  <matrix>
+                    <Matrix a="1.52587890625e-005" b="-0.899978637695313" c="0.899993896484375" d="1.52587890625e-005" tx="3.9" ty="10.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.5" y="4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/MainMenu Outline/menu elements/triangle" centerPoint3DX="7.6" centerPoint3DY="7.6">
+                  <matrix>
+                    <Matrix a="-1.52587890625e-005" b="0.900009155273438" c="-0.899993896484375" d="-1.52587890625e-005" tx="11.1" ty="4.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.5" y="4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/bg-roundedBox" centerPoint3DX="7.5" centerPoint3DY="7.5">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="20" blurY="20" color="#333333" inner="true"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

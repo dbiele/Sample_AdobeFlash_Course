@@ -1,0 +1,166 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Window - Shared Assets/other/arrow_bullet" itemID="4dcc3314-000012ca" lastModified="1308758461" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="arrow_bullet" currentFrame="15">
+      <layers>
+        <DOMLayer name="labels" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fade in" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/arrow" centerPoint3DX="-6.3" centerPoint3DY="7.05">
+                  <matrix>
+                    <Matrix a="1.20001220703125" d="1.20001220703125" tx="-16.75" ty="-1.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="11" blueOffset="11" greenOffset="11"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/arrow" centerPoint3DX="8.7" centerPoint3DY="7.05">
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#0B0B0B"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fade in" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/arrow" centerPoint3DX="-16.3" centerPoint3DY="7.05">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="-29.4" ty="-3.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.75" y="7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1484375" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="11" blueOffset="11" greenOffset="11"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/arrow" selected="true" centerPoint3DX="8.7" centerPoint3DY="7.05">
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#0B0B0B"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg arrow" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/arrow" centerPoint3DX="8.7" centerPoint3DY="7.05">
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#0B0B0B"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/arrow" centerPoint3DX="8.7" centerPoint3DY="7.05">
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#0B0B0B"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/arrow" centerPoint3DX="8.7" centerPoint3DY="7.05">
+                  <matrix>
+                    <Matrix a="1.14999389648438" d="1.14999389648438" tx="-1.3" ty="-1.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#0B0B0B"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/arrow" centerPoint3DX="8.7" centerPoint3DY="7.05">
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#0B0B0B"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

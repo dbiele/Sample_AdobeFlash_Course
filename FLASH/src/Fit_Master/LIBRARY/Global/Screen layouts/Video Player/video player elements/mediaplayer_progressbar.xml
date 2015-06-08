@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/Video Player/video player elements/mediaplayer_progressbar" itemID="47d154a3-00000ea4" sourceFlashFilepath="../../../../New Balance History 101/FLASH/src/History_101_Master/History_101_Master.xfl" sourceLibraryItemHRef="Global/Screen layouts/Video Player/video player elements/mediaplayer_progressbar" sourceLastModified="1304525044" lastModified="1304525044" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mediaplayer_progressbar">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.00244140625" c="0.00244140625" d="0" tx="50" ty="2"/>
+                        </matrix>
+                        <GradientEntry color="#22323C" ratio="0"/>
+                        <GradientEntry color="#3E88B9" ratio="0.698039215686274"/>
+                        <GradientEntry color="#C9D8E0" ratio="0.901960784313726"/>
+                        <GradientEntry color="#3E88B9" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2000 80|0 80!0 80|0 0!0 0|2000 0!2000 0|2000 80"/>
+                    <Edge cubics="!2000 0(;2000,0 2000,20 2000,20q2000 0 2000 20);"/>
+                    <Edge cubics="!2000 20(;2000,20 2000,40 2000,40q2000 20 2000 40);"/>
+                    <Edge cubics="!2000 40(;2000,40 2000,80 2000,80q2000 40 2000 80);"/>
+                    <Edge cubics="!0 80(;0,80 0,40 0,40q0 80 0 40);"/>
+                    <Edge cubics="!0 40(;0,40 0,20 0,20q0 40 0 20);"/>
+                    <Edge cubics="!0 20(0,20;0,20 0,0 0,0q0 20 0 0);"/>
+                    <Edge cubics="!0 0(;0,0 2000,0 2000,0q0 0 2000 0);"/>
+                    <Edge cubics="!2000 80(;2000,80 0,80 0,80q2000 80 0 80);"/>
+                    <Edge cubics="!0 20(;0,20 2000,20 2000,20q0 20 2000 20);"/>
+                    <Edge cubics="!2000 20(;2000,20 5058,20 5058,20q2000 20 5058 20);"/>
+                    <Edge cubics="!-440 20(-440,20;-440,20 0,20 0,20q-440 20 0 20);"/>
+                    <Edge cubics="!0 40(;0,40 2000,40 2000,40q0 40 2000 40);"/>
+                    <Edge cubics="!2000 40(;2000,40 5058,40 5058,40q2000 40 5058 40);"/>
+                    <Edge cubics="!-440 40(-440,40;-440,40 0,40 0,40q-440 40 0 40);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

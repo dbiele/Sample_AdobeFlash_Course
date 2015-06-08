@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/buttons/btn_mediascrubber" itemID="47d149c4-0000065c" sourceFlashFilepath="../../SCJohnson/Finance Fundamentals/FLASH/SCJohnson/Finance Fundamentals/FLASH/SCJohnson/Finance Fundamentals/FLASH/SCJ_Finance_Fundamentals_master/src/src/template_MASTER_Kappa_LK.fla" sourceLibraryItemHRef="Global/Navigation/buttons/btn_mediascrubber" sourceLastModified="1228762039" lastModified="1228762039" lastUniqueIdentifier="1" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="btn_mediascrubber">
+      <layers>
+        <DOMLayer name="btn" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.006622314453125" d="0.006622314453125" tx="3.9" ty="2.5"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0.00784313725490196"/>
+                        <GradientEntry color="#888888" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!28 171S2[0 142 0 100!0 100[0 58 28 29!28 29[58 0 100 0!100 0[142 0 170 29!170 29[200 58 200 100!200 100[200 142 170 171!170 171[142 200 100 200!100 200[58 200 28 171"/>
+                    <Edge cubics="!170 29(;189,48 200,72 200,100q170 29Q200 58q200 100);"/>
+                    <Edge cubics="!100 0(;127,0 151,9 170,29q100 0Q142 0q170 29);"/>
+                    <Edge cubics="!170 171(;151,190 127,200 100,200q170 171Q142 200q100 200);"/>
+                    <Edge cubics="!200 100(;200,128 189,151 170,171q200 100Q200 142q170 171);"/>
+                    <Edge cubics="!0 100(;0,72 9,48 28,29q0 100Q0 58q28 29);"/>
+                    <Edge cubics="!28 171(;9,151 0,128 0,100q28 171Q0 142q0 100);"/>
+                    <Edge cubics="!28 29(;47,9 72,0 100,0q28 29Q58 0q100 0);"/>
+                    <Edge cubics="!100 200(;72,200 47,190 28,171q100 200Q58 200q28 171);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,199 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/main_navigation" itemID="4dc0249a-00000e78" linkageExportForAS="true" linkageBaseClass="com.invision.client.components.NavigationWindow" linkageClassName="navigation" lastModified="1433795591" lastUniqueIdentifier="27">
+  <timeline>
+    <DOMTimeline name="main_navigation">
+      <layers>
+        <DOMLayer name="actions" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="logo" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/logo-NB" centerPoint3DX="43.15" centerPoint3DY="668">
+                  <matrix>
+                    <Matrix a="0.580474853515625" d="0.579986572265625" tx="14" ty="654"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.2" y="24.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tool tip" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="course title" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText name="coursetitle_tfield" top="-40" left="-40" right="5459" bottom="300">
+                  <matrix>
+                    <Matrix a="1.00018310546875" d="0.998550415039063" tx="84" ty="656"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri-Bold" bold="true"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="auto" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="false" antiAliasType="advanced" embedFonts="true"><TextFlow lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphStartIndent="0" textAlign="start" textIndent="0"><span baselineShift="0" color="#0b0b0b" fontFamily="Calibri" fontSize="13" fontStyle="normal" fontWeight="bold" kerning="off" lineHeight="122.307692%" trackingRight="0%">Course Title:</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMTLFText name="pagetitle_tfield" top="-40" left="-40" right="5459" bottom="300">
+                  <matrix>
+                    <Matrix a="1.00018310546875" d="0.998550415039063" tx="84" ty="672"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri-Bold" bold="true"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="auto" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="false" antiAliasType="advanced" embedFonts="true"><TextFlow lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphStartIndent="0" textAlign="start" textIndent="0"><span baselineShift="0" color="#45a8db" fontFamily="Calibri" fontSize="12" fontStyle="normal" fontWeight="bold" kerning="off" lineHeight="122.083333%" trackingRight="0%">Sequence Title</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="buttons" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/btn-captions" name="btn_captions" centerPoint3DX="643.95" centerPoint3DY="668.1">
+                  <matrix>
+                    <Matrix tx="607" ty="646.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.65" y="9.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/btn-reference" name="btn_reference" centerPoint3DX="721.95" centerPoint3DY="668.1">
+                  <matrix>
+                    <Matrix tx="682" ty="646.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/btn-glossary" name="btn_glossary" centerPoint3DX="799.95" centerPoint3DY="668.1">
+                  <matrix>
+                    <Matrix tx="763" ty="646.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/btn-help" name="btn_help" centerPoint3DX="860.45" centerPoint3DY="668.1">
+                  <matrix>
+                    <Matrix tx="838" ty="646.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/btn-feedback" name="btn_feedback" selected="true" centerPoint3DX="920.45" centerPoint3DY="668.1">
+                  <matrix>
+                    <Matrix tx="884" ty="646.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/btn-menu" name="btn_menu" centerPoint3DX="986.9" centerPoint3DY="668.1">
+                  <matrix>
+                    <Matrix tx="958" ty="646.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/btn-audio" name="btn_audio" centerPoint3DX="581.3" centerPoint3DY="670">
+                  <matrix>
+                    <Matrix tx="571.3" ty="660"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/btn-play" name="btn_pause" centerPoint3DX="404.5" centerPoint3DY="670">
+                  <matrix>
+                    <Matrix tx="394.5" ty="660"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/btn-prevNext" name="btn_back" centerPoint3DX="379" centerPoint3DY="670">
+                  <matrix>
+                    <Matrix tx="369" ty="660"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/btn-next" name="btn_next" centerPoint3DX="430" centerPoint3DY="670">
+                  <matrix>
+                    <Matrix tx="420" ty="660"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/btn-close-SAVE-EXIT" name="btn_exit" centerPoint3DX="948.15" centerPoint3DY="9.7">
+                  <matrix>
+                    <Matrix tx="900" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.3" y="3.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="progress bar" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/progress bar/progressbar" name="progress_mc" centerPoint3DX="508.45" centerPoint3DY="670">
+                  <matrix>
+                    <Matrix tx="453" ty="660"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.45" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="nav background" color="#4F80FF" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/background_navigation" name="background_mc" centerPoint3DX="508" centerPoint3DY="665">
+                  <matrix>
+                    <Matrix ty="640"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="508" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="outline" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

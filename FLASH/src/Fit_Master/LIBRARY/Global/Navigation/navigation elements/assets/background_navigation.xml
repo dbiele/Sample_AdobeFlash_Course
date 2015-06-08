@@ -1,0 +1,143 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/navigation elements/assets/background_navigation" itemID="4dc02a0b-000022e8" lastModified="1304439837">
+  <timeline>
+    <DOMTimeline name="background_navigation">
+      <layers>
+        <DOMLayer name="vert dividers" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="9" tx="361" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="159" blueOffset="159" greenOffset="159"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="9" tx="606" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="159" blueOffset="159" greenOffset="159"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="9" tx="681" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="159" blueOffset="159" greenOffset="159"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="9" tx="762" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="159" blueOffset="159" greenOffset="159"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="9" tx="837" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="159" blueOffset="159" greenOffset="159"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="9" tx="883" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="159" blueOffset="159" greenOffset="159"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="9" tx="957" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="159" blueOffset="159" greenOffset="159"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg-main" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.028076171875" c="-0.6201171875" d="0" tx="508" ty="29"/>
+                        </matrix>
+                        <GradientEntry color="#E5E5E5" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" ratio="0.0196078431372549"/>
+                        <GradientEntry color="#ECECEC" ratio="0.0235294117647059"/>
+                        <GradientEntry color="#EEEEEE" ratio="0.188235294117647"/>
+                        <GradientEntry color="#FFFFFF" ratio="0.741176470588235"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!20320 1000|0 1000!0 1000|0 100!0 100|20320 100!20320 100|20320 1000"/>
+                    <Edge cubics="!0 1000(0,1000;0,1000 0,100 0,100q0 1000 0 100)0,100;"/>
+                    <Edge cubics="!20320 1000(20320,1000;20320,1000 0,1000 0,1000q20320 1000 0 1000);"/>
+                    <Edge cubics="!20320 100(20320,100;20320,100 20320,1000 20320,1000q20320 100 20320 1000);"/>
+                    <Edge cubics="!0 100(;0,100 20320,100 20320,100q0 100 20320 100);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg-transparent-slice" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="203.199951171875" d="1.00003051757813"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Window - Shared Assets/buttons/assets/btnicon_playpauseToggle_mc" itemID="4dc838fc-00000dee" lastModified="1308573975">
+  <timeline>
+    <DOMTimeline name="btnicon_playpauseToggle_mc">
+      <layers>
+        <DOMLayer name="pause" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!45 200|-16 200!-16 200|-16 0!-16 0|45 0!45 0|45 200!166 200|106 200!106 200|106 0!106 0|166 0!166 0|166 200"/>
+                    <Edge cubics="!106 200(106,200;106,200 106,0 106,0q106 200 106 0)106,0;"/>
+                    <Edge cubics="!166 200(166,200;166,200 106,200 106,200q166 200 106 200);"/>
+                    <Edge cubics="!166 0(166,0;166,0 166,200 166,200q166 0 166 200);"/>
+                    <Edge cubics="!106 0(;106,0 166,0 166,0q106 0 166 0);"/>
+                    <Edge cubics="!-16 200(-16,200;-16,200 -16,0 -16,0q-16 200 -16 0)-16,0;"/>
+                    <Edge cubics="!45 200(45,200;45,200 -16,200 -16,200q45 200 -16 200);"/>
+                    <Edge cubics="!45 0(45,0;45,0 45,200 45,200q45 0 45 200);"/>
+                    <Edge cubics="!-16 0(;-16,0 45,0 45,0q-16 0 45 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="play" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!180 104|0 0!0 0|0 208!0 208|180 104"/>
+                    <Edge cubics="!0 0(0,0;0,0 0,208 0,208q0 0 0 208)0,208;"/>
+                    <Edge cubics="!0 208(0,208;0,208 180,104 180,104q0 208 180 104);"/>
+                    <Edge cubics="!180 104(180,104;180,104 0,0 0,0q180 104 0 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

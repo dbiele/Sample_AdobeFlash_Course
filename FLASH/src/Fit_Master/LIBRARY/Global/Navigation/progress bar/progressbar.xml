@@ -1,0 +1,91 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/progress bar/progressbar" itemID="4dbf0d65-0000020e" linkageExportForAS="true" linkageBaseClass="com.invision.client.views.ProgressIndicatorView" linkageClassName="progressbar" lastModified="1313525419" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="progressbar">
+      <layers>
+        <DOMLayer name="hitarea" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="hitarea_mc" centerPoint3DX="55.5" centerPoint3DY="10">
+                  <matrix>
+                    <Matrix a="11.0999908447266" d="1.99996948242188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pop up" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/tool tip/mc-ToolTip" name="progresspopwindow_mc" selected="true" centerPoint3DX="64.95" centerPoint3DY="-28.65">
+                  <matrix>
+                    <Matrix tx="-10" ty="-62"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="74.95" y="33.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="shape" color="#FFFF4F" locked="true" autoNamed="false" visible="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/progress bar/bg-progressBar">
+                  <transformationPoint>
+                    <Point x="55.45" y="10"/>
+                  </transformationPoint>
+                  <filters>
+                    <BevelFilter quality="2" angle="90" distance="1" highlightColor="#333333" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="color" color="#9933CC" parentLayerIndex="2" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/progress bar/progress-bar-color" name="progressbar_mc" centerPoint3DX="25" centerPoint3DY="10">
+                  <matrix>
+                    <Matrix a="0.450851440429688"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.45" y="10"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/progress bar/bg-progressBar" centerPoint3DX="55.45" centerPoint3DY="10">
+                  <transformationPoint>
+                    <Point x="55.45" y="10"/>
+                  </transformationPoint>
+                  <filters>
+                    <BevelFilter quality="2" angle="90" distance="1" highlightColor="#333333" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

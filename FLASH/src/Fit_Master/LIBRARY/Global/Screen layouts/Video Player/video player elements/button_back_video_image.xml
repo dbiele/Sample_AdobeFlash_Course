@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/Video Player/video player elements/button_back_video_image" itemID="49dcc271-00000639" sourceFlashFilepath="../../../../New Balance History 101/FLASH/src/History_101_Master/History_101_Master.xfl" sourceLibraryItemHRef="Global/Screen layouts/Video Player/video player elements/button_back_video_image" sourceLastModified="1239204625" lastModified="1239204625" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="button_back_video_image">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#517077"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" pixelHinting="true" joints="miter">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!1000 101[1000 0 899 0!899 0|101 0!101 0[0 0 0 101!0 101|0 899!0 899[0 1000 101 1000!101 1000|899 1000!899 1000[1000 1000 1000 899!1000 899|1000 101"/>
+                    <Edge cubics="!101 0(;34,0 0,34 0,101q101 0Q0 0q0 101);"/>
+                    <Edge cubics="!1000 101(;1000,34 966,0 899,0q1000 101Q1000 0q899 0);"/>
+                    <Edge cubics="!899 0(;899,0 101,0 101,0q899 0 101 0);"/>
+                    <Edge cubics="!899 1000(;966,1000 1000,966 1000,899q899 1000Q1000 1000q1000 899);"/>
+                    <Edge cubics="!0 899(;0,966 34,1000 101,1000q0 899Q0 1000q101 1000);"/>
+                    <Edge cubics="!101 1000(;101,1000 899,1000 899,1000q101 1000 899 1000);"/>
+                    <Edge cubics="!1000 899(;1000,899 1000,101 1000,101q1000 899 1000 101);"/>
+                    <Edge cubics="!0 101(;0,101 0,899 0,899q0 101 0 899);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

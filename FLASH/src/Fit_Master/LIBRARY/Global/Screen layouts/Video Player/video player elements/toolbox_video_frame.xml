@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/Video Player/video player elements/toolbox_video_frame" itemID="465c4ee7-000001d6" linkageExportForAS="true" linkageIdentifier="toolbox_video_frame" linkageClassName="toolbox_video_frame" sourceFlashFilepath="../../../../New Balance History 101/FLASH/src/History_101_Master/History_101_Master.xfl" sourceLibraryItemHRef="Global/Screen layouts/Video Player/video player elements/toolbox_video_frame" sourceLastModified="1228762505" lastModified="1228762505" lastUniqueIdentifier="5" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="toolbox_video_frame">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="video" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMVideoInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/toolbox_video_container" name="videoInstance" frameRight="3200" frameBottom="2400">
+                  <matrix>
+                    <Matrix a="2" d="2"/>
+                  </matrix>
+                </DOMVideoInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fillme_dark" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/screen layout elements/fillme_box_dark" name="videoBackground">
+                  <matrix>
+                    <Matrix a="16" d="12"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

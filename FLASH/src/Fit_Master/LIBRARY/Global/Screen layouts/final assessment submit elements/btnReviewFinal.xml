@@ -1,0 +1,263 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/final assessment submit elements/btnReviewFinal" itemID="46e6b637-00004059" linkageExportForAS="true" linkageIdentifier="btnReviewFinal" linkageClassName="btnReviewFinal" sourceFlashFilepath="../../../../New Balance History 101/FLASH/src/History_101_Master/History_101_Master.xfl" sourceLibraryItemHRef="Global/Screen layouts/final assessment submit elements/btnReviewFinal" sourceLastModified="1305292077" lastModified="1305292077" lastUniqueIdentifier="1" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="btnReviewFinal">
+      <layers>
+        <DOMLayer name="labels" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="5" name="Over" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="5" name="Out" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="5" name="Down" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="17" name="Flashing" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="36" name="Inactive" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="action" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="35" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("lFlashing");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="36" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="text" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="36" keyMode="9728">
+              <elements>
+                <DOMStaticText width="156.85" height="17.1" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.00051879882813" tx="2" ty="7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>REVIEW ALL QUESTIONS </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="14" bitmapSize="280" face="Calibri" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="115.95" height="17.1" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.00051879882813" tx="2" ty="7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>review</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="14" bitmapSize="280" face="Calibri" fillColor="#6F6F6F"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="button" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/button_short_art" centerPoint3DX="60" centerPoint3DY="15">
+                  <transformationPoint>
+                    <Point x="135" y="17.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="5" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/button_short_art">
+                  <transformationPoint>
+                    <Point x="135" y="17.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/button_short_art">
+                  <transformationPoint>
+                    <Point x="135" y="17.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="35"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="5" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/button_short_art">
+                  <transformationPoint>
+                    <Point x="135" y="17.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="35"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/button_short_art">
+                  <transformationPoint>
+                    <Point x="135" y="17.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="5" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/button_short_art">
+                  <transformationPoint>
+                    <Point x="135" y="17.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/button_short_art">
+                  <transformationPoint>
+                    <Point x="135" y="17.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="35"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="8" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/button_short_art">
+                  <transformationPoint>
+                    <Point x="135" y="17.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" duration="8" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/button_short_art">
+                  <transformationPoint>
+                    <Point x="135" y="17.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="35"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/button_short_art">
+                  <transformationPoint>
+                    <Point x="135" y="17.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/button_short_art">
+                  <transformationPoint>
+                    <Point x="135" y="17.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="50" saturation="-100"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

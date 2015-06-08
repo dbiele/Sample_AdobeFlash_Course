@@ -1,0 +1,390 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Window - Glossary/glossary panel" itemID="4dc7fc99-00000cb2" lastModified="1307135576" lastUniqueIdentifier="35">
+  <timeline>
+    <DOMTimeline name="glossary panel">
+      <layers>
+        <DOMLayer name="labels" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="title" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText right="7819" bottom="704">
+                  <matrix>
+                    <Matrix tx="40" ty="40"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#398cb6" fontFamily="_Claredon Regular copy*" fontSize="22" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0.833333%" xmlns="http://ns.adobe.com/textLayout/2008">Glossary of Terms</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="instruction" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText right="10419" bottom="480">
+                  <matrix>
+                    <Matrix tx="40" ty="70"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri-Bold" bold="true"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="_Calibri Bold*" fontSize="14" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">Select from the List of Terms to the left or alphabetically below to find a specific term. </span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="quick links" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="a_mc" centerPoint3DX="47" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.84800720214844" d="1.35000610351563" tx="42" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="b_mc" centerPoint3DX="67" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.84800720214844" d="1.35000610351563" tx="62" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="c_mc" centerPoint3DX="87.5" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.62625122070313" d="1.35000610351563" tx="82.5" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="d_mc" centerPoint3DX="105.25" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.7652587890625" d="1.35000610351563" tx="100.25" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="e_mc" centerPoint3DX="123.25" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.62625122070313" d="1.35000610351563" tx="118.25" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="f_mc" centerPoint3DX="142" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.59854125976563" d="1.35000610351563" tx="137" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="g_mc" centerPoint3DX="160.5" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.84800720214844" d="1.35000610351563" tx="155.5" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="h_mc" centerPoint3DX="181.5" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.84800720214844" d="1.35000610351563" tx="176.5" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="i_mc" centerPoint3DX="201.25" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.32131958007813" d="1.35000610351563" tx="196.25" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.95" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="j_mc" centerPoint3DX="216" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.5430908203125" d="1.35000610351563" tx="211" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="k_mc" centerPoint3DX="233.25" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.77409362792969" d="1.35000610351563" tx="228.25" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="l_mc" centerPoint3DX="251.75" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.67332458496094" d="1.35000610351563" tx="246.75" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="m_mc" centerPoint3DX="270.25" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.995849609375" d="1.35000610351563" tx="265.25" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="n_mc" centerPoint3DX="292" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.84800720214844" d="1.35000610351563" tx="287" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="o_mc" centerPoint3DX="312.25" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.84800720214844" d="1.35000610351563" tx="307.25" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="p_mc" centerPoint3DX="332.75" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.70016479492188" d="1.35000610351563" tx="327.75" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="q_mc" centerPoint3DX="351.25" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.84800720214844" d="1.35000610351563" tx="346.25" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="r_mc" centerPoint3DX="372.25" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.74638366699219" d="1.35000610351563" tx="367.25" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="s_mc" centerPoint3DX="391" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.64573669433594" d="1.35000610351563" tx="386" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="t_mc" centerPoint3DX="408.75" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.7186279296875" d="1.35000610351563" tx="403.75" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="u_mc" centerPoint3DX="428.25" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.84800720214844" d="1.35000610351563" tx="423.25" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="v_mc" centerPoint3DX="448" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.84800720214844" d="1.35000610351563" tx="443" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="w_mc" centerPoint3DX="470" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.84800720214844" d="1.35000610351563" tx="465" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="x_mc" centerPoint3DX="491.25" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.71928405761719" d="1.35000610351563" tx="486.25" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="y_mc" centerPoint3DX="510.5" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.67242431640625" d="1.35000610351563" tx="505.5" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="z_mc" centerPoint3DX="529.25" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.59854125976563" d="1.35000610351563" tx="524.25" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="num_mc" centerPoint3DX="547" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix a="1.84800720214844" d="1.35000610351563" tx="542" ty="110.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.05" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="scrollbar" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="A | B | C | D" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="517.45" height="14.65" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999969482421875" d="1.00010681152344" tx="48.5" ty="110"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z | #</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" letterSpacing="0.3" lineSpacing="0" bitmapSize="240" face="Calibri-Bold" fillColor="#44A5D6"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="content" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText right="2800" bottom="300">
+                  <matrix>
+                    <Matrix tx="91" ty="150"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#000000" fontFamily="_Calibri Regular*" fontSize="12" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="122.307692%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">List of terms</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMTLFText name="letter_textbox" right="1000" bottom="800">
+                  <matrix>
+                    <Matrix tx="40" ty="150"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#000000" fontFamily="_Gotham Bold*" fontSize="40" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="122.307692%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">A</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMSymbolInstance libraryItemName="Global/Window - Glossary/glossary elements/listofterms" name="textarea_mc" centerPoint3DX="149" centerPoint3DY="300.95">
+                  <matrix>
+                    <Matrix tx="40" ty="192"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="109" y="108.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Glossary/glossary elements/glossaryTerm" name="glossaryterm_mc" selected="true" centerPoint3DX="383.95" centerPoint3DY="161.5">
+                  <matrix>
+                    <Matrix tx="212" ty="150"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="171.95" y="11.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Glossary/glossary elements/glossaryDefinition" name="glossarydefinition_mc" centerPoint3DX="382.95" centerPoint3DY="244">
+                  <matrix>
+                    <Matrix tx="210" ty="189"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="172.95" y="55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="close" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/btn-close" name="btnClose" centerPoint3DX="276.5" centerPoint3DY="331">
+                  <matrix>
+                    <Matrix tx="210" ty="309.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Error/bg_box_gradient" centerPoint3DX="300" centerPoint3DY="184.95">
+                  <matrix>
+                    <Matrix a="1.6483154296875" d="2.46746826171875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="182" y="74.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

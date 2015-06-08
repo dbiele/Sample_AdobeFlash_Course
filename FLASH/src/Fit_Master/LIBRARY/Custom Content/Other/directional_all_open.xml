@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/Other/directional_all_open" itemID="4e53a5cf-00000ad6" lastModified="1314104783">
+  <timeline>
+    <DOMTimeline name="directional_all_open">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!420 797S2[264 797 152 687!152 687[43 576 43 420!43 420[43 264 152 152!152 152[264 43 420 43!420 43[576 43 687 152!687 152[797 264 797 420!797 420[797 576 687 687!687 687[576 797 420 797"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_blue" selected="true" centerPoint3DX="21" centerPoint3DY="21">
+                  <matrix>
+                    <Matrix a="1.33331298828125" d="1.33331298828125" tx="21" ty="21"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="50" blurY="50" color="#FFFFFF" distance="0" knockout="true" strength="0.8"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/triangle_rounded" selected="true" symbolType="graphic" firstFrame="4" loop="single frame">
+                  <matrix>
+                    <Matrix tx="29.35" ty="21"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/triangle_rounded" selected="true" centerPoint3DX="8.85" centerPoint3DY="21">
+                  <matrix>
+                    <Matrix a="-1" tx="12.65" ty="21"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#45A8DB"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/triangle_rounded" selected="true" centerPoint3DX="21" centerPoint3DY="33.2">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="21" ty="29.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/triangle_rounded" selected="true" centerPoint3DX="21" centerPoint3DY="8.8">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="-1" d="0" tx="21" ty="12.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

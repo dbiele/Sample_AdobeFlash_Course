@@ -1,0 +1,74 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/frame04_08b_content" itemID="4e4c27e3-00000f0f" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame04_08b_Content" linkageClassName="frame04_08b_content" lastModified="1313765811" lastUniqueIdentifier="21">
+  <timeline>
+    <DOMTimeline name="frame04_08b_content" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;753&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="toe bunch" color="#0000FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_foot_bunched" centerPoint3DX="157.9" centerPoint3DY="300.15">
+                  <matrix>
+                    <Matrix a="1.17135620117188" d="1.17135620117188" tx="62.3" ty="204.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="81.75" y="81.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="labels" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="title text" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText right="9640" bottom="1860">
+                  <matrix>
+                    <Matrix tx="40" ty="90"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">Improperly fitted shoes can cause a variety of foot problems in addition to general discomfort and shoe breakdown.</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="image" color="#0000FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/diagram_withoutHeelToToe_mc" centerPoint3DX="589.75" centerPoint3DY="374.55">
+                  <matrix>
+                    <Matrix tx="268.5" ty="162.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="321.25" y="212.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

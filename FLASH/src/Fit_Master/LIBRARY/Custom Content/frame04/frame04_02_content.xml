@@ -1,0 +1,104 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/frame04_02_content" itemID="4dffbab0-000008c9" lastModified="1313609838" lastUniqueIdentifier="32">
+  <timeline>
+    <DOMTimeline name="frame04_02_content" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;146&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="labels" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="text" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText right="3259" bottom="718">
+                  <matrix>
+                    <Matrix tx="40" ty="40"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#2a6786" fontFamily="_Gotham Bold*" fontSize="34" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">Measuring</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMTLFText right="6360" bottom="3501" matrix3D="1 0 0 0 0 1 0 0 0 0 1 0 -960 -460 0 1" centerPoint3DX="181" centerPoint3DY="160.5">
+                  <matrix>
+                    <Matrix tx="88" ty="123"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="141" y="60.5"/>
+                  </transformationPoint>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">The actual fit on an individual’s foot is more important than the size listed on the shoe. </span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">Always begin by measuring both feet. </span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">Using the Brannock Device, Let’s practice measuring for the correct fit. </span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">Let’s begin!</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="archPointer" color="#FF800A" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="1000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.5" xformPtYOffsetPct="0.5" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/brannock_piece_arch" name="brannock_piece_arch" centerPoint3DX="600" centerPoint3DY="516.5">
+                  <matrix>
+                    <Matrix tx="600" ty="516.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="widthBar" color="#FF4FFF" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="1000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0" xformPtYOffsetPct="0" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/brannock_piece_width" name="brannock_piece_width" centerPoint3DX="373" centerPoint3DY="140">
+                  <matrix>
+                    <Matrix tx="373" ty="140"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="brannock bg" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/brannock_piece_base" selected="true" centerPoint3DX="500.5" centerPoint3DY="387">
+                  <matrix>
+                    <Matrix tx="500.5" ty="387"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

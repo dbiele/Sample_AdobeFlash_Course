@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Window - Help/nav_help_panel" itemID="4e53a5cf-00000b79" lastModified="1314104783">
+  <timeline>
+    <DOMTimeline name="nav_help_panel">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="6.00004577636719" tx="95.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#0B0B0B"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="6.00004577636719" tx="165.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#0B0B0B"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/btn_previous" centerPoint3DX="40.65" centerPoint3DY="15">
+                  <matrix>
+                    <Matrix ty="5.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.65" y="9.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/btn_index" centerPoint3DX="130.8" centerPoint3DY="15">
+                  <matrix>
+                    <Matrix tx="109.85" ty="5.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.95" y="9.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/btn_next" selected="true" centerPoint3DX="207.1" centerPoint3DY="15">
+                  <matrix>
+                    <Matrix tx="180.3" ty="5.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.8" y="9.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

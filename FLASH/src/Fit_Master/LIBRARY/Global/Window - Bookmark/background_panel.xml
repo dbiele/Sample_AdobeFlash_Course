@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Window - Bookmark/background_panel" itemID="4dc7f702-000016d4" lastModified="1305649256">
+  <timeline>
+    <DOMTimeline name="background_panel">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.01080322265625" d="0.01080322265625" tx="5.05" ty="2.75"/>
+                        </matrix>
+                        <GradientEntry color="#CCCCCC" alpha="0.498039215686275" ratio="0.101960784313725"/>
+                        <GradientEntry color="#4D4D4D" alpha="0.498039215686275" ratio="0.533333333333333"/>
+                        <GradientEntry alpha="0.498039215686275" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!200 200|0 200!0 200|0 0!0 0|200 0!200 0|200 200"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

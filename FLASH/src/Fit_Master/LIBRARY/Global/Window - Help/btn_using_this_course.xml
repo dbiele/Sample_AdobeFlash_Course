@@ -1,0 +1,236 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Window - Help/btn_using_this_course" itemID="4ded256f-00000db7" lastModified="1308234149" lastUniqueIdentifier="12">
+  <timeline>
+    <DOMTimeline name="btn_using_this_course" currentFrame="39">
+      <layers>
+        <DOMLayer name="action" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="5" name="Over" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="5" name="Out" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="8" name="Down" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" duration="17" name="Flashing" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" name="Inactive" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="labels" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="38" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("lFlashing");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hit area" color="#9933CC" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/nav_hit_area" name="hitarea_mc" selected="true" centerPoint3DX="31.5" centerPoint3DY="10.5">
+                  <matrix>
+                    <Matrix a="3.11798095703125" d="0.524993896484375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="arw bullet" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/arrow" selected="true" centerPoint3DX="4.35" centerPoint3DY="9.45">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" ty="5.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/txt_using_this_course" centerPoint3DX="60.35" centerPoint3DY="9">
+                  <matrix>
+                    <Matrix tx="15" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.35" y="8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/txt_using_this_course" centerPoint3DX="60.35" centerPoint3DY="9">
+                  <matrix>
+                    <Matrix tx="15" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.35" y="8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#45A8DB"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/txt_using_this_course" centerPoint3DX="60.35" centerPoint3DY="9">
+                  <matrix>
+                    <Matrix tx="15" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.35" y="8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/txt_using_this_course" centerPoint3DX="60.35" centerPoint3DY="9">
+                  <matrix>
+                    <Matrix tx="15" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.35" y="8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#2A6786"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/txt_using_this_course" centerPoint3DX="60.35" centerPoint3DY="9">
+                  <matrix>
+                    <Matrix tx="15" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.35" y="8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/txt_using_this_course" centerPoint3DX="60.35" centerPoint3DY="9">
+                  <matrix>
+                    <Matrix tx="15" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.35" y="8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.5" tintColor="#45A8DB"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/txt_using_this_course" centerPoint3DX="60.35" centerPoint3DY="9">
+                  <matrix>
+                    <Matrix tx="15" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.35" y="8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/txt_using_this_course" selected="true" centerPoint3DX="60.35" centerPoint3DY="9">
+                  <matrix>
+                    <Matrix tx="15" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.35" y="8"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.5" tintColor="#999999"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

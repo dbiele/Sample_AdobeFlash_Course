@@ -1,0 +1,135 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame07/assets/860/frame07_01_content_lines_text_mc" itemID="4e04e18b-00002b66" lastModified="1309280397" lastUniqueIdentifier="20">
+  <timeline>
+    <DOMTimeline name="frame07_01_content_lines_text_mc">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_13px" name="hitarea1_mc" centerPoint3DX="866.25" centerPoint3DY="66">
+                  <matrix>
+                    <Matrix a="0.423721313476563" d="0.423721313476563" tx="853.75" ty="53.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMTLFText left="-806" right="889" bottom="400">
+                  <matrix>
+                    <Matrix tx="864.2" ty="24.1"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="_Gotham Bold*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">OUTSOLE</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMTLFText left="-833" right="920" bottom="768">
+                  <matrix>
+                    <Matrix tx="912.6" ty="297"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="_Gotham Bold*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">HEEL</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="_Gotham Bold*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">COUNTER</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_13px" name="hitarea4_mc" centerPoint3DX="914.45" centerPoint3DY="355.5">
+                  <matrix>
+                    <Matrix a="0.423721313476563" d="0.423721313476563" tx="901.95" ty="343"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMTLFText left="-866" right="954" bottom="768">
+                  <matrix>
+                    <Matrix tx="912.25" ty="410"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="_Gotham Bold*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">INTERNAL</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="_Gotham Bold*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">SHANK</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_13px" name="hitarea7_mc" centerPoint3DX="914.45" centerPoint3DY="467.5">
+                  <matrix>
+                    <Matrix a="0.423721313476563" d="0.423721313476563" tx="901.95" ty="455"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMTLFText left="-570" right="650" bottom="400">
+                  <matrix>
+                    <Matrix tx="390.5" ty="224.05"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="_Gotham Bold*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">UPPER</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_13px" name="hitarea3_mc" centerPoint3DX="392.5" centerPoint3DY="267.5">
+                  <matrix>
+                    <Matrix a="0.423721313476563" d="0.423721313476563" tx="380" ty="255"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMTLFText left="-767" right="847" bottom="400">
+                  <matrix>
+                    <Matrix tx="522.35" ty="347.05"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="_Gotham Bold*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">TOE BOX</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_13px" name="hitarea5_mc" centerPoint3DX="524.35" centerPoint3DY="392.55">
+                  <matrix>
+                    <Matrix a="0.423721313476563" d="0.423721313476563" tx="511.85" ty="380.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMTLFText left="-630" right="710" bottom="400">
+                  <matrix>
+                    <Matrix tx="206.5" ty="144.05"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="_Gotham Bold*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">INSOLE</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_13px" name="hitarea2_mc" centerPoint3DX="208.5" centerPoint3DY="188.05">
+                  <matrix>
+                    <Matrix a="0.423721313476563" d="0.423721313476563" tx="196" ty="175.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMTLFText left="-768" right="849" bottom="400">
+                  <matrix>
+                    <Matrix tx="48.4" ty="438.05"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="_Gotham Bold*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">MIDSOLE</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_13px" name="hitarea6_mc" centerPoint3DX="50.4" centerPoint3DY="479.95">
+                  <matrix>
+                    <Matrix a="0.423721313476563" d="0.423721313476563" tx="37.9" ty="467.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

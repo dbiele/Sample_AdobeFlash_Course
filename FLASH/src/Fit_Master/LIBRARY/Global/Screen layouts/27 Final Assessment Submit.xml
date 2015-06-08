@@ -1,0 +1,69 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/27 Final Assessment Submit" itemID="493805bb-00004a3d" sourceFlashFilepath="../../../../New Balance History 101/FLASH/src/History_101_Master/History_101_Master.xfl" sourceLibraryItemHRef="Global/Screen layouts/27 Final Assessment Submit" sourceLastModified="1305299002" lastModified="1305299002" lastUniqueIdentifier="7" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="27 Final Assessment Submit">
+      <layers>
+        <DOMLayer name="actions" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop(); ]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="title_mc" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/screen layout elements/set_header_fulllength" name="pagetitle_mc" centerPoint3DX="414.95" centerPoint3DY="10.7">
+                  <matrix>
+                    <Matrix a="0.999923706054688" d="1.00021362304688" tx="40"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="textarea_mc" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/screen layout elements/set_textbox_finalassesssubmit" name="textarea2_mc" centerPoint3DX="415" centerPoint3DY="145.15">
+                  <matrix>
+                    <Matrix a="1.00006103515625" tx="40" ty="80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="412.6" y="50"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="112.999998861635" distance="1" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="submitWindow" color="#FFFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/final assessment submit elements/reviewWindowSubmit" name="submitWindow_mc" selected="true" centerPoint3DX="212.3" centerPoint3DY="305">
+                  <matrix>
+                    <Matrix a="1.00022888183594" d="1.00035095214844" tx="40" ty="230"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

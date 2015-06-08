@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/assessment/frame05_multiple_choice" itemID="4e53a5cb-00000995" lastModified="1314104779">
+  <timeline>
+    <DOMTimeline name="frame05_multiple_choice">
+      <layers>
+        <DOMLayer name="15_Quiz: Multiple Choice" color="#808080" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMComponentInstance libraryItemName="15_Quiz: Multiple Choice" centerPoint3DX="610.05" centerPoint3DY="245" uniqueID="6">
+                  <transformationPoint>
+                    <Point x="617.5" y="245"/>
+                  </transformationPoint>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath=''>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="componentCaptionsFrame">
+      <Inspectable name="Captions Frame" variable="componentCaptionsFrame" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="componentFrame">
+      <Inspectable name="Component Window Frame" variable="componentFrame" category="" verbose="0" defaultValue="14" type="Number"/>
+   </property>
+   <property id="componentHelpFrame">
+      <Inspectable name="Help Frame" variable="componentHelpFrame" category="" verbose="0" defaultValue="14" type="Number"/>
+   </property>
+   <property id="componentImagesFrame">
+      <Inspectable name="Images Frame" variable="componentImagesFrame" category="" verbose="0" defaultValue="176" type="Number"/>
+   </property>
+   <property id="componentMenuFrame">
+      <Inspectable name="Menu Frame" variable="componentMenuFrame" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="componentSceneType">
+      <Inspectable name="scene type" variable="componentSceneType" category="" verbose="0" defaultValue="14_multiplechoice" type="String"/>
+   </property>
+   <property id="componentTextFrame">
+      <Inspectable name="Text Frame" variable="componentTextFrame" category="" verbose="0" defaultValue="175" type="Number"/>
+   </property>
+   <property id="componentXMLUIFrame">
+      <Inspectable name="XMLUI Frame" variable="componentXMLUIFrame" category="" verbose="0" defaultValue="175" type="Number"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

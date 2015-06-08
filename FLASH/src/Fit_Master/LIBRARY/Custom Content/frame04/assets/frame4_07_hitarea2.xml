@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/assets/frame4_07_hitarea2" itemID="4e04ceb3-00000dee" lastModified="1308937907">
+  <timeline>
+    <DOMTimeline name="frame4_07_hitarea2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#006600"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1600 640S2[1600 905 1365 1092!1365 1092[1131 1280 800 1280!800 1280[469 1280 234 1092!234 1092[0 905 0 640!0 640[0 375 234 187!234 187[469 0 800 0!800 0[1131 0 1365 187!1365 187[1600 375 1600 640"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

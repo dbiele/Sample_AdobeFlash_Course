@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/Other/dottedLine_horiz1" itemID="4e53a5cf-00000ad7" lastModified="1314104783">
+  <timeline>
+    <DOMTimeline name="dottedLine_horiz1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <DashedStroke dash1="3" dash2="15" scaleMode="normal" weight="5">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </DashedStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!10363 0S4/0 41"/>
+                    <Edge cubics="!10363 0(;10363,0 0,41 0,41q10363 0 0 41);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

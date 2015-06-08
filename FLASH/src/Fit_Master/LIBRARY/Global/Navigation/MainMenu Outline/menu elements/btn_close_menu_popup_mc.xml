@@ -1,0 +1,65 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/MainMenu Outline/menu elements/btn_close_menu_popup_mc" itemID="4e2471df-0000043f" lastModified="1311105685" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="btn_close_menu_popup_mc">
+      <layers>
+        <DOMLayer name="hitarea" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/btn_hitarea" name="hitarea_mc" selected="true" centerPoint3DX="9" centerPoint3DY="5">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/MainMenu Outline/menu elements/triangle" centerPoint3DX="9.2" centerPoint3DY="3.75">
+                  <matrix>
+                    <Matrix a="0" b="0.964752197265625" c="-1.54998779296875" d="0" tx="15.2" ty="0.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.5" y="4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#333333"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/MainMenu Outline/menu elements/triangle" centerPoint3DX="9.25" centerPoint3DY="3.75">
+                  <matrix>
+                    <Matrix a="3.0517578125e-005" b="0.449996948242188" c="-0.722976684570313" d="3.0517578125e-005" tx="11.9" ty="2.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.65" y="4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#404040"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="3.59991455078125" d="0.199996948242188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#333333"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

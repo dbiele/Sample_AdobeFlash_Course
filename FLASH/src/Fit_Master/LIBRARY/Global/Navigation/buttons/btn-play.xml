@@ -1,0 +1,248 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/buttons/btn-play" itemID="4dc0364e-0000239d" lastModified="1308574825" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="btn-play">
+      <layers>
+        <DOMLayer name="action" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="5" name="Over" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="5" name="Out" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="8" name="Down" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" duration="17" name="Flashing" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" name="Inactive" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="labels" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="38" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("Flashing");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hit area" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/nav_hit_area" name="hitarea_mc" centerPoint3DX="10" centerPoint3DY="10">
+                  <matrix>
+                    <Matrix a="0.499984741210938" d="0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icon" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/assets/btnicon_playpauseToggle_mc" name="playpauseToggle_mc" selected="true" centerPoint3DX="11" centerPoint3DY="10">
+                  <matrix>
+                    <Matrix tx="6.5" ty="4.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.5" y="5.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/assets/btnicon_playpauseToggle_mc" name="playpauseToggle_mc" centerPoint3DX="11" centerPoint3DY="10">
+                  <matrix>
+                    <Matrix a="0.949996948242188" d="0.949996948242188" tx="6.7" ty="5.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.55" y="5.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/assets/btnicon_playpauseToggle_mc" name="playpauseToggle_mc" centerPoint3DX="11" centerPoint3DY="10">
+                  <matrix>
+                    <Matrix tx="6.5" ty="4.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.5" y="5.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg-roundedBox" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/bg-roundedBox">
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#45A8DB"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/bg-roundedBox">
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#2E779E"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/bg-roundedBox">
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#45A8DB"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/bg-roundedBox" centerPoint3DX="10" centerPoint3DY="10">
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#45A8DB"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/bg-roundedBox" centerPoint3DX="10" centerPoint3DY="10">
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#45A8DB"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/bg-roundedBox" centerPoint3DX="10" centerPoint3DY="10">
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#45A8DB"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/bg-roundedBox" centerPoint3DX="10" centerPoint3DY="10">
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#45A8DB"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/bg-roundedBox" centerPoint3DX="10" centerPoint3DY="10">
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#DADADA"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

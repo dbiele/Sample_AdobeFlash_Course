@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/buttons/button elements/button_circle_art" itemID="4e53a5cf-00000aef" lastModified="1314104783">
+  <timeline>
+    <DOMTimeline name="button_circle_art">
+      <layers>
+        <DOMLayer name="shine" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0294952392578125" d="0.010498046875" tx="15" ty="4.5"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.450980392156863" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!490 109[#20B.66 #8E.2C 543 180.5!543 180.5[#11C.F4 #FE.C4 56.5 182!56.5 182[#4B.B #8E.8B 109 109!109 109[#BC.4E #1D.E8 300 30!300 30[#19B.A2 #1D.F 490 109"/>
+                    <Edge cubics="!3570 1108(;3570,1108 3570,1163 3570,1163q3570 1108 3570 1163);"/>
+                    <Edge cubics="!3492 1030(;3544,1030 3570,1056 3570,1108q3492 1030Q3570 1030q3570 1108);"/>
+                    <Edge cubics="!30 1163(;30,1163 30,1108 30,1108q30 1163 30 1108);"/>
+                    <Edge cubics="!30 1108(30,1108;30,1056 56,1030 108,1030q30 1108Q30 1030q108 1030);"/>
+                    <Edge cubics="!3570 1163(;2390,1303 1210,1303 30,1163q3570 1163Q1800 1373q30 1163);"/>
+                    <Edge cubics="!108 1030(;108,1030 3492,1030 3492,1030q108 1030 3492 1030);"/>
+                    <Edge cubics="!300 30(;375,30 438,56 490,109q300 30Q412 30q490 109);"/>
+                    <Edge cubics="!543 181(;371,230 209,231 57,182q543 181Q285 255q57 182);"/>
+                    <Edge cubics="!57 182(57,182;70,156 87,132 109,109q57 182Q76 143q109 109);"/>
+                    <Edge cubics="!109 109(;162,56 225,30 300,30q109 109Q188 30q300 30);"/>
+                    <Edge cubics="!490 109(;512,131 530,155 543,181q490 109Q523 142q543 181);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="base" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.018310546875" c="0.018310546875" d="0" tx="15" ty="15"/>
+                        </matrix>
+                        <GradientEntry color="#345265" ratio="0"/>
+                        <GradientEntry color="#7796A2" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!600 300[600 424 511 511!511 511[424 600 300 600!300 600[176 600 88 511!88 511[0 424 0 300!0 300[0 176 88 88!88 88[176 0 300 0!300 0[424 0 511 88!511 88[600 176 600 300"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

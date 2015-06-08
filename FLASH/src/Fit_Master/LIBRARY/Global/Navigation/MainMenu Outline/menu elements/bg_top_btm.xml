@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/MainMenu Outline/menu elements/bg_top_btm" itemID="4dd14380-0000046c" lastModified="1305560351">
+  <timeline>
+    <DOMTimeline name="bg_top_btm">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.02099609375" c="-0.0213623046875" d="0" tx="130.15" ty="17.65"/>
+                        </matrix>
+                        <GradientEntry color="#575757" ratio="0"/>
+                        <GradientEntry color="#5A5A5A" ratio="0.184313725490196"/>
+                        <GradientEntry color="#565656" ratio="0.286274509803922"/>
+                        <GradientEntry color="#4E4E4E" ratio="0.541176470588235"/>
+                        <GradientEntry color="#494949" ratio="0.972549019607843"/>
+                        <GradientEntry color="#434343" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!5300 700|0 700!0 700|0 0!0 0|5300 0!5300 0|5300 700"/>
+                    <Edge cubics="!0 700(0,700;0,700 0,0 0,0q0 700 0 0)0,0;"/>
+                    <Edge cubics="!5300 700(5300,700;5300,700 0,700 0,700q5300 700 0 700);"/>
+                    <Edge cubics="!5300 0(5300,0;5300,0 5300,700 5300,700q5300 0 5300 700);"/>
+                    <Edge cubics="!0 0(;0,0 5300,0 5300,0q0 0 5300 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

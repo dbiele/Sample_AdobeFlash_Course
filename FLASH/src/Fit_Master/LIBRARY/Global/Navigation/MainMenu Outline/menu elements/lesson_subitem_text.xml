@@ -1,0 +1,130 @@
+<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/MainMenu Outline/menu elements/lesson_subitem_text" itemID="4ddfa6a0-000003e8" linkageExportForAS="true" linkageBaseClass="com.invision.client.views.OutlineSubItemView" linkageClassName="lesson_subitem_text" lastModified="1307031861" lastUniqueIdentifier="11" displayAsComponent="false" customIconID="24" persistLivePreview11="true" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true">
+  <timeline>
+    <DOMTimeline name="lesson_subitem_text" currentFrame="8" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;205&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="labels" color="#4F80FF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" name="normal" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" name="rollover" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="5" name="rollout" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="6" name="selected" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#808080" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hitarea" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" name="hitarea_mc" centerPoint3DX="132.5" centerPoint3DY="12.5">
+                  <matrix>
+                    <Matrix a="53" d="5.0001220703125"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="status circle" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_13px" name="status_mc" centerPoint3DX="206.05" centerPoint3DY="12.95">
+                  <matrix>
+                    <Matrix a="0.17999267578125" d="0.17999267578125" tx="200.75" ty="7.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.9" y="31.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Lesson 1" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMTLFText name="title_tfield" left="407" right="2465" bottom="395">
+                  <matrix>
+                    <Matrix tx="32.7" ty="3.6"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri-Bold" bold="true"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="false" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#ffffff" fontFamily="_Calibri Bold*" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="off" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">Part 1</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="highlight" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" name="highlight_mc" centerPoint3DX="132.55" centerPoint3DY="12.5">
+                  <matrix>
+                    <Matrix a="53.0202026367188" d="5.00010681152344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+  <parametersAsXML><![CDATA[   <property id="varName">
+      <Inspectable name="varName" variable="varName" category="" verbose="0" defaultValue="defaultValue" type="Default"/>
+   </property>
+]]></parametersAsXML>
+</DOMComponentItem>

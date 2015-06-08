@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/assets/bg_pop_up" itemID="4e0211bd-00000f51" lastModified="1304696599">
+  <timeline>
+    <DOMTimeline name="bg_pop_up">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#A0A0A0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!8000 0S1|0 0"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!0 0S5|0 11088!0 11088|8000 11088!8000 11088|8000 0"/>
+                    <Edge cubics="!8000 11088(;8000,11088 0,11088 0,11088p8000 11088q0 11088);"/>
+                    <Edge cubics="!8000 0(;8000,0 0,0 0,0q8000 0 0 0);"/>
+                    <Edge cubics="!8000 0(;8000,0 8000,11088 8000,11088q8000 0 8000 11088);"/>
+                    <Edge cubics="!0 11088(;0,11088 0,0 0,0q0 11088 0 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

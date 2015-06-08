@@ -1,0 +1,128 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/buttons/btn_triangle_subnav" itemID="4e08b9d2-000006d6" lastModified="1309313953" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="btn_triangle_subnav">
+      <layers>
+        <DOMLayer name="action" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="5" name="Over" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="5" name="Out" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="8" name="Down" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" duration="17" name="Flashing" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" name="Inactive" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="labels" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="38" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("lFlashing");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hitarea" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/btn_hitarea" name="hitarea_mc" selected="true" centerPoint3DX="4" centerPoint3DY="5">
+                  <matrix>
+                    <Matrix tx="-6" ty="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="40" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="40000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.5" xformPtYOffsetPct="0.5" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="6000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="6000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="6000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="6000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="6000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,114.291" next="0,114.291" previous="0,114.291" roving="0" timevalue="0"/><Keyframe anchor="0,114.291" next="0,114.291" previous="0,114.291" roving="0" timevalue="6000"/><Keyframe anchor="0,114.291" next="0,114.291" previous="0,114.291" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,124.994" next="0,124.994" previous="0,124.994" roving="0" timevalue="0"/><Keyframe anchor="0,124.994" next="0,124.994" previous="0,124.994" roving="0" timevalue="6000"/><Keyframe anchor="0,124.994" next="0,124.994" previous="0,124.994" roving="0" timevalue="12000"/></Property></PropertyContainer><PropertyContainer id="Colors"><PropertyContainer id="Tint_ColorXform"><Property enabled="1" id="Tint_Color" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe roving="0" timevalue="0" value="0x333333ff"/><Keyframe roving="0" timevalue="6000" value="0x7f7f7fff"/><Keyframe roving="0" timevalue="12000" value="0x333333ff"/></Property><Property enabled="1" id="Tint_Amount" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="6000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="12000"/></Property></PropertyContainer></PropertyContainer><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/MainMenu Outline/menu elements/btn_triangle" centerPoint3DX="4" centerPoint3DY="5">
+                  <matrix>
+                    <Matrix a="1.14289855957031" d="1.24993896484375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.5" y="4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#333333"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

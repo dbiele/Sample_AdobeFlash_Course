@@ -1,0 +1,214 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/did_you_know/dyk_icon" itemID="4dd57de1-00000549" lastModified="1306258448" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="dyk_icon" currentFrame="50">
+      <layers>
+        <DOMLayer name="labels" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="5" name="Over" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="5" name="Out" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="8" name="Down" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" duration="28" name="Flashing" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="50" name="Inactive" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" duration="27" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="49" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("Flashing");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="50" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hit area" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="51" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icon" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_icon_button" centerPoint3DX="25.5" centerPoint3DY="25.5">
+                  <transformationPoint>
+                    <Point x="25.5" y="25.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" color="#FF6600" inner="true" quality="3" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_icon_button" centerPoint3DX="25.5" centerPoint3DY="25.5">
+                  <transformationPoint>
+                    <Point x="25.5" y="25.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="24" blurY="24" color="#FF6600" inner="true" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_icon_button" centerPoint3DX="25.5" centerPoint3DY="25.5">
+                  <transformationPoint>
+                    <Point x="25.5" y="25.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" color="#FF6600" inner="true" quality="3" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_icon_button" centerPoint3DX="25.5" centerPoint3DY="25.5">
+                  <matrix>
+                    <Matrix a="0.949996948242188" d="0.949996948242188" tx="1.3" ty="1.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.45" y="25.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_icon_button" centerPoint3DX="25.5" centerPoint3DY="25.5">
+                  <matrix>
+                    <Matrix a="0.949996948242188" d="0.949996948242188" tx="1.3" ty="1.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.45" y="25.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_icon_button" centerPoint3DX="25.5" centerPoint3DY="25.5">
+                  <transformationPoint>
+                    <Point x="25.5" y="25.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" color="#333333" inner="true" quality="3" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_icon_button" centerPoint3DX="25.5" centerPoint3DY="25.5">
+                  <transformationPoint>
+                    <Point x="25.5" y="25.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="24" blurY="24" color="#FF6600" inner="true" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_icon_button" centerPoint3DX="25.5" centerPoint3DY="25.5">
+                  <transformationPoint>
+                    <Point x="25.5" y="25.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" color="#FF6600" inner="true" quality="3" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_icon_button" selected="true" centerPoint3DX="25.5" centerPoint3DY="25.5">
+                  <transformationPoint>
+                    <Point x="25.5" y="25.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="90" saturation="-90"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

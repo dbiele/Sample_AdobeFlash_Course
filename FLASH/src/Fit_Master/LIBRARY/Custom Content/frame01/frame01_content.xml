@@ -1,0 +1,98 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame01/frame01_content" itemID="4dc2bd7e-00006ec1" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame01_Content" linkageClassName="frame01_content" lastModified="1313092605" lastUniqueIdentifier="9">
+  <timeline>
+    <DOMTimeline name="frame01_content">
+      <layers>
+        <DOMLayer name="labels" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="content" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <elements>
+                <DOMTLFText right="9940" bottom="600" centerPoint3DX="292.55" centerPoint3DY="125.6">
+                  <matrix>
+                    <Matrix tx="44" ty="110"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="248.5" y="15"/>
+                  </transformationPoint>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="22" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%">Would you like to visit the Help menu? </span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMTLFText right="8800" bottom="1168" centerPoint3DX="289.95" centerPoint3DY="71">
+                  <matrix>
+                    <Matrix tx="40" ty="40"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="249.95" y="31"/>
+                  </transformationPoint>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#2a6786" fontFamily="_Gotham Bold*" fontSize="58" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%">New Balance: Fit</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMTLFText right="7160" bottom="2740">
+                  <matrix>
+                    <Matrix tx="47" ty="183"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="8" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="15" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%">Click Yes to learn more about navigation. Click No to move to the next screen.</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="8" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="15" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="fr" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">This course contains audio narration.  Ensure that your audio is enabled.</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="8" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="15" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="fr" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">You may not proceed forward until the audio on each page is completed.</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/btn-yes" name="btn_yes" centerPoint3DX="78.5" centerPoint3DY="159.5">
+                  <matrix>
+                    <Matrix tx="47" ty="149"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/btn-no" name="btn_no" centerPoint3DX="162.5" centerPoint3DY="159.5">
+                  <matrix>
+                    <Matrix tx="131" ty="149"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="brannock" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/assessment/brannock_device_large_angled" centerPoint3DX="807.2" centerPoint3DY="600.65">
+                  <matrix>
+                    <Matrix a="0.999984741210938" d="0.999984741210938" tx="284.2" ty="64"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="522.05" y="534.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

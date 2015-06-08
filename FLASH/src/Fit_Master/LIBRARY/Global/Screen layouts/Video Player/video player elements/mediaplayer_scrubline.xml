@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/Video Player/video player elements/mediaplayer_scrubline" itemID="47d1499c-0000065b" sourceFlashFilepath="../../../../New Balance History 101/FLASH/src/History_101_Master/History_101_Master.xfl" sourceLibraryItemHRef="Global/Screen layouts/Video Player/video player elements/mediaplayer_scrubline" sourceLastModified="1228762149" lastModified="1228762149" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mediaplayer_scrubline">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#273C47"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!4488 35[4500 30 4500 23!4500 23/4500 18!4500 18[4500 11 4488 6!4488 6[4475 0 4460 0!4460 0/39 0!39 0[23 0 11 6!11 6[0 11 0 18!0 18|0 23!0 23[0 30 11 35!11 35[23 40 39 40!39 40/4460 40!4460 40[4477 40 4488 35"/>
+                    <Edge cubics="!4488 6(;4480,2 4471,0 4460,0q4488 6Q4475 0q4460 0);"/>
+                    <Edge cubics="!4500 18(;4500,13 4496,9 4488,6q4500 18Q4500 11q4488 6);"/>
+                    <Edge cubics="!4500 23(;4500,23 4500,18 4500,18q4500 23 4500 18);"/>
+                    <Edge cubics="!4488 35(;4496,32 4500,28 4500,23q4488 35Q4500 30q4500 23);"/>
+                    <Edge cubics="!4460 40(;4471,40 4480,39 4488,35q4460 40Q4477 40q4488 35);"/>
+                    <Edge cubics="!11 35(;19,39 28,40 39,40q11 35Q23 40q39 40);"/>
+                    <Edge cubics="!0 23(;0,28 4,32 11,35q0 23Q0 30q11 35);"/>
+                    <Edge cubics="!0 18(;0,18 0,23 0,23q0 18 0 23);"/>
+                    <Edge cubics="!11 6(;4,9 0,13 0,18q11 6Q0 11q0 18);"/>
+                    <Edge cubics="!39 0(;28,0 19,2 11,6q39 0Q23 0q11 6);"/>
+                    <Edge cubics="!4460 0(;4460,0 39,0 39,0q4460 0 39 0);"/>
+                    <Edge cubics="!39 40(;39,40 4460,40 4460,40q39 40 4460 40);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

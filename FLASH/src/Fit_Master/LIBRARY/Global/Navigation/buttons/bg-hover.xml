@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/buttons/bg-hover" itemID="4dbf04d7-000001e4" lastModified="1304522551">
+  <timeline>
+    <DOMTimeline name="bg-hover">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient interpolationMethod="linearRGB">
+                        <matrix>
+                          <Matrix a="0" b="-0.0260009765625" c="0.02667236328125" d="0" tx="36.95" ty="21.85"/>
+                        </matrix>
+                        <GradientEntry color="#45A7DA" ratio="0"/>
+                        <GradientEntry color="#43A4D5" ratio="0.556862745098039"/>
+                        <GradientEntry color="#2E86BC" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1479 874|0 874!0 874|0 0!0 0|1479 0!1479 0|1479 874"/>
+                    <Edge cubics="!0 874(0,874;0,874 0,0 0,0q0 874 0 0)0,0;"/>
+                    <Edge cubics="!1479 874(1479,874;1479,874 0,874 0,874q1479 874 0 874);"/>
+                    <Edge cubics="!1479 0(1479,0;1479,0 1479,874 1479,874q1479 0 1479 874);"/>
+                    <Edge cubics="!0 0(;0,0 1479,0 1479,0q0 0 1479 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

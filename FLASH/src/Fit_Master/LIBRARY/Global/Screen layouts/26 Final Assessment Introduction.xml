@@ -1,0 +1,112 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/26 Final Assessment Introduction" itemID="493805b9-00004a3c" sourceFlashFilepath="../../../../New Balance History 101/FLASH/src/History_101_Master/History_101_Master.xfl" sourceLibraryItemHRef="Global/Screen layouts/26 Final Assessment Introduction" sourceLastModified="1307394293" lastModified="1314134705" lastUniqueIdentifier="12" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="26 Final Assessment Introduction">
+      <layers>
+        <DOMLayer name="actions" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bullet_mc" color="#4F80FF" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/screen layout elements/bullet" name="bullet_mc" centerPoint3DX="62.05" centerPoint3DY="104">
+                  <matrix>
+                    <Matrix a="1.00033569335938" d="1.00015258789063" tx="58.05" ty="100"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (enterFrame) {
+	this.gotoAndStop(_level0.bullettype+1);
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="textarea_mc" color="#FF4F4F" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/screen layout elements/set_textbox_finalassessmentintro" name="textarea_mc" selected="true" centerPoint3DX="201.5" centerPoint3DY="301.05">
+                  <matrix>
+                    <Matrix a="1.00022888183594" d="1.000244140625" tx="40" ty="80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="imagecanvas_mc" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/screen layout elements/set_image_lessonoverview" name="imagecanvas_mc" centerPoint3DX="488" centerPoint3DY="115">
+                  <matrix>
+                    <Matrix a="0.999786376953125" tx="408.05" ty="55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="60" blurX="8" blurY="8" distance="8" quality="2" strength="0.35"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="reviewWindowFinal" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/btn-begin-final-assessment" name="startButton" centerPoint3DX="130" centerPoint3DY="305">
+                  <matrix>
+                    <Matrix a="1.00030517578125" tx="40" ty="290"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TEXT" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText selected="true" right="9654" bottom="4565">
+                  <matrix>
+                    <Matrix tx="40" ty="80"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="0" paddingTop="0" paddingRight="0" paddingBottom="0" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="20" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span baselineShift="0" color="#ffffff" fontFamily="_Claredon Regular copy*" fontSize="22" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120.454545%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">Get ready for the road test! </span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="20" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span baselineShift="0" color="#ffffff" fontFamily="_Claredon Regular copy*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="122.5%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">The following pages will test your knowledge of New Balance, Click the "Begin Final Test" button when you are ready.</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="20" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span baselineShift="0" color="#ffffff" fontFamily="_Claredon Regular copy*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="122.5%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">It is 10 questions in length and should take you approximately 10 minutes to complete.</span></p></TextFlow></tlfTextObject></markup>
+                  <filters>
+                    <DropShadowFilter angle="112.999998861635" distance="1" strength="0.25"/>
+                  </filters>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

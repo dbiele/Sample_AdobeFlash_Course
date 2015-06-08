@@ -1,0 +1,108 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/timeline_assets/btn_close_pop_up_short" itemID="4e035b2f-00000929" scaleGridLeft="22.4" scaleGridRight="25.85" scaleGridTop="0.25" scaleGridBottom="22.1" lastModified="1313591346" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="btn_close_pop_up_short">
+      <layers>
+        <DOMLayer name="hitarea" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="hitarea_mc" selected="true" centerPoint3DX="5" centerPoint3DY="5">
+                  <matrix>
+                    <Matrix a="8.10000610351563" d="2.29998779296875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!627 186|606 153!606 153|545 153!545 153|584 224!584 224|542 297!542 297|604 297!604 297|624 263!624 263|645 297!645 297|708 297!708 297|666 224!666 224|707 153!707 153|646 153!646 153|627 186"/>
+                    <Edge cubics="!542 297(542,297;542,297 584,224 584,224q542 297 584 224)584,224;"/>
+                    <Edge cubics="!604 297(604,297;604,297 542,297 542,297q604 297 542 297);"/>
+                    <Edge cubics="!624 263(624,263;624,263 604,297 604,297q624 263 604 297)604,297;"/>
+                    <Edge cubics="!645 297(645,297;645,297 624,263 624,263q645 297 624 263);"/>
+                    <Edge cubics="!646 153(646,153;646,153 627,186 627,186q646 153 627 186);"/>
+                    <Edge cubics="!627 186(627,186;627,186 606,153 606,153q627 186 606 153)606,153;"/>
+                    <Edge cubics="!606 153(;606,153 545,153 545,153q606 153 545 153);"/>
+                    <Edge cubics="!545 153(;545,153 584,224 584,224q545 153 584 224);"/>
+                    <Edge cubics="!708 297(;708,297 645,297 645,297q708 297 645 297);"/>
+                    <Edge cubics="!666 224(666,224;666,224 708,297 708,297q666 224 708 297);"/>
+                    <Edge cubics="!666 224(;666,224 707,153 707,153q666 224 707 153);"/>
+                    <Edge cubics="!707 153(;707,153 646,153 646,153q707 153 646 153);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText right="635" bottom="300">
+                  <matrix>
+                    <Matrix tx="39.95" ty="3.75"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#ffffff" fontFamily="_Calibri Regular*" fontSize="11" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="123.75%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">CLOSE</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#C82032"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#B41D2D"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!9 202[26 194 54 180!54 180[104 154 193 108!193 108[298 54 402 0!402 0|1621 0!1621 0|1621 202"/>
+                    <Edge fillStyle1="2" edges="!1621 202|1621 451!1621 451|409 451!409 451|409 450!409 450[412 441 193 315!193 315[89 255 36 226!36 226|36 227!36 227[14 214 0 206!0 206[5 205 9 202"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!9 202|1621 202"/>
+                    <Edge cubics="!9 202(;20,196 35,189 54,180q9 202Q26 194q54 180);"/>
+                    <Edge cubics="!0 206(0,206;3,205 6,204 9,202q0 206Q5 205q9 202);"/>
+                    <Edge cubics="!36 226(;36,226 36,227 36,227q36 226 36 227);"/>
+                    <Edge cubics="!193 315(;124,275 71,245 36,226q193 315Q89 255q36 226);"/>
+                    <Edge cubics="!54 180(;88,162 134,139 193,108q54 180Q104 154q193 108);"/>
+                    <Edge cubics="!36 227(36,227;21,218 9,211 0,206q36 227Q14 214q0 206);"/>
+                    <Edge cubics="!409 451(409,451;409,451 409,450 409,450q409 451 409 450)409,450;"/>
+                    <Edge cubics="!409 450(;411,444 339,399 193,315q409 450Q412 441q193 315);"/>
+                    <Edge cubics="!193 108(;263,73 333,36 402,0q193 108Q298 54q402 0);"/>
+                    <Edge cubics="!1621 451(;1621,451 409,451 409,451q1621 451 409 451);"/>
+                    <Edge cubics="!402 0(402,0;402,0 1621,0 1621,0q402 0 1621 0);"/>
+                    <Edge cubics="!1621 202(;1621,202 9,202 9,202q1621 202 9 202);"/>
+                    <Edge cubics="!1621 451(1621,451;1621,451 1621,202 1621,202q1621 451 1621 202)1621,202;"/>
+                    <Edge cubics="!1621 202(;1621,202 1621,0 1621,0q1621 202 1621 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Window - Audio Preloader/assets/audio preloading animation" itemID="4dc80b7f-00000e28" lastModified="1305637260" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="audio preloading animation">
+      <layers>
+        <DOMLayer name="mask-vector" color="#0000FF" locked="true" current="true" isSelected="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Audio Preloader/assets/circle-vector" centerPoint3DX="100" centerPoint3DY="100">
+                  <transformationPoint>
+                    <Point x="100" y="100"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="color" color="#808080" parentLayerIndex="0" locked="true" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="40" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="40000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.621065" xformPtYOffsetPct="0" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="2997,-35.05" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-55" next="3330,-32.85" previous="-2996,-53.4" roving="0" timevalue="9000"/><Keyframe anchor="0,78.95" next="3330,118.2" previous="-3329,11.8" roving="0" timevalue="19000"/><Keyframe anchor="0,137" next="259,136.89" previous="-3329,137.55" roving="0" timevalue="29000"/><Keyframe anchor="0,132.1" next="420,131.539" previous="-259,134.8" roving="1" timevalue="29778"/><Keyframe anchor="0,121.15" next="919,118.903" previous="-420,125.3" roving="1" timevalue="31038"/><Keyframe anchor="0,87.6" next="178,87.1538" previous="-919,98.55" roving="1" timevalue="33796"/><Keyframe anchor="0,79" next="326,77.2299" previous="-178,82.95" roving="1" timevalue="34329"/><Keyframe anchor="0,63.75" next="760,51.65" previous="-326,69.2" roving="1" timevalue="35306"/><Keyframe anchor="0,24.5" next="471,10.7" previous="-760,26.2501" roving="1" timevalue="37586"/><Keyframe anchor="0,0" next="0,0" previous="-471,1.13624" roving="0" timevalue="39000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="2997,-22.2" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-95.3" next="3330,-161.85" previous="-2996,-53.95" roving="0" timevalue="9000"/><Keyframe anchor="0,-171" next="3330,-148.5" previous="-3329,-187.1" roving="0" timevalue="19000"/><Keyframe anchor="0,-75.3" next="259,-74.7502" previous="-3329,-116.65" roving="0" timevalue="29000"/><Keyframe anchor="0,-62.75" next="420,-61.5925" previous="-259,-68.35" roving="1" timevalue="29778"/><Keyframe anchor="0,-43.85" next="919,-40.5387" previous="-420,-49.95" roving="1" timevalue="31038"/><Keyframe anchor="0,-10.1" next="178,-10.1868" previous="-919,-15.8" roving="1" timevalue="33796"/><Keyframe anchor="0,-6.9" next="326,-5.78202" previous="-178,-9.4" roving="1" timevalue="34329"/><Keyframe anchor="0,0.4" next="760,4.55" previous="-326,-1.45" roving="1" timevalue="35306"/><Keyframe anchor="0,0.75" next="471,0.8" previous="-760,1.24201" roving="1" timevalue="37586"/><Keyframe anchor="0,0" next="0,0" previous="-471,0.245072" roving="0" timevalue="39000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,-90" next="0,-90" previous="0,-90" roving="0" timevalue="0"/><Keyframe anchor="0,-21.302" next="0,-21.302" previous="0,-21.302" roving="0" timevalue="9000"/><Keyframe anchor="0,91.4667" next="0,91.4667" previous="0,91.4667" roving="0" timevalue="19000"/><Keyframe anchor="0,161.476" next="0,161.476" previous="0,161.476" roving="0" timevalue="29000"/><Keyframe anchor="0,271" next="0,271" previous="0,271" roving="0" timevalue="39000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="19000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="39000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="19000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="39000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="9000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="19000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="29000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="39000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="9000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="19000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="29000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="39000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Audio Preloader/assets/blue-gradient" centerPoint3DX="59.1" centerPoint3DY="185.65">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="59" ty="186"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="circle-dashed-png" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/frame04/frame04_assets/circle_loader.png">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200" y="200"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

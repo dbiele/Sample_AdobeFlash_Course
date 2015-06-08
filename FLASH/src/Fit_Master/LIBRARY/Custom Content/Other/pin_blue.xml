@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/Other/pin_blue" itemID="4e0132d9-000005c3" lastModified="1308701401">
+  <timeline>
+    <DOMTimeline name="pin_blue">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#45A8DB"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!315 315S2[315 445 222 537!222 537[177 582 123 606!123 606/0 1734!0 1734/-123 606!-123 606[-177 583 -223 537!-223 537[-315 445 -315 315!-315 315[-315 185 -223 92!-223 92[-130 0 0 0!0 0[130 0 222 92!222 92[315 185 315 315"/>
+                    <Edge cubics="!0 0(;87,0 161,31 222,92q0 0Q130 0q222 92);"/>
+                    <Edge cubics="!315 315(;315,402 284,476 222,537q315 315Q315 445q222 537);"/>
+                    <Edge cubics="!222 537(;192,567 159,590 123,606q222 537Q177 582q123 606);"/>
+                    <Edge cubics="!0 1734(;0,1734 123,606 123,606q0 1734 123 606);"/>
+                    <Edge cubics="!222 92(;284,154 315,228 315,315q222 92Q315 185q315 315);"/>
+                    <Edge cubics="!-123 606(;-159,591 -192,568 -223,537q-123 606Q-177 583q-223 537);"/>
+                    <Edge cubics="!-223 537(;-284,476 -315,402 -315,315q-223 537Q-315 445q-315 315);"/>
+                    <Edge cubics="!-315 315(;-315,228 -284,154 -223,92q-315 315Q-315 185q-223 92);"/>
+                    <Edge cubics="!-123 606(;-123,606 0,1734 0,1734q-123 606 0 1734);"/>
+                    <Edge cubics="!-223 92(;-161,31 -87,0 0,0q-223 92Q-130 0q0 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

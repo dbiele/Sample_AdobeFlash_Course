@@ -1,0 +1,340 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/buttons/btn-captions" itemID="4dbf026a-000001e2" lastModified="1306522574" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="btn-captions" currentFrame="41">
+      <layers>
+        <DOMLayer name="action" color="#FFFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="8" name="Over" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="5" name="Out" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="16" duration="8" name="Down" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="25" duration="17" name="Flashing" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" name="Inactive" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="labels" color="#FF4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="16" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="25" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("Flashing");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hit area" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="43" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/nav_hit_area" name="hitarea_mc" centerPoint3DX="37" centerPoint3DY="21.85">
+                  <matrix>
+                    <Matrix a="1.8487548828125" d="1.09249877929688"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="text" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMTLFText top="-40" left="-40" right="1119" bottom="300" centerPoint3DX="36.95" centerPoint3DY="22.5">
+                  <matrix>
+                    <Matrix tx="10" ty="16"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.95" y="8.5"/>
+                  </transformationPoint>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="auto" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphStartIndent="0" textAlign="start" textIndent="0"><span baselineShift="0" color="#6b6b6b" fontFamily="Calibri" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="off" lineHeight="122.307692%" trackingRight="0%">CAPTIONS</span></p></TextFlow></tlfTextObject></markup>
+                  <filters>
+                    <AdjustColorFilter/>
+                  </filters>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMTLFText top="-40" left="-40" right="1119" bottom="300">
+                  <matrix>
+                    <Matrix tx="10" ty="16"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="auto" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphStartIndent="0" textAlign="start" textIndent="0" xmlns="http://ns.adobe.com/textLayout/2008"><span baselineShift="0" color="#6b6b6b" fontFamily="Calibri" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="off" lineHeight="122.307692%" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">CAPTIONS</span></p></TextFlow></tlfTextObject></markup>
+                  <filters>
+                    <AdjustColorFilter/>
+                  </filters>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMTLFText top="-40" left="-40" right="1119" bottom="300">
+                  <matrix>
+                    <Matrix tx="10" ty="16"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="auto" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphStartIndent="0" textAlign="start" textIndent="0" xmlns="http://ns.adobe.com/textLayout/2008"><span baselineShift="0" color="#6b6b6b" fontFamily="Calibri" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="off" lineHeight="122.307692%" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">CAPTIONS</span></p></TextFlow></tlfTextObject></markup>
+                  <filters>
+                    <AdjustColorFilter/>
+                  </filters>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="9" keyMode="9728">
+              <elements>
+                <DOMTLFText top="-40" left="-40" right="1119" bottom="300">
+                  <matrix>
+                    <Matrix tx="10" ty="16"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="auto" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphStartIndent="0" textAlign="start" textIndent="0" xmlns="http://ns.adobe.com/textLayout/2008"><span baselineShift="0" color="#6b6b6b" fontFamily="Calibri" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="off" lineHeight="122.307692%" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">CAPTIONS</span></p></TextFlow></tlfTextObject></markup>
+                  <filters>
+                    <AdjustColorFilter/>
+                  </filters>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="8" keyMode="9728">
+              <elements>
+                <DOMTLFText top="-40" left="-40" right="1119" bottom="300">
+                  <matrix>
+                    <Matrix tx="10" ty="16"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="auto" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphStartIndent="0" textAlign="start" textIndent="0" xmlns="http://ns.adobe.com/textLayout/2008"><span baselineShift="0" color="#6b6b6b" fontFamily="Calibri" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="off" lineHeight="122.307692%" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">CAPTIONS</span></p></TextFlow></tlfTextObject></markup>
+                  <filters>
+                    <AdjustColorFilter/>
+                  </filters>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="9" keyMode="9728">
+              <elements>
+                <DOMTLFText top="-40" left="-40" right="1119" bottom="300">
+                  <matrix>
+                    <Matrix tx="10" ty="16"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="auto" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphStartIndent="0" textAlign="start" textIndent="0" xmlns="http://ns.adobe.com/textLayout/2008"><span baselineShift="0" color="#6b6b6b" fontFamily="Calibri" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="off" lineHeight="122.307692%" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">CAPTIONS</span></p></TextFlow></tlfTextObject></markup>
+                  <filters>
+                    <AdjustColorFilter/>
+                  </filters>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" keyMode="9728">
+              <elements>
+                <DOMTLFText top="-40" left="-40" right="1119" bottom="300">
+                  <matrix>
+                    <Matrix tx="10" ty="16"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="auto" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphStartIndent="0" textAlign="start" textIndent="0" xmlns="http://ns.adobe.com/textLayout/2008"><span baselineShift="0" color="#6b6b6b" fontFamily="Calibri" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="off" lineHeight="122.307692%" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">CAPTIONS</span></p></TextFlow></tlfTextObject></markup>
+                  <filters>
+                    <AdjustColorFilter/>
+                  </filters>
+                  <color>
+                    <Color brightness="0.7"/>
+                  </color>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/bg-hover">
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/bg-hover" selected="true">
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/bg-hover" selected="true" centerPoint3DX="36.95" centerPoint3DY="21.85">
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/bg-hover" centerPoint3DX="36.95" centerPoint3DY="21.85">
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="30" blurY="30" color="#000000" inner="true" strength="0.5"/>
+                    <GlowFilter blurX="34" blurY="34" color="#000000" inner="true" quality="3" strength="0.3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/bg-hover" selected="true" centerPoint3DX="36.95" centerPoint3DY="21.85">
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" color="#000000" inner="true" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/bg-hover" centerPoint3DX="36.95" centerPoint3DY="21.85">
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="30" blurY="30" color="#000000" inner="true" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/bg-hover" centerPoint3DX="36.95" centerPoint3DY="21.85">
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" color="#000000" inner="true" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/bg-hover" centerPoint3DX="36.95" centerPoint3DY="21.85">
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

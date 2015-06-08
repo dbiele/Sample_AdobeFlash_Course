@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/progress bar/bg-progressBar" itemID="4dbf0c51-0000020c" lastModified="1304366409">
+  <timeline>
+    <DOMTimeline name="bg-progressBar">
+      <layers>
+        <DOMLayer name="bg" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor color="#B3B3B3"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!2189 29[2160 0 2118 0!2118 0|102 0!102 0[60 0 29 29!29 29[0 58 0 100!0 100|0 300!0 300[0 341 29 371!29 371[60 400 102 400!102 400|2118 400!2118 400[2160 400 2189 371!2189 371[2218 341 2218 300!2218 300|2218 100!2218 100[2218 58 2189
+ 29"/>
+                    <Edge cubics="!0 100(0,100;0,100 0,300 0,300q0 100 0 300);"/>
+                    <Edge cubics="!2118 400(2118,400;2174,400 2218,355 2218,300q2118 400Q2160 400q2189 371Q2218 341q2218 300);"/>
+                    <Edge cubics="!2218 300(2218,300;2218,300 2218,100 2218,100q2218 300 2218 100);"/>
+                    <Edge cubics="!2218 100(2218,100;2218,44 2174,0 2118,0q2218 100Q2218 58q2189 29Q2160 0q2118 0)2118,0;"/>
+                    <Edge cubics="!102 0(102,0;46,0 0,44 0,100q102 0Q60 0q29 29Q0 58q0 100)0,100;"/>
+                    <Edge cubics="!0 300(0,300;0,355 46,400 102,400q0 300Q0 341q29 371Q60 400q102 400)102,400;"/>
+                    <Edge cubics="!2118 0(2118,0;2118,0 102,0 102,0q2118 0 102 0)102,0;"/>
+                    <Edge cubics="!102 400(102,400;102,400 2118,400 2118,400q102 400 2118 400);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

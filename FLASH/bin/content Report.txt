@@ -1,0 +1,764 @@
+﻿content.swf Movie Report
+-------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1       35496816       35496816    Scene 1 (AS 3.0 Classes Export Frame)
+      2             11       35496827    
+      3             15       35496842    
+      4             29       35496871    
+      5             15       35496886    
+      6             15       35496901    
+      7             15       35496916    
+      8             15       35496931    
+      9             15       35496946    
+     10             15       35496961    
+     11             15       35496976    
+     12             15       35496991    
+     13             15       35497006    
+     14             15       35497021    
+     15             15       35497036    
+     16             15       35497051    
+     17             15       35497066    
+     18             15       35497081    
+     19             15       35497096    
+     20             15       35497111    
+     21             15       35497126    
+     22              5       35497131    
+     23             11       35497142    
+     24             15       35497157    
+     25             15       35497172    
+     26             15       35497187    
+     27              5       35497192    
+     28             11       35497203    
+     29             15       35497218    
+     30             15       35497233    
+     31             15       35497248    
+     32             15       35497263    
+     33             15       35497278    
+     34             15       35497293    
+     35             15       35497308    
+     36             15       35497323    
+     37             15       35497338    
+     38             15       35497353    
+     39             15       35497368    
+     40              5       35497373    
+     41             11       35497384    
+     42             15       35497399    
+     43             15       35497414    
+     44             15       35497429    
+     45             15       35497444    
+     46             15       35497459    
+     47             15       35497474    
+     48             15       35497489    
+     49              5       35497494    
+     50             21       35497515    
+     51             25       35497540    
+     52             15       35497555    
+     53             15       35497570    
+     54              5       35497575    
+     55             11       35497586    
+     56             19       35497605    
+     57              5       35497610    
+     58              1       35497611    
+     59              9       35497620    
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0               1735176
+
+Symbol                                        Shape Bytes    Text Bytes    ActionScript Bytes
+------------------------------------------    -----------    ----------    ------------------
+15_Quiz: Multiple Choice                                0             0                     0
+16 Quiz: Multiple Choice                                0             0                     0
+25_Final Assessment Introduction                        0             0                     0
+26 Final Assessment Introduction                        0             0                     0
+square                                                  0             0                     0
+26_Final Assessment Submit                              0             0                     0
+27 Final Assessment Submit                              0             0                     0
+27_Final Assessment Results                             0             0                     0
+28 Final Assessment Results                             0             0                     0
+28_Course Conclusion                                    0             0                     0
+29 Final Assessment Conclusion                          0             0                     0
+checkmark                                               0             0                     0
+assessment_02_content                                   0           300                     0
+assessment_02_mc                                        0             0                     0
+answer_multi                                            0             0                     0
+btn_flag                                                0           219                     0
+assessment_03_content                                   0           308                     0
+assessment_03_mc                                        0             0                     0
+assessment_04_content                                   0           304                     0
+assessment_04_mc                                        0             0                     0
+assessment_05_content                                   0           288                     0
+assessment_05_mc                                        0             0                     0
+assessment_06_content                                   0           277                     0
+assessment_06_mc                                        0             0                     0
+wet_footprints_normal2                                  0             0                     0
+radio_button                                            0             0                     0
+wet_footprints_high1                                    0             0                     0
+wet_footprints_flat1                                    0             0                     0
+assessment_07_content                                   0           282                     0
+blank_mc                                                0             0                     0
+runners_float_mc                                      350             0                     0
+runners_swing_mc                                     1305             0                     0
+runners_support_mc                                    255             0                     0
+runners_states_mc                                       0             0                     0
+assessment_07_mc                                        0             0                     0
+assessment_08_content                                   0           294                     0
+assessment_08_mc                                        0             0                     0
+assessment_09_content                                   0           568                     0
+assessment_09_mc                                        0             0                     0
+dashed_line                                           257             0                     0
+runners_states_content                                  0             0                     0
+brannock_device_large_angled                            0             0                     0
+frame05_multiple_choice                                 0             0                     0
+frame06_final_assessment_intro                          0             0                     0
+frame07_final_assessment_submit                         0             0                     0
+frame08_final_assessment_results                        0             0                     0
+frame09_course_conclusion                               0             0                     0
+dyk_bubble_middle                                       0             0                     0
+dyk_bubble_top                                          0             0                     0
+dyk_bubble                                              0             0                     0
+dyk_close                                               0             0                     0
+dyk_close_button                                        0             0                     0
+dyk_icon                                                0             0                     0
+dyk_icon_button                                         0             0                     0
+dyk_pop_up                                              0             0                     0
+frame01_content                                         0             0                     0
+btn-yes                                                 0             0                     0
+btn-no                                                  0             0                     0
+frame01_content_txt                                     0             0                     0
+Frame01_mc                                              0             0                     0
+frame_02_slider                                         0             0                     0
+frame02_content                                         0             0                     0
+frame02_course_title                                    0             0                     0
+Frame02_mc                                              0             0                     0
+frame02_screenshot                                      0             0                     0
+frame03_content                                         0             0                     0
+Frame03_mc                                              0             0                     0
+arrow_bullet                                            0             0                     0
+arch_length_ball_joint_mc                               0             0                     0
+arch_measurement_magnified_mc                           0             0                     0
+bg_pop_up                                              58             0                     0
+brannock-illustration-flat                              0             0                     0
+brannock_arch_piece                                     0             0                     0
+brannock_piece_arch                                     0             0                     0
+brannock_piece_arch_outline                             0             0                     0
+brannock_piece_base                                     0             0                     0
+brannock_piece_width                                    0             0                     0
+brannock_piece_width_outline                            0             0                     0
+brannock_topDown                                        0             0                     0
+circle_blue                                            64             0                     0
+circle_blue_stroked                                     0             0                     0
+circle_blue_stroked_arw                                82             0                     0
+circle_foot_bunched                                  5633             0                     0
+diagram_withoutHeelToToe_mc                          1906             0                     0
+footHeel_mc                                             0             0                     0
+frame04_07_hitarea                                    166             0                     0
+frame4_07_hitarea2                                     70             0                     0
+frame04_06_hitarea                                    199             0                     0
+frame04_13_hitarea                                      0             0                     0
+heel_cup_hilite                                       107             0                     0
+hilight_arch_pointer_mc                                 0             0                     0
+hilight_arch_pointer_txt_mc                             0             0                     0
+hilight_left_heel_txt_mc                                0             0                     0
+hilight_right_heel_txt_mc                               0             0                     0
+hilight_width_bar_mc                                    0             0                     0
+hilight_width_bar_txt_mc                                0             0                     0
+legs                                                    0             0                     0
+move_arch_mc                                            0             0                     0
+pin_A_mc                                                0             0                     0
+pin_B_mc                                                0             0                     0
+pressToe_mc                                             0             0                     0
+txt_position_foot                                       0             0                     0
+txt_press_toe                                           0             0                     0
+txt_question_length                                     0             0                     0
+txt_use_brannock_arch                                   0             0                     0
+txt_use_brannock_arch_measure_mc                        0             0                     0
+txt_use_brannock_width                                  0             0                     0
+txt_use_width_bar                                       0             0                     0
+width_measurement_magnified_mc                          0             0                     0
+width_move_mc                                           0             0                     0
+frame04_01_content                                      0             0                     0
+Frame04_01_mc                                           0             0                     0
+frame04_02_content                                      0             0                     0
+Frame04_02_mc                                           0             0                     0
+frame04_03_content                                      0             0                     0
+Frame04_03_mc                                           0             0                     0
+frame04_04_content                                      0           360                     0
+btn_hitarea                                            34             0                     0
+Frame04_04_mc                                           0             0                     0
+frame04_05_content                                      0           360                     0
+Frame04_05_mc                                           0             0                     0
+frame04_06_content                                      0           360                     0
+Frame04_06_mc                                           0             0                     0
+frame04_07_content                                      0           360                     0
+Frame04_07_mc                                           0             0                     0
+frame04_08_content                                      0          1101                     0
+icon_learning_check                                     0             0                     0
+btn-check-answer                                        0             0                     0
+Frame04_08_mc                                           0             0                     0
+frame04_08a_content                                   159             0                     0
+foot_bottom3_gfx                                     9135             0                     0
+foot_bottom2_gfx                                    11279             0                     0
+Frame04_08a_mc                                          0             0                     0
+frame04_08b_content                                     0             0                     0
+Frame04_08b_mc                                          0             0                     0
+frame04_09_content                                      0             0                     0
+Frame04_09_mc                                           0             0                     0
+pin_blue                                               71             0                     0
+frame04_10_content                                      0           360                     0
+frame04_10_hitarea                                     42             0                     0
+Frame04_10_mc                                           0             0                     0
+frame04_11_content                                      0          1080                     0
+Frame04_11_mc                                           0             0                     0
+frame04_12_content                                      0             0                     0
+Frame04_12_mc                                           0             0                     0
+frame04_12a_content                                    56             0                     0
+Frame04_12a_mc                                          0             0                     0
+frame04_13_content                                      0           360                     0
+Frame04_13_mc                                           0             0                     0
+frame04_14_contenet                                     0          1087                     0
+Frame04_14_mc                                           0             0                     0
+frame04_15_content                                      0             0                     0
+Frame04_13_checkmark1                                   0             0                     0
+Frame04_13_checkmark2                                   0             0                     0
+Frame04_13_checkmark3                                   0             0                     0
+Frame04_13_checkmark4                                   0             0                     0
+Frame04_13_checkmark5                                   0             0                     0
+Frame04_13_checkmark6                                   0             0                     0
+frame04_15_how_do                                       0             0                     0
+Frame04_15_mc                                           0             0                     0
+1906                                                    0             0                     0
+1906-riley                                              0             0                     0
+1933                                                    0             0                     0
+1933_ad                                                 0             0                     0
+1933_brochure                                           0             0                     0
+1938                                                    0             0                     0
+frame04_milestone01                                   366             0                     0
+square_timeline                                        28             0                     0
+milestone_content_01                                    0             0                     0
+circle_stroke_fill                                      0             0                     0
+arrow_build                                             0             0                     0
+frame04_milestone02                                   366             0                     0
+milestone_content_02                                    0             0                     0
+btn_close_pop_up                                      144             0                     0
+bg_popUp                                               79             0                     0
+arrow                                                  37             0                     0
+btn_close_pop_up_short                                138             0                     0
+circle_13px                                           197             0                     0
+circle_simple                                         110             0                     0
+sm_screen_shot                                          0             0                     0
+timeline_hover_left                                     0             0                     0
+timeline_hover_right                                    0             0                     0
+mask_curly_innards                                    106             0                     0
+curly_bracket_mc                                      231             0                     0
+curly_brackets_hilight                                146             0                     0
+foot_flat_arch                                          0             0                     0
+foot_high_arch                                          0             0                     0
+foot_normal_arch                                        0             0                     0
+arch_btm_flat                                           0             0                     0
+arch_btm_high                                           0             0                     0
+arch_btm_normal                                         0             0                     0
+arch_imprint_flat                                    1598             0                     0
+arch_imprint_high                                    2028             0                     0
+arch_imprint_normal                                  1640             0                     0
+foot_bottom_gfx                                      9098             0                     0
+shdw_foot_bottom                                       99             0                     0
+hilight_arch_icon                                       0             0                     0
+outline_foot_mc                                         0             0                     0
+txt_flat_arch                                           0             0                     0
+txt_high_arch                                           0             0                     0
+txt_normal_arch                                         0             0                     0
+pop_up_bg_mc                                            0             0                     0
+pop_up_mc                                               0             0                     0
+popUp_arch_flat                                         0             0                     0
+txt_block_arch_flat                                     0             0                     0
+popUp_arch_high                                         0             0                     0
+txt_block_arch_high                                     0             0                     0
+popUp_arch_normal                                       0             0                     0
+txt_block_arch_normal                                   0             0                     0
+txt_block_knowledge_check_wet_test                      0             0                     0
+txt_block_match_foot_type                               0             0                     0
+txt_block_wet_test                                      0             0                     0
+arrow_pointer_mc                                       49             0                     0
+bg_popUp_correct                                      185             0                     0
+dotted_line_arch_width                                  0             0                     0
+popUp_Correct_incorrect_mc                              0           286                     0
+txt_high_arch_marker                                 3094             0                     0
+txt_low_arch_marker                                  2533             0                     0
+txt_normal_arch_marker                               3809             0                     0
+wet_test_bag_texture                                    0             0                     0
+wet_footprints_flat2                                    0             0                     0
+wet_footprints_high2                                    0             0                     0
+wet_footprints_normal1                                  0             0                     0
+wet_teset_outline_foot                                  0             0                     0
+wet_test_completed_high_arch                            0             0                     0
+wet_test_completed_low_arch                             0             0                     0
+wet_test_completed_normal_arch                          0             0                     0
+wet_test_foot_dip_mc                                    0             0                     0
+wet_test_foot_leg                                       0             0                     0
+wet_test_footprint                                      0             0                     0
+wet_test_items_mc                                       0             0                     0
+wet_test_pan_mc                                         0             0                     0
+frame05_01_content                                      0             0                     0
+Frame05_01_mc                                           0             0                     0
+frame05_02_content                                  22214             0                     0
+Frame05_02_mc                                           0             0                     0
+frame05_03_content                                      0             0                     0
+Frame05_03_mc                                           0             0                     0
+frame05_04_content                                      0             0                     0
+Frame05_04_mc                                           0             0                     0
+bullet_txt_determine_appropriate_fit                    0             0                     0
+bullet_txt_individulas_smooth_natural_gait              0             0                     0
+bullet_txt_understand_read_biomechanics                 0             0                     0
+div_lines_4up                                           0             0                     0
+div_lines_text                                          0             0                     0
+div_lines_updated                                       0             0                     0
+large_float                                             0             0                     0
+large_support                                           0             0                     0
+large_swing                                             0             0                     0
+running_cycle_LG                                        0             0                     0
+running_cycle_normal                                    0             0                     0
+txt_float                                               0             0                     0
+txt_support                                             0             0                     0
+txt_swing                                               0             0                     0
+dashed_line_200                                       170             0                     0
+Frame06_06_neutral_infowindow                           0             0                     0
+popUp_neutral                                           0             0                     0
+Frame06_06_overpronation_infowindow                     0             0                     0
+popUp_supination                                        0             0                     0
+Frame06_06_supination_infowindow                        0             0                     0
+popUp_pronation                                         0             0                     0
+frame06_knowledge_check                                 0             0                     0
+frame06_txt_knowledge_check                             0             0                     0
+kc_lightweight                                          0             0                     0
+kc_neutral                                              0             0                     0
+kc_stability                                            0             0                     0
+bg_popUp_overpronation                                  0             0                     0
+dot_red                                                 0             0                     0
+dotted_line_pronation                                 229             0                     0
+dotted_line_pronation_2                               232             0                     0
+illustration_pronation                                  0             0                     0
+leg_neutral                                             0             0                     0
+leg_pronation                                           0             0                     0
+leg_supintation                                         0             0                     0
+sole_tread_bottom                                    8965             0                     0
+circle_orange                                          69             0                     0
+pronation_intro_mc                                      0             0                     0
+txt_HowDoChoose                                         0             0                     0
+txt_neutral_pronation                                   0             0                     0
+txt_pronation                                           0             0                     0
+txt_supination                                          0             0                     0
+frame06_01_content                                      0             0                     0
+Frame06_01_mc                                           0             0                     0
+frame06_02_content                                      0             0                     0
+Frame06_02_mc                                           0             0                     0
+frame06_03_content                                      0             0                     0
+Frame06_03_mc                                           0             0                     0
+frame06_04_content                                      0             0                     0
+Frame06_04_mc                                           0             0                     0
+frame06_05_content                                      0             0                     0
+Frame06_05_mc                                           0             0                     0
+frame06_05b_content                                     0             0                     0
+Frame06_05b_mc                                          0             0                     0
+frame06_06_content                                      0             0                     0
+Frame06_06_mc                                           0             0                     0
+frame06_07_content                                      0           360                     0
+Frame06_07_mc                                           0             0                     0
+860_angled_mc                                           0             0                     0
+popUp_insole                                            0             0                     0
+popUp_upper                                             0             0                     0
+popUp_toe_box                                           0             0                     0
+popUp_midsole                                           0             0                     0
+gfx_860_angled_shoe                                     0             0                     0
+860_heel_mc                                             0             0                     0
+popUp_heel_counter                                      0             0                     0
+popUp_internal_shank                                    0             0                     0
+gfx_860_heel                                            0             0                     0
+860_outsole_mc                                          0             0                     0
+popUp_outsole                                           0             0                     0
+gfx_outsole                                             0             0                     0
+frame07_01_content_lines_text_mc                        0             0                     0
+fram07_txt_knowledge_check                              0             0                     0
+frame07_02_subnav                                       0             0                     0
+btn_triangle_subnav                                     0             0                     0
+bg-roundedBox                                          65             0                     0
+Frame07_04_Highligh2                                   94             0                     0
+Frame07_04_Highlight1                                 117             0                     0
+Frame07_04_Highlight3                                 146             0                     0
+popUp_mc_lightweight                                    0             0                     0
+popUp_mc_minimus                                        0             0                     0
+popUp_mc_motion_control                                 0             0                     0
+popUp_mc_neutral_cushioning                             0             0                     0
+popUp_mc_stability                                      0             0                     0
+popUp_shoe_construction_bg                              0             0                     0
+frame07_01_content                                      0             0                     0
+Frame07_01_mc                                           0             0                     0
+frame07_02_content                                      0             0                     0
+Frame07_02_mc                                           0             0                     0
+frame07_03_content                                      0             0                     0
+Frame07_03_mc                                           0             0                     0
+frame07_04_content                                      0           360                     0
+Frame07_04_mc                                           0             0                     0
+last                                                    0             0                     0
+last_labels_mc                                        412             0                     0
+popUp_lasting_board                                     0             0                     0
+popUp_lasting_combi                                     0             0                     0
+popUp_lasting_slip                                      0             0                     0
+popUp_lasting_strobel                                   0             0                     0
+popUp_lasts_ball                                        0             0                     0
+popUp_lasts_heel                                        0             0                     0
+popUp_lasts_instep                                      0             0                     0
+popUp_lasts_waist                                       0             0                     0
+txt_08_knowledge_check                                  0             0                     0
+frame08_01_content                                      0             0                     0
+Frame08_01_mc                                           0             0                     0
+frame08_01b_content                                     0             0                     0
+Frame08_01b_mc                                          0             0                     0
+frame08_02_content                                      0             0                     0
+Frame08_02_mc                                           0             0                     0
+frame08_03_content                                      0             0                     0
+Frame08_03_mc                                           0             0                     0
+frame08_04_content                                      0             0                     0
+Frame08_04_mc                                           0             0                     0
+frame08_05_content                                      0           360                     0
+Frame08_05_dragger1                                     0             0                     0
+Frame08_05_dragger2                                     0             0                     0
+Frame08_05_dragger3                                     0             0                     0
+Frame08_05_dragger4                                     0             0                     0
+Frame08_05_mc                                           0             0                     0
+frame09_01_content                                      0             0                     0
+Frame09_01_mc                                           0             0                     0
+directional_all_open                                    0             0                     0
+dottedLine_horiz1                                       0             0                     0
+<Path>                                                  0             0                     0
+btn-cctoggle                                            0             0                     0
+cc_container                                            0             0                     0
+closedcaptionWindow                                     0             0                     0
+nav_hit_area                                           38             0                     0
+triangle                                               64             0                     0
+bg-hover                                               63             0                     0
+btn-audio                                               0             0                     0
+btn-audio_off                                           0             0                     0
+btn-captions                                            0             0                     0
+btn-close-SAVE-EXIT                                   107             0                     0
+btn-feedback                                            0             0                     0
+btn-glossary                                            0             0                     0
+btn-help                                                0             0                     0
+btn-menu                                                0             0                     0
+btn-next                                                0             0                     0
+btn-play                                                0             0                     0
+btn-prevNext                                            0             0                     0
+btn-reference                                           0             0                     0
+btn_mediascrubber                                      68             0                     0
+btn_triangle                                            0             0                     0
+bg-roundedBox_flashing_mc                               0             0                     0
+bg-roundedBox_Orange                                   65             0                     0
+button_circle_art                                       0             0                     0
+Button_color                                            0             0                     0
+button_long_art                                       129             0                     0
+button_short_art                                      133             0                     0
+gfx-arw                                                39             0                     0
+icon-audio-speaker                                     98             0                     0
+main_navigation                                         0             0                     0
+logo-NB                                               234             0                     0
+btnicon_playpauseToggle_mc                             43             0                     0
+progressbar                                             0             0                     0
+background_navigation                                  66             0                     0
+mainmenuoutline_mc                                      0             0                     0
+btn_close_menu_popup_mc                                 0             0                     0
+legend_mainmenu                                         0             0                     0
+bg_top_btm                                             66             0                     0
+bg_bottom                                              38             0                     0
+scrollbar_nb                                            0             0                     0
+mainmenu_mask                                          39             0                     0
+blank_content_mc                                        0             0                     0
+bg_menu                                                39             0                     0
+bg_highlight_lesson                                     0             0                     0
+container_lesson                                        0             0                     0
+item_text                                               0             0                     0
+lesson_item                                             0             0                     0
+lesson_subitem_text                                     0             0                     0
+lesson_text                                             0             0                     0
+scrollbar_slider                                        0             0                     0
+background_navigation                                  66             0                     0
+gfx-bgGreyDarkEdges                                     0             0                     0
+bg-progressBar                                         85             0                     0
+progress-bar-color                                     51             0                     0
+mc-ToolTip                                              0             0                     0
+mc-bg-tooltTip                                         80             0                     0
+tooltip_next_mc                                        54             0                     0
+btn_checkanswer_wide                                    0           138                     0
+set_textbox_question                                    0           337                     0
+bullet                                                  0             0                     0
+set_textbox_finalassessmentintro                        0           375                     0
+set_image_lessonoverview                               79             0                     0
+btn-begin-final-assessment                              0             0                     0
+set_header_fulllength                                   0            72                     0
+set_textbox_finalassesssubmit                           0           423                     0
+reviewWindowSubmit                                      0             0                     0
+set_textbox_quizresults                                 0           203                     0
+finalresults_window                                   107             0                     0
+set_textbox_coursepass                                  0           421                     0
+set_textbox_coursefail                                  0           142                     0
+flag_marker                                            58             0                     0
+flag_marker_top                                         0             0                     0
+reviewWindowFinal                                       0             0                     0
+btnBegin                                                0           169                     0
+summaryQuestion                                         0           714                     0
+btnFlagged                                              0           122                     0
+btnReviewFinal                                          0           145                     0
+btnSubmit                                               0           118                     0
+btn-review-all-questions                                0             0                     0
+btn-review-flagged-questions                            0             0                     0
+btn-submit-assessment                                   0             0                     0
+set_textbox_quizmulti                                   0           190                     0
+btnshape_hitarea                                       34             0                     0
+fillme_box_dark                                        60             0                     0
+imagespace                                              0             0                     0
+videoMovie                                              0             0                     0
+arrowButton down                                        0             0                     0
+arrowButton up                                          0             0                     0
+ScrollBar complete test                                 0             0                     0
+scrollbar_background                                   37             0                     0
+scrollbar_thumb                                         0             0                     0
+scrollbar_thumb_mc                                      0             0                     0
+thumb_bottom                                            0             0                     0
+thumb_middle                                            0             0                     0
+thumb_top                                               0             0                     0
+track_large                                             0             0                     0
+video player                                            0             0                     0
+bottom nav                                              0             0                     0
+btn_video_play                                          0             0                     0
+btn_video_play_image                                    0             0                     0
+playpauseToggle                                        72             0                     0
+button_back_video_image                                71             0                     0
+btnshape_doublearrow                                    0             0                     0
+mediaplayer_progressbar                                56             0                     0
+mediaplayer_scrubline                                  56             0                     0
+sizeButtonLarge                                         0             0                     0
+sizeButtonSmall                                         0             0                     0
+toolbox_video_frame                                     0             0                     0
+trackBall                                             267             0                     0
+video_progress                                          0             0                     0
+video_progress image                                   61             0                     0
+btn_video_play_bubble                                   0            44                     0
+video_icon_arrow                                       30             0                     0
+video_talkbubble                                        0             0                     0
+video_player_imagescreens                             215             0                     0
+audio preloading animation                              0             0                     0
+blue-gradient                                          66             0                     0
+circle-vector                                         354             0                     0
+loading_animation_piece                                 0             0                     0
+audiopreloadWindow                                      0             0                     0
+background_panel                                       51             0                     0
+bookmark_panel                                          0           175                     0
+bookmarkWindow                                          0             0                     0
+bg_box_gradient                                        70             0                     0
+errorfield_mc                                           0             0                     0
+errorPanel                                              0             0                     0
+errorWindow                                             0             0                     0
+btn-exit                                                0             0                     0
+btn-retry                                               0             0                     0
+exit panel                                              0             0                     0
+exitWindow                                              0             0                     0
+btn-cancel                                              0             0                     0
+feedback panel                                          0             0                     0
+feedbackWindow                                          0             0                     0
+btn-close                                               0             0                     0
+glossaryDefinition                                      0             0                     0
+glossaryTerm                                            0             0                     0
+listofterms                                             0             0                     0
+glossary panel                                          0           247                     0
+glossaryWindow                                          0             0                     0
+btn_bookmarking                                         0             0                     0
+btn_index                                               0             0                     0
+btn_learning_check                                      0             0                     0
+btn_main_menu                                           0             0                     0
+btn_next                                                0             0                     0
+btn_previous                                            0             0                     0
+btn_quiz_questions                                      0             0                     0
+btn_using_this_course                                   0             0                     0
+help panel                                             44             0                     0
+help_content_1                                         44             0                     0
+help_content_2                                         72             0                     0
+help_content_3                                          0             0                     0
+help_content_4                                          0             0                     0
+help_content_5                                          0             0                     0
+helpWindow                                              0             0                     0
+txt_bookmarking                                         0             0                     0
+txt_learning_check                                      0             0                     0
+txt_quiz_questions                                      0             0                     0
+txt_main_menu                                           0             0                     0
+txt_using_this_course                                   0             0                     0
+screen_shot_navBar_chapter                              0             0                     0
+nav_help_panel                                          0             0                     0
+txt_index                                               0             0                     0
+txt_next                                                0             0                     0
+txt_previous                                            0             0                     0
+reference panel                                        44             0                     0
+reference_items                                         0             0                     0
+referenceWindow                                         0             0                     0
+bg-gradient-glow                                      104             0                     0
+btn_bg_blue                                            48             0                     0
+btn_bg_grey                                            48             0                     0
+btn_bg_grey_blue                                       48             0                     0
+btn-getStarted                                          0             0                     0
+btn-review-all                                          0             0                     0
+directional_all_connected                              65             0                     0
+triangle_rounded                                       75             0                     0
+directional_horizontal                                  0             0                     0
+junkme                                                  0             0                     0
+scrollbar_slider                                        0             0                     0
+supination_mc                                           0             0                     0
+fl.video.FLVPlayback dependency 1                      33             0                     0
+fl.video.FLVPlayback dependency 2                    1352             0                     0
+fl.video.FLVPlayback                                    0             0                     0
+fl.video.Icon                                           0             0                     0
+
+
+Tweened Shapes: 4974 bytes
+
+Font Name            Bytes         Characters
+-----------------    ----------    ----------
+Gotham-Light              25420     ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.0123456789!"#$%&'()*+,-/:;<=>?@[\]^_`{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Clarendon                 21642     ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.0123456789!"#$%&'()*+,-/:;<=>?@[\]^_`{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›™
+Gotham-Book               25640     ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.0123456789!"#$%&'()*+,-/:;<=>?@[\]^_`{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Calibri-Bold              84503     ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.0123456789!"#$%&'()*+,-/:;<=>?@[\]^_`{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™®
+Gotham-Bold               25819     ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.0123456789!"#$%&'()*+,-/:;<=>?@[\]^_`{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Calibri                   84777     ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.0123456789!"#$%&'()*+,-/:;<=>?@[\]^_`{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Calibri-Bold Bold         84225     ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.0123456789!"#$%&'()*+,-/:;<=>?@[\]^_`{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Calibri-Bold Bold         26628     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Gotham-Bold               38931     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+                           1218     acehknrsw
+Calibri                  179712     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~½ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Gotham-Book               39510     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Clarendon                 33861     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›™
+
+ActionScript Bytes    Location
+------------------    --------
+           1735176    Scene 1:Frame 1
+
+Bitmap                               Compressed    Original      Compression
+---------------------------------    ----------    ----------    -----------
+pdficon_large.gif                           292          1024    Lossless
+did_you_know_icon.png                      3666         10404    Lossless
+screen_shot_navChapter.jpg                 9096        122400    Imported JPEG=102
+circle_loader.png                          6652        640000    Lossless
+scrollbar_slider_19x21.png                  664          1596    Lossless
+fl.video.FLVPlayback dependency 3          1314                  foot-blender-HIGH.png                     74552        575276    Lossless
+pronation_leg_supination.png              80432        402984    Lossless
+pronation_leg_overpronation.png           86099        481104    Lossless
+foot-blender-FLAT.png                     69880        582320    Lossless
+foot-blender-NORMAL.png                   61118        522976    Lossless
+pronation_leg_neutral.png                 76861        451352    Lossless
+badge.png                                 11813        262056    JPEG Quality=80
+1933-brochure.png                         22047        479232    JPEG Quality=80
+1933-ad.png                               21039        253600    JPEG Quality=80
+bg-dot.png                                   58           432    Lossless
+chickens_v2.png                           11267        388800    JPEG Quality=80
+1906-riley.png                            25909        422280    JPEG Quality=80
+flag_marker_top.png                        2033          9752    Lossless
+runners_gait_all_v2.png                  396085       1658112    Lossless
+paper_bag_texture.png                    621817       1486800    Lossless
+wet_footprints_normal2.png                28206        561744    Lossless
+wet_footprints_high1.png                  19532        561744    Lossless
+wet_footprints_flat1.png                  24708        561744    Lossless
+above_brannock.png                       137554       2064480    JPEG Quality=80
+bg_question_shoe.png                      80230       1401660    JPEG Quality=80
+rsa_helping.png                           76418       1268424    JPEG Quality=80
+860_angled.png                            91809       1582416    JPEG Quality=80
+legs_standing.png                        448132       1190000    Lossless
+lastings_slip.png                         17523        378968    JPEG Quality=80
+lastings_strobel.png                      18392        378968    JPEG Quality=80
+lastings_combi.png                        20873        378968    JPEG Quality=80
+lastings_board.png                        24655        378968    JPEG Quality=80
+outsole_1080_pl1.png                      39275        491232    JPEG Quality=80
+outsole_860_pw1.png                       36410        491232    JPEG Quality=80
+outsole_993_sl-1.png                      35109        472752    JPEG Quality=80
+outsole_840_sl2.png                       38973        491232    JPEG Quality=80
+lasts_blue1.png                           27275       1083600    JPEG Quality=80
+lasts_3d.png                              36883        800000    JPEG Quality=80
+860_heel.png                              53460        847448    JPEG Quality=80
+860_outsole.png                           52327        679104    JPEG Quality=80
+motionControl_1123.png                    27339        437472    JPEG Quality=80
+stability_860.png                         30547        437472    JPEG Quality=80
+neutralCushioning_1080.png                33333        437472    JPEG Quality=80
+lightweight_1190.png                      26721        437472    JPEG Quality=80
+minimus.png                               25434        437472    JPEG Quality=80
+did_you_know_bubble_03.png                 9703        202648    Lossless
+did_you_know_bubble_01.png                15583        156844    Lossless
+did_you_know_bubble_02.png                  617         22208    Lossless
+did_you_know_close.png                     3169         10404    Lossless
+kc_neutral_cushioning_mr1080.png          12211        130536    JPEG Quality=80
+kc_stability_1140.png                     10519        130536    JPEG Quality=80
+kc_lightweight_890.png                    10732        130536    JPEG Quality=80
+runners_womensTeam.png                    83689       1535304    JPEG Quality=80
+runners_gait_LG.png                     1464719       6563700    Lossless
+swing_LG.png                             532973       2983500    Lossless
+float_LG.png                             184776       2556000    Lossless
+support_LG.png                           165994       1526940    Lossless
+runners_top_btm_v2.png                   145657       1243704    Lossless
+wet_footprints_high2.png                  25491        561744    Lossless
+wet_test_items.png                       390473       1676920    Lossless
+pan_water.png                             71729        269600    Lossless
+bent-leg.png                             187664       1215128    Lossless
+wet_test_foot_leg.png                    172465        851148    Lossless
+wet_test_footprint.png                    83932       1440000    Lossless
+chart_width_sizes.png                     36687       1356056    Lossless
+magnified-width_bar_v4.png               456544       1440000    Lossless
+icon_learning_check.png                    4572         15128    Lossless
+width_move_01.png                        661353       2053440    Lossless
+width_move_02.png                        651364       2053440    Lossless
+width_move_03.png                        652820       2053440    Lossless
+width_move_04.png                        648517       2053440    Lossless
+width_move_05.png                        644350       2053440    Lossless
+width_move_06.png                        642885       2053440    Lossless
+width_move_07.png                        632599       2053440    Lossless
+width_move_08.png                        636685       2053440    Lossless
+arch_toe_length.png                      148329       2368080    JPEG Quality=80
+measure_arch_length_08.png               913461       2424324    Lossless
+arch_pointer_magnified.png               219914        528804    Lossless
+measure_arch_length_01.png               941461       2424324    Lossless
+measure_arch_length_02.png               939890       2424324    Lossless
+measure_arch_length_03.png               927278       2424324    Lossless
+measure_arch_length_04.png               922661       2424324    Lossless
+measure_arch_length_05.png               921482       2424324    Lossless
+measure_arch_length_06.png               919530       2424324    Lossless
+measure_arch_length_07.png               915006       2424324    Lossless
+arch_pointer_above.png                   993483       2329440    Lossless
+Stipple Fine                                883         20736    JPEG Quality=80
+Diagonal Lines                              483         20736    JPEG Quality=80
+Diagonal Lines                              483         20736    JPEG Quality=80
+toe_press_closeUp.png                    691377       1849200    Lossless
+press_toe_1.png                          570080       1668108    Lossless
+press_toe_2.png                          566776       1668108    Lossless
+press_toe_3.png                          557764       1668108    Lossless
+press_toe_4.png                          548355       1668108    Lossless
+press_toe_5.png                          547966       1668108    Lossless
+press_toe_6.png                          545363       1668108    Lossless
+press_toe_7.png                          547048       1668108    Lossless
+press_toe_8.png                          548024       1668108    Lossless
+press_toe_9.png                          547776       1668108    Lossless
+press_toe_10.png                         548994       1668108    Lossless
+footHeel_01.png                          595297       1689120    Lossless
+footHeel_02.png                          572338       1689120    Lossless
+footHeel_03.png                          562525       1689120    Lossless
+footHeel_04.png                          548900       1689120    Lossless
+footHeel_05.png                          537258       1689120    Lossless
+footHeel_06.png                          541898       1689120    Lossless
+brannock_above_shdw2.png                 425533       1552680    Lossless
+width-piece.png                           35583        130548    Lossless
+arch_piece.png                            11090         24168    Lossless
+width-piece-outline.png                    7491        130548    Lossless
+arch_piece-outline.png                     3012         24168    Lossless
+feet_family.png                          112604        431040    Lossless
+NB-Fit-Brannock_03.png                   943394       2414720    Lossless
+maggie_uphill.png                        109888       2139000    JPEG Quality=80
+brannock_NB_angledTop.png                523788       2045768    Lossless
+bg-grey-dark-edges.png                    18740       2804160    JPEG Quality=80
+
+
+
+

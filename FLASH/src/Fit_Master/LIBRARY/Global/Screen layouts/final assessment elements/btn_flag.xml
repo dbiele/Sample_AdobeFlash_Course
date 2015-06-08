@@ -1,0 +1,269 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/final assessment elements/btn_flag" itemID="464884be-000001b1" sourceFlashFilepath="../../../../New Balance History 101/FLASH/src/History_101_Master/History_101_Master.xfl" sourceLibraryItemHRef="Global/Screen layouts/final assessment elements/btn_flag" sourceLastModified="1305300219" lastModified="1305300219" lastUniqueIdentifier="22" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="btn_flag">
+      <layers>
+        <DOMLayer name="marker" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="6" name="Over" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="6" name="Out" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="6" name="Down" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" name="Inactive" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="4" name="Flagged" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="action" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[/*this.onPress = function() {
+	this.gotoAndPlay("Flagged");
+};*/
+stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[/*this.onPress = function() {
+	this.gotoAndPlay(1);
+};*/
+stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="27" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hit area" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/btn_hitarea" name="hitarea_mc" centerPoint3DX="60" centerPoint3DY="10">
+                  <matrix>
+                    <Matrix a="5.99992370605469"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="button" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/flag_marker" centerPoint3DX="5.6" centerPoint3DY="9.8">
+                  <matrix>
+                    <Matrix ty="4.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.6" y="5.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/flag_marker" centerPoint3DX="5.6" centerPoint3DY="9.8">
+                  <matrix>
+                    <Matrix ty="4.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.6" y="5.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/flag_marker" selected="true" centerPoint3DX="5.6" centerPoint3DY="9.8">
+                  <matrix>
+                    <Matrix ty="4.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.6" y="5.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#45A8DB"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/flag_marker" centerPoint3DX="5.6" centerPoint3DY="9.8">
+                  <matrix>
+                    <Matrix ty="4.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.6" y="5.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/flag_marker" centerPoint3DX="5.6" centerPoint3DY="9.8">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="0.6" ty="4.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.55" y="5.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/flag_marker" centerPoint3DX="5.6" centerPoint3DY="9.8">
+                  <matrix>
+                    <Matrix ty="4.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.6" y="5.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="text" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="13" keyMode="9728">
+              <elements>
+                <DOMStaticText width="113.95" height="15.9" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.00051879882813" tx="17" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>FLAG FOR REVIEW</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-2" size="13" bitmapSize="260" face="Calibri" fillColor="#767676"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="5" keyMode="9728">
+              <elements>
+                <DOMStaticText width="113.95" height="15.9" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.949996948242188" d="0.949493408203125" tx="18.25" ty="2.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="56.95" y="7.95"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>FLAG FOR REVIEW</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-2" size="13" face="Calibri" fillColor="#767676"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="10" keyMode="9728">
+              <elements>
+                <DOMStaticText width="113.95" height="15.9" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.00051879882813" tx="17" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CLICK TO UNFLAG</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-2" size="13" face="Calibri" fillColor="#767676"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="flag" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/flag_marker_top" centerPoint3DX="11.5" centerPoint3DY="-466.5">
+                  <matrix>
+                    <Matrix tx="-15" ty="-489.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.5" y="23"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,295 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/buttons/btn-menu" itemID="4dbf057a-000001f2" lastModified="1306522613" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="btn-menu" currentFrame="41">
+      <layers>
+        <DOMLayer name="action" color="#FFFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="8" name="Over" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="5" name="Out" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="16" duration="8" name="Down" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="25" duration="17" name="Flashing" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" name="Inactive" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="labels" color="#FF4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="16" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="25" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("Flashing");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hit area" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="43" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/nav_hit_area" name="hitarea_mc" centerPoint3DX="28.95" centerPoint3DY="21.85">
+                  <matrix>
+                    <Matrix a="1.44625854492188" d="1.09249877929688"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMTLFText top="-40" left="-40" right="699" bottom="300">
+                  <matrix>
+                    <Matrix tx="12" ty="16"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="auto" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="false" antiAliasType="advanced" embedFonts="true"><TextFlow lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphStartIndent="0" textAlign="start" textIndent="0"><span baselineShift="0" color="#6b6b6b" fontFamily="Calibri" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="off" lineHeight="122.307692%" trackingRight="0%">MENU</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMTLFText top="-40" left="-40" right="699" bottom="300">
+                  <matrix>
+                    <Matrix tx="12" ty="16"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="auto" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="false" antiAliasType="advanced" embedFonts="true"><TextFlow lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphStartIndent="0" textAlign="start" textIndent="0" xmlns="http://ns.adobe.com/textLayout/2008"><span baselineShift="0" color="#6b6b6b" fontFamily="Calibri" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="off" lineHeight="122.307692%" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">MENU</span></p></TextFlow></tlfTextObject></markup>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMTLFText top="-40" left="-40" right="699" bottom="300">
+                  <matrix>
+                    <Matrix tx="12" ty="16"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="auto" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="false" antiAliasType="advanced" embedFonts="true"><TextFlow lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphStartIndent="0" textAlign="start" textIndent="0" xmlns="http://ns.adobe.com/textLayout/2008"><span baselineShift="0" color="#6b6b6b" fontFamily="Calibri" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="off" lineHeight="122.307692%" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">MENU</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="26" keyMode="9728">
+              <elements>
+                <DOMTLFText top="-40" left="-40" right="699" bottom="300">
+                  <matrix>
+                    <Matrix tx="12" ty="16"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="auto" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="false" antiAliasType="advanced" embedFonts="true"><TextFlow lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphStartIndent="0" textAlign="start" textIndent="0" xmlns="http://ns.adobe.com/textLayout/2008"><span baselineShift="0" color="#6b6b6b" fontFamily="Calibri" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="off" lineHeight="122.307692%" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">MENU</span></p></TextFlow></tlfTextObject></markup>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" keyMode="9728">
+              <elements>
+                <DOMTLFText top="-40" left="-40" right="699" bottom="300">
+                  <matrix>
+                    <Matrix tx="12" ty="16"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="auto" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="false" antiAliasType="advanced" embedFonts="true"><TextFlow lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphStartIndent="0" textAlign="start" textIndent="0" xmlns="http://ns.adobe.com/textLayout/2008"><span baselineShift="0" color="#6b6b6b" fontFamily="Calibri" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="off" lineHeight="122.307692%" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">MENU</span></p></TextFlow></tlfTextObject></markup>
+                  <color>
+                    <Color brightness="0.7"/>
+                  </color>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/bg-hover">
+                  <matrix>
+                    <Matrix a="0.782073974609375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/bg-hover" selected="true">
+                  <matrix>
+                    <Matrix a="0.782073974609375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/bg-hover" centerPoint3DX="28.9" centerPoint3DY="21.85">
+                  <matrix>
+                    <Matrix a="0.782073974609375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/bg-hover" selected="true" centerPoint3DX="28.9" centerPoint3DY="21.85">
+                  <matrix>
+                    <Matrix a="0.782073974609375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="30" blurY="30" color="#000000" inner="true" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/bg-hover" centerPoint3DX="28.9" centerPoint3DY="21.85">
+                  <matrix>
+                    <Matrix a="0.782073974609375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" color="#000000" inner="true" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/bg-hover" selected="true" centerPoint3DX="28.9" centerPoint3DY="21.85">
+                  <matrix>
+                    <Matrix a="0.782073974609375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="30" blurY="30" color="#000000" inner="true" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/bg-hover">
+                  <matrix>
+                    <Matrix a="0.782073974609375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.95" y="21.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" color="#000000" inner="true" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

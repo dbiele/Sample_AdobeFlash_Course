@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/Scrollbar/scrollbar elements/scrollbar_thumb" itemID="4dfb78d2-00000639" linkageExportForAS="true" linkageBaseClass="com.invision.client.views.ScrollBarThumbView" linkageClassName="scrollbar_thumb" lastModified="1308327526">
+  <timeline>
+    <DOMTimeline name="scrollbar_thumb">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Scrollbar/scrollbar elements/scrollbar_thumb_mc" name="thumb_mc" selected="true" centerPoint3DX="9.5" centerPoint3DY="10.5">
+                  <transformationPoint>
+                    <Point x="9.5" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,267 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/frame04_08_content" itemID="4e010f44-0000061b" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame04_08_Content" linkageClassName="frame04_08_content" lastModified="1313607023" lastUniqueIdentifier="9">
+  <timeline>
+    <DOMTimeline name="frame04_08_content" currentFrame="1">
+      <layers>
+        <DOMLayer name="labels" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="correct" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" name="incorrect" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="incorrect" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText width="237.15" height="22.35" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="607" ty="352"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>That's Incorrect.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="20" bitmapSize="400" face="_Claredon Regular*" fillColor="#990000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> Try Again.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="20" bitmapSize="400" face="_Claredon Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="correct" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText width="130.55" height="22.35" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="607" ty="352"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>That's Correct!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="20" bitmapSize="400" face="_Claredon Regular*" fillColor="#006600"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="27.45" width="152.3" height="17.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="768.35" ty="355.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Click next to continue</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" size="16" bitmapSize="320" face="_Claredon Regular*" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="question" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textbox" width="301" height="110" includeOutlines="true" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="663.95" ty="62"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Note the size marking closest to the longest toe, What is the length?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="24" bitmapSize="480" face="Clarendon" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="112.999998861635" distance="1" strength="0.25"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Custom Content/image_graphics/icon_learning_check" centerPoint3DX="627.5" centerPoint3DY="82.5">
+                  <matrix>
+                    <Matrix a="0.726150512695313" d="0.737701416015625" tx="605" ty="60"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31" y="30.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="answers" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/quiz elements/radio_button" name="radiobutton1_mc" centerPoint3DX="635" centerPoint3DY="186">
+                  <matrix>
+                    <Matrix tx="620" ty="171"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="textbox" width="288.9" height="29" antiAliasThickness="100" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="662" ty="177"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>8</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="_Gotham Book*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/quiz elements/radio_button" name="radiobutton2_mc" centerPoint3DX="635" centerPoint3DY="239">
+                  <matrix>
+                    <Matrix tx="620" ty="224"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="textbox" width="286.9" height="29.95" antiAliasThickness="100" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="662" ty="230"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>8 </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="_Gotham Book*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>½</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="_Calibri Regular*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/quiz elements/radio_button" name="radiobutton3_mc" centerPoint3DX="635" centerPoint3DY="294">
+                  <matrix>
+                    <Matrix tx="620" ty="279"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="textbox" width="286.9" height="35.95" antiAliasThickness="100" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="662" ty="285"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>9</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="_Gotham Book*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="checkanswer" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/btn-check-answer" name="btn_checkanswer" centerPoint3DX="695" centerPoint3DY="412.95">
+                  <matrix>
+                    <Matrix a="1.19999694824219" d="1.19999694824219" tx="605" ty="400.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="text" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" centerPoint3DX="788.5" centerPoint3DY="278.5">
+                  <matrix>
+                    <Matrix a="80.7804412841797" d="85.4194030761719" tx="586.55" ty="38.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" distance="0" quality="3" strength="0.5"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.1484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="image" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/toe_press_closeUp.png">
+                  <matrix>
+                    <Matrix tx="-30"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

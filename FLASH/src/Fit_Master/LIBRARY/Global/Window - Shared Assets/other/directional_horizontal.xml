@@ -1,0 +1,71 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Window - Shared Assets/other/directional_horizontal" itemID="4e53a5cf-00000b88" lastModified="1314104783">
+  <timeline>
+    <DOMTimeline name="directional_horizontal">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0.709803921568627"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1318 176S2[1439 258 1439 364!1439 364[1439 499 1240 595!1240 595[1040 691 758 691!758 691[476 691 274 595!274 595[77 499 77 364!77 364[77 258 198 176!198 176[231 152 274 132!274 132[476 37 758 37!758 37[1040 37 1240 132!1240 132[1283
+ 152 1318 176"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_blue" selected="true" centerPoint3DX="37.9" centerPoint3DY="18.1">
+                  <matrix>
+                    <Matrix a="2.40737915039063" d="1.15550231933594" tx="37.9" ty="18.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="50" blurY="50" color="#FFFFFF" distance="0" knockout="true" strength="0.8"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" selected="true" symbolType="graphic" centerPoint3DX="37.65" centerPoint3DY="18.2" loop="loop">
+                  <matrix>
+                    <Matrix a="0.356643676757813" d="4.62223815917969" tx="36.75" ty="6.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.65" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#CCCCCC"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/btn_triangle_subnav" selected="true" centerPoint3DX="53.7" centerPoint3DY="18.1">
+                  <matrix>
+                    <Matrix a="1.8055419921875" d="1.44442749023438" tx="46.5" ty="10.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4" y="4.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#999999"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/btn_triangle_subnav" selected="true" centerPoint3DX="21.2" centerPoint3DY="18.1">
+                  <matrix>
+                    <Matrix a="-1.8055419921875" d="1.44442749023438" tx="28.4" ty="10.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4" y="4.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#999999"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,118 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/timeline_assets/sm_screen_shot" itemID="4e53a5cc-00000a1f" lastModified="1314104780">
+  <timeline>
+    <DOMTimeline name="sm_screen_shot">
+      <layers>
+        <DOMLayer name="mask" color="#9933CC" locked="true" outline="true" useOutlineView="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="76.0196685791016" d="51.6597595214844"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="content" color="#4FFF4F" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#F8F8F8"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!7600 5166|0 5166!0 5166|0 0!0 0|7600 0!7600 0|7600 5166"/>
+                  </edges>
+                </DOMShape>
+                <DOMBitmapInstance libraryItemName="Custom Content/frame02/screenGrab.png">
+                  <matrix>
+                    <Matrix a="0.699996948242188" d="0.699996948242188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="380.95" y="259"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Custom Content/frame02/screenGrab.png">
+                  <matrix>
+                    <Matrix a="0.699996948242188" d="0.699996948242188"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/past/frame04_milestone01" symbolType="graphic" firstFrame="29" centerPoint3DX="86.9" centerPoint3DY="116.6" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.384994506835938" d="0.384994506835938" tx="-0.7" ty="-3.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="94.55" y="370.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/past/frame04_milestone02" symbolType="graphic" firstFrame="29" centerPoint3DX="275.45" centerPoint3DY="137.15" loop="loop">
+                  <matrix>
+                    <Matrix a="0.384994506835938" d="0.384994506835938" tx="136.5" ty="-3.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="94.55" y="370.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/arrow_build" centerPoint3DX="368.85" centerPoint3DY="138.95">
+                  <matrix>
+                    <Matrix a="0.384994506835938" d="0.384994506835938" tx="365.5" ty="136.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_stroke_fill" name="statusindicator_mc" centerPoint3DX="349.25" centerPoint3DY="138.2">
+                  <matrix>
+                    <Matrix a="0.38702392578125" d="0.359909057617188" tx="337.85" ty="127.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.45" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/past/1938" centerPoint3DX="2756.85" centerPoint3DY="-2962.75">
+                  <matrix>
+                    <Matrix a="0.384994506835938" d="0.384994506835938" tx="330" ty="90.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.15" y="125.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/timeline_hover_left" centerPoint3DX="14" centerPoint3DY="121.95">
+                  <matrix>
+                    <Matrix a="0.379989624023438" d="0.379989624023438" tx="0.7" ty="22.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35" y="262.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/timeline_hover_right" centerPoint3DX="367" centerPoint3DY="121.95">
+                  <matrix>
+                    <Matrix a="0.379989624023438" d="0.379989624023438" tx="353.9" ty="22.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.45" y="262.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,65 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/assessment/frame06_final_assessment_intro" itemID="4e53a5cb-00000996" lastModified="1314104779">
+  <timeline>
+    <DOMTimeline name="frame06_final_assessment_intro">
+      <layers>
+        <DOMLayer name="25_Final Assessment Introduction" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMComponentInstance libraryItemName="25_Final Assessment Introduction" centerPoint3DX="529.95" centerPoint3DY="357.3" uniqueID="10">
+                  <matrix>
+                    <Matrix tx="40" ty="40"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="604.95" y="317.3"/>
+                  </transformationPoint>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath=''>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="componentCaptionsFrame">
+      <Inspectable name="Captions Frame" variable="componentCaptionsFrame" category="" verbose="0" defaultValue="132" type="Number"/>
+   </property>
+   <property id="componentFrame">
+      <Inspectable name="Component Window Frame" variable="componentFrame" category="" verbose="0" defaultValue="22" type="Number"/>
+   </property>
+   <property id="componentHelpFrame">
+      <Inspectable name="Help Frame" variable="componentHelpFrame" category="" verbose="0" defaultValue="22" type="Number"/>
+   </property>
+   <property id="componentImagesFrame">
+      <Inspectable name="Images Frame" variable="componentImagesFrame" category="" verbose="0" defaultValue="331" type="Number"/>
+   </property>
+   <property id="componentMenuFrame">
+      <Inspectable name="Menu Frame" variable="componentMenuFrame" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="componentSceneType">
+      <Inspectable name="scene type" variable="componentSceneType" category="" verbose="0" defaultValue="22_finalassesintro" type="String"/>
+   </property>
+   <property id="componentTextFrame">
+      <Inspectable name="Text Frame" variable="componentTextFrame" category="" verbose="0" defaultValue="330" type="Number"/>
+   </property>
+   <property id="componentXMLUIFrame">
+      <Inspectable name="XMLUI Frame" variable="componentXMLUIFrame" category="" verbose="0" defaultValue="330" type="Number"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BG WHITE BOX" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/bg_question_shoe.png">
+                  <matrix>
+                    <Matrix tx="417" ty="105"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

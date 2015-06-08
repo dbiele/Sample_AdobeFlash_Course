@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/buttons/button elements/button_short_art" itemID="4857dfe6-00001229" lastModified="1228938356">
+  <timeline>
+    <DOMTimeline name="button_short_art">
+      <layers>
+        <DOMLayer name="shine" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.096435546875" d="0.019317626953125" tx="60" ty="4"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.450980392156863" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2370 163S2[1925 #F8.48 1199 250!1199 250[473 #FB.B8 30 163!30 163/30 108!30 108[30 30 108 30!108 30/2292 30!2292 30[2370 30 2370 108!2370 108/2370 163"/>
+                    <Edge cubics="!2370 108(;2370,108 2370,163 2370,163q2370 108 2370 163);"/>
+                    <Edge cubics="!2292 30(;2344,30 2370,56 2370,108q2292 30Q2370 30q2370 108);"/>
+                    <Edge cubics="!30 163(;30,163 30,108 30,108q30 163 30 108);"/>
+                    <Edge cubics="!30 108(;30,56 56,30 108,30q30 108Q30 30q108 30);"/>
+                    <Edge cubics="!2370 163(;1800,220 640,230 30,163q2370 163Q1925 208q1215 210Q473 212q30 163);"/>
+                    <Edge cubics="!108 30(;108,30 2292,30 2292,30q108 30 2292 30);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="back" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.018310546875" c="0.0213623046875" d="0" tx="91.05" ty="15"/>
+                        </matrix>
+                        <GradientEntry color="#345265" ratio="0"/>
+                        <GradientEntry color="#7796A2" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!2400 108S1[2400 0 2292 0!2292 0/108 0!108 0[0 0 0 108!0 108/0 491!0 491[0 545 28 573!28 573[54 600 108 600!108 600/2292 600!2292 600[2346 600 2373 573!2373 573[2400 545 2400 491!2400 491/2400 108"/>
+                    <Edge cubics="!0 108(;0,36 36,0 108,0q0 108Q0 0q108 0);"/>
+                    <Edge cubics="!2292 0(;2364,0 2400,36 2400,108q2292 0Q2400 0q2400 108);"/>
+                    <Edge cubics="!2292 0(;2292,0 108,0 108,0q2292 0 108 0);"/>
+                    <Edge cubics="!108 600(;72,600 45,591 28,573q108 600Q54 600q28 573);"/>
+                    <Edge cubics="!28 573(;9,554 0,527 0,491q28 573Q0 545q0 491);"/>
+                    <Edge cubics="!2400 491(;2400,527 2391,554 2373,573q2400 491Q2400 545q2373 573);"/>
+                    <Edge cubics="!2373 573(;2355,591 2328,600 2292,600q2373 573Q2346 600q2292 600);"/>
+                    <Edge cubics="!2292 600(;2292,600 108,600 108,600q2292 600 108 600);"/>
+                    <Edge cubics="!0 491(;0,491 0,108 0,108q0 491 0 108);"/>
+                    <Edge cubics="!2400 491(;2400,491 2400,108 2400,108q2400 491 2400 108);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

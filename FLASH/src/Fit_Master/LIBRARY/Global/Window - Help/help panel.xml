@@ -1,0 +1,320 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Window - Help/help panel" itemID="4dc2db72-000076f8" lastModified="1313085339" lastUniqueIdentifier="49">
+  <timeline>
+    <DOMTimeline name="help panel" currentFrame="1">
+      <layers>
+        <DOMLayer name="labels" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" name="using_course" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="6" name="main_menu" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" name="bookmarking" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" name="quiz_questions" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" name="learning_check" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="sub navigation" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/btn_bookmarking" name="bookmarking_btn" centerPoint3DX="79.95" centerPoint3DY="150">
+                  <matrix>
+                    <Matrix tx="30" ty="139.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.95" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/btn_learning_check" name="learningcheck_btn" centerPoint3DX="79.95" centerPoint3DY="209.5">
+                  <matrix>
+                    <Matrix tx="30" ty="199"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.95" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/btn_quiz_questions" name="quiz_btn" centerPoint3DX="79.95" centerPoint3DY="179.75">
+                  <matrix>
+                    <Matrix tx="30" ty="169.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.95" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/btn_main_menu" name="mainmenu_btn" centerPoint3DX="79.95" centerPoint3DY="120.25">
+                  <matrix>
+                    <Matrix tx="30" ty="109.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.95" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/btn_using_this_course" name="usingcourse_btn" centerPoint3DX="79.95" centerPoint3DY="90">
+                  <matrix>
+                    <Matrix tx="30" ty="79.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.95" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="sub nav hilite" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" centerPoint3DX="90" centerPoint3DY="90">
+                  <matrix>
+                    <Matrix a="27.9994506835938" d="5.99998474121094" tx="20" ty="75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="10" blurY="10" distance="0" quality="3" strength="0.15"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" centerPoint3DX="90" centerPoint3DY="120">
+                  <matrix>
+                    <Matrix a="27.9994506835938" d="5.99998474121094" tx="20" ty="105"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="10" blurY="10" distance="0" quality="3" strength="0.15"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" centerPoint3DX="90" centerPoint3DY="150">
+                  <matrix>
+                    <Matrix a="27.9994506835938" d="5.99998474121094" tx="20" ty="135"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="10" blurY="10" distance="0" quality="3" strength="0.15"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" centerPoint3DX="90" centerPoint3DY="180">
+                  <matrix>
+                    <Matrix a="27.9994506835938" d="5.99998474121094" tx="20" ty="165"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="10" blurY="10" distance="0" quality="3" strength="0.15"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" centerPoint3DX="90" centerPoint3DY="210">
+                  <matrix>
+                    <Matrix a="27.9994506835938" d="5.99998474121094" tx="20" ty="195"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="10" blurY="10" distance="0" quality="3" strength="0.15"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="title" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!420 1279/12987 1279"/>
+                    <Edge cubics="!420 1279(;420,1279 12987,1279 12987,1279q420 1279 12987 1279);"/>
+                  </edges>
+                </DOMShape>
+                <DOMTLFText right="8952" bottom="360">
+                  <matrix>
+                    <Matrix tx="20" ty="20"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#000000" fontFamily="_Gotham Bold*" fontSize="15" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">Course Help Window</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMTLFText right="9560" bottom="380">
+                  <matrix>
+                    <Matrix tx="20" ty="40"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#000000" fontFamily="_Calibri Regular*" fontSize="15" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">Select an option from the list or click the close button to return to the course.</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="course text" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/help_content_1" name="content1" centerPoint3DX="422.45" centerPoint3DY="301">
+                  <matrix>
+                    <Matrix tx="180" ty="80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="259.1" y="445.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/help_content_2" name="content2" centerPoint3DX="419" centerPoint3DY="281.4">
+                  <matrix>
+                    <Matrix tx="180" ty="80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="239" y="209.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/help_content_3" name="content3" selected="true" centerPoint3DX="419" centerPoint3DY="121">
+                  <matrix>
+                    <Matrix tx="180" ty="80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="239" y="41"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/help_content_4" name="content4" centerPoint3DX="419" centerPoint3DY="126.5">
+                  <matrix>
+                    <Matrix tx="180" ty="80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="239" y="46.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Help/help_content_5" name="content5" centerPoint3DX="419" centerPoint3DY="119.5">
+                  <matrix>
+                    <Matrix tx="180" ty="80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="239" y="39.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="close button" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/btn-close" name="btnClose" centerPoint3DX="96.5" centerPoint3DY="256.05">
+                  <matrix>
+                    <Matrix tx="30" ty="234.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.75" y="21.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Error/bg_box_gradient" name="background_mc" centerPoint3DX="254.65" centerPoint3DY="140">
+                  <matrix>
+                    <Matrix a="1.89559936523438" d="3.494384765625"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="182" y="74.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

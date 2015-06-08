@@ -1,0 +1,80 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/28 Final Assessment Results" itemID="493805bd-00004a3e" sourceFlashFilepath="../../../../New Balance History 101/FLASH/src/History_101_Master/History_101_Master.xfl" sourceLibraryItemHRef="Global/Screen layouts/28 Final Assessment Results" sourceLastModified="1313179694" lastModified="1313179694" lastUniqueIdentifier="6" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="28 Final Assessment Results">
+      <layers>
+        <DOMLayer name="actions" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="results text_mc" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/screen layout elements/set_textbox_quizresults" name="results_mc" centerPoint3DX="415" centerPoint3DY="70">
+                  <matrix>
+                    <Matrix a="1.00006103515625" tx="40" ty="40"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="425.05" y="44.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="scrollbar" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMComponentInstance libraryItemName="Global/Screen layouts/Scrollbar/scrollbar elements/scrollbar_nb" name="mScrollbar" centerPoint3DX="987.4" centerPoint3DY="341.5" uniqueID="6">
+                  <matrix>
+                    <Matrix a="0.927993774414063" d="0.929290771484375" tx="975.8" ty="111.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.5" y="247.5"/>
+                  </transformationPoint>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath=''>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="component_maxheight">
+      <Inspectable name="MaxHeight" variable="component_maxheight" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="component_mcname">
+      <Inspectable name="Scroll Name MC" variable="component_mcname" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="placeholder" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="results window background" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/final assessment submit elements/finalresults_window" centerPoint3DX="405" centerPoint3DY="305">
+                  <matrix>
+                    <Matrix tx="40" ty="110"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Window - Feedback/feedbackWindow" itemID="4dc43c91-00002777" linkageExportForAS="true" linkageBaseClass="com.invision.client.components.FeedbackWindow" linkageClassName="feedbackWindow" lastModified="1305649876" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="feedbackWindow">
+      <layers>
+        <DOMLayer name="window" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Feedback/feedback panel" name="feedback_panel" selected="true" centerPoint3DX="508" centerPoint3DY="217.95">
+                  <matrix>
+                    <Matrix tx="316" ty="140"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="192" y="77.95"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="10" blurY="10" distance="2" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Bookmark/background_panel" name="background_mc" centerPoint3DX="518.15" centerPoint3DY="345">
+                  <matrix>
+                    <Matrix a="101.60107421875" d="69.0006713867188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

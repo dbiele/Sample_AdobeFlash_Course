@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/buttons/button elements/gfx-arw" itemID="4dbee731-000001c0" symbolType="graphic" lastModified="1304356657">
+  <timeline>
+    <DOMTimeline name="gfx-arw">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-3.5" ty="-4.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!250 152|331 152!331 152|331 248!331 248|250 248!250 248|250 304!250 304|70 200!70 200|250 96!250 96|250 152"/>
+                    <Edge cubics="!250 96(250,96;250,96 250,152 250,152q250 96 250 152)250,152;"/>
+                    <Edge cubics="!70 200(70,200;70,200 250,96 250,96q70 200 250 96);"/>
+                    <Edge cubics="!250 304(250,304;250,304 70,200 70,200q250 304 70 200);"/>
+                    <Edge cubics="!250 248(250,248;250,248 250,304 250,304q250 248 250 304)250,304;"/>
+                    <Edge cubics="!331 248(331,248;331,248 250,248 250,248q331 248 250 248);"/>
+                    <Edge cubics="!331 152(;331,152 331,248 331,248q331 152 331 248);"/>
+                    <Edge cubics="!250 152(;250,152 331,152 331,152q250 152 331 152);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

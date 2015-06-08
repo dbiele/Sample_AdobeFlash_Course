@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/assets/circle_blue" itemID="4e08f53d-000005ad" lastModified="1309209917">
+  <timeline>
+    <DOMTimeline name="circle_blue">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#45A8DB"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!222 -223[315 -130 315 0!315 0[315 130 222 222!222 222[130 315 0 315!0 315[-130 315 -223 222!-223 222[-315 130 -315 0!-315 0[-315 -130 -223 -223!-223 -223[-130 -315 0 -315!0 -315[130 -315 222 -223"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

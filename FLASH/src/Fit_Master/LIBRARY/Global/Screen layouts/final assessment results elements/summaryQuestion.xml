@@ -1,0 +1,89 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/final assessment results elements/summaryQuestion" itemID="4554f0dc-00004a76" linkageExportForAS="true" linkageBaseClass="com.invision.client.components.SummaryQuestion" linkageClassName="summaryQuestion" sourceFlashFilepath="../../../../New Balance History 101/FLASH/src/History_101_Master/History_101_Master.xfl" sourceLibraryItemHRef="Global/Screen layouts/final assessment results elements/summaryQuestion" sourceLastModified="1308319696" lastModified="1308319696" lastUniqueIdentifier="4" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="summaryQuestion">
+      <layers>
+        <DOMLayer name="actions" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icon1" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icon2" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="textfields" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="c1" selected="true" width="862" height="18.6" includeOutlines="true" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix a="0.99993896484375" tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Question Number(Correct/Incorrect)</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="_Gotham Bold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="c3" width="825.75" height="18.55" includeOutlines="true" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.99993896484375" d="1.00224304199219" tx="38" ty="52"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Correct Answer</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="_Calibri Regular*" fillColor="#009900"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="c2" width="861.75" height="18.6" includeOutlines="true" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.99993896484375" tx="2" ty="22"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Question Text</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="_Calibri Regular*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="c4" width="825.6" height="18.55" includeOutlines="true" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.0001220703125" d="1.00224304199219" tx="38" ty="72"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Your Answer  </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="14" bitmapSize="280" face="_Calibri Regular*" fillColor="#990000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

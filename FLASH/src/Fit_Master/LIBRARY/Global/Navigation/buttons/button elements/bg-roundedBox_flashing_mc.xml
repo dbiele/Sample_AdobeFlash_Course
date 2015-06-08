@@ -1,0 +1,69 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/buttons/button elements/bg-roundedBox_flashing_mc" itemID="4dfb4c87-000003ec" lastModified="1308315639" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="bg-roundedBox_flashing_mc" currentFrame="15">
+      <layers>
+        <DOMLayer name="orange sq" color="#9933CC" locked="true" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="30" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="30000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.5" xformPtYOffsetPct="0.5" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="14000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="24000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="14000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="24000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="14000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="24000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="14000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="24000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="14000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="24000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="14000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="24000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="14000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="24000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="29000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"><PropertyContainer id="Glow_Filter"><Property enabled="1" id="Glow_BlurX" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,5" next="0,5" previous="0,5" roving="0" timevalue="0"/><Keyframe anchor="0,5" next="0,5" previous="0,5" roving="0" timevalue="14000"/><Keyframe anchor="0,5" next="0,5" previous="0,5" roving="0" timevalue="24000"/><Keyframe anchor="0,5" next="0,5" previous="0,5" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Glow_BlurY" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,5" next="0,5" previous="0,5" roving="0" timevalue="0"/><Keyframe anchor="0,5" next="0,5" previous="0,5" roving="0" timevalue="14000"/><Keyframe anchor="0,5" next="0,5" previous="0,5" roving="0" timevalue="24000"/><Keyframe anchor="0,5" next="0,5" previous="0,5" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Glow_Strength" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="14000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="24000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Glow_Quality" readonly="0" value="3" visible="1"/><Property enabled="1" id="Glow_Color" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe roving="0" timevalue="0" value="0xff3300ff"/><Keyframe roving="0" timevalue="14000" value="0xff3300ff"/><Keyframe roving="0" timevalue="24000" value="0xff3300ff"/><Keyframe roving="0" timevalue="29000" value="0xff3300ff"/></Property><Property enabled="1" id="Glow_Knockout" readonly="0" value="0" visible="1"/><Property enabled="1" id="Glow_InnerGlow" readonly="0" value="1" visible="1"/></PropertyContainer><PropertyContainer id="AdjustColor_Filter"><Property enabled="1" id="AdjColor_Brightness" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="24000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property><Property enabled="1" id="AdjColor_Contrast" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,33" next="0,33" previous="0,33" roving="0" timevalue="14000"/><Keyframe anchor="0,33" next="0,33" previous="0,33" roving="0" timevalue="24000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property><Property enabled="1" id="AdjColor_Saturation" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="24000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property><Property enabled="1" id="AdjColor_Hue" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,20" next="0,20" previous="0,20" roving="0" timevalue="14000"/><Keyframe anchor="0,20" next="0,20" previous="0,20" roving="0" timevalue="24000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property></PropertyContainer></PropertyContainer></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/bg-roundedBox_Orange">
+                  <matrix>
+                    <Matrix tx="-10" ty="-10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#FF3300" inner="true" quality="3"/>
+                    <AdjustColorFilter/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="orange sq faded bg" color="#4FFF4F" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="29" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/bg-roundedBox">
+                  <matrix>
+                    <Matrix tx="-10" ty="-10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" color="#333333" inner="true" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF6600"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/bg-roundedBox">
+                  <matrix>
+                    <Matrix a="1.49998474121094" d="1.5" tx="-15" ty="-15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" color="#333333" inner="true" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="255" greenOffset="102"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

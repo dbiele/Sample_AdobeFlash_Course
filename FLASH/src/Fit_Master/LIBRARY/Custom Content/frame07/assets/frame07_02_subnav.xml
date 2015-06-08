@@ -1,0 +1,73 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame07/assets/frame07_02_subnav" itemID="4e0a8d64-000004f1" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame07_02_SubNav" linkageClassName="frame07_02_subnav" lastModified="1311112263" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="frame07_02_subnav">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/btn_triangle_subnav" name="btn_left" selected="true" centerPoint3DX="12.3" centerPoint3DY="9.95">
+                  <matrix>
+                    <Matrix a="-0.999267578125" d="0.999954223632813" tx="15.8" ty="5.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.5" y="4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/btn_triangle_subnav" name="btn_right" centerPoint3DX="32.3" centerPoint3DY="10.95">
+                  <matrix>
+                    <Matrix tx="28.3" ty="5.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/bg-roundedBox" centerPoint3DX="20" centerPoint3DY="11.95">
+                  <matrix>
+                    <Matrix a="2.20671081542969" d="1.09774780273438"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.05" y="10.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.49"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/bg-roundedBox" centerPoint3DX="22.05" centerPoint3DY="10.95">
+                  <matrix>
+                    <Matrix a="2.09353637695313" tx="1.15" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#E8E8E8"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="3.00003051757813" tx="21.55" ty="3.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#BDBDBD"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

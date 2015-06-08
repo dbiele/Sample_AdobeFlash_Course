@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/buttons/button elements/Button_color" itemID="4e53a5cf-00000af0" lastModified="1314104783">
+  <timeline>
+    <DOMTimeline name="Button_color">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.0244140625" c="-0.0244140625" d="0" tx="20" ty="20"/>
+                        </matrix>
+                        <GradientEntry color="#A6AED0" ratio="0"/>
+                        <GradientEntry color="#5657CB" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!800 -0.5|800 799.5!800 799.5|0 799.5!0 799.5|0 -0.5!0 -0.5|800 -0.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

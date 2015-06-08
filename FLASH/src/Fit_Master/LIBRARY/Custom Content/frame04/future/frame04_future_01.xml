@@ -1,0 +1,91 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/future/frame04_future_01" itemID="4dd26b97-00000285" lastModified="1305566953">
+  <timeline>
+    <DOMTimeline name="frame04_future_01" currentFrame="28">
+      <layers>
+        <DOMLayer name="labels" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="28" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="28" name="normal" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#FF4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="27" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="27" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="text area" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="28" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements>
+                <DOMTLFText name="" top="483" right="12099" bottom="3740">
+                  <matrix>
+                    <Matrix tx="142" ty="212"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Gotham" psName="Gotham-Book"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="inherit" locale="en_US" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="Gotham" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">In this course, we’ve learned that New Balance has a rich history as a leading manufacturer of technologically innovative width-sized footwear and athletic apparel for consumers around the globe.  You have learned about our commitment to manufacturing in the USA, as well as our commitment to supporting charitable organizations such as the Susan G. Komen for the Cure organization.</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="Gotham" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">The hard work of our associates, and the commitment of sales associates to represent the brand best at retail, is what makes it all possible. New Balance will continue to grow with the consumer in mind, delivering unmatched product, service and </span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#0b0b0b" fontFamily="Gotham" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">We look forward to a great future with you!</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt-h2" color="#808080" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" duration="21" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="21000"><TimeMap strength="99" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.184007" xformPtYOffsetPct="2.31667" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="4000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="8000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="20000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0.05" next="0,0.05" previous="0,0.05" roving="0" timevalue="4000"/><Keyframe anchor="0,0.05" next="0,0.05" previous="0,0.05" roving="0" timevalue="8000"/><Keyframe anchor="0,0.05" next="0,0.05" previous="0,0.05" roving="0" timevalue="9000"/><Keyframe anchor="0,0.05" next="0,0.05" previous="0,0.05" roving="0" timevalue="20000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="4000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="8000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="20000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="4000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="8000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="20000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="4000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="8000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="20000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,110" next="0,110" previous="0,110" roving="0" timevalue="4000"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="8000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="9000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="20000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,110" next="0,110" previous="0,110" roving="0" timevalue="4000"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="8000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="9000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="20000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/future/txt_summary_h2" name="" centerPoint3DX="262.5" centerPoint3DY="179.45">
+                  <matrix>
+                    <Matrix a="0.0099945068359375" d="0.0099945068359375" tx="199.5" ty="258.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.05" y="125.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="circle" color="#4FFFFF" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="29" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="29000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.500847" xformPtYOffsetPct="0.508475" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="28000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="28000"/></Property><Property TimeMapIndex="0" enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="28000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="28000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="28000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,9.99908" next="0,9.99908" previous="0,9.99908" roving="0" timevalue="0"/><Keyframe anchor="0,110" next="0,110" previous="0,110" roving="0" timevalue="7000"/><Keyframe anchor="0,100.528" next="0,100.528" previous="0,100.528" roving="0" timevalue="12000"/><Keyframe anchor="0,100.528" next="0,100.528" previous="0,100.528" roving="0" timevalue="28000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,10" next="0,10" previous="0,10" roving="0" timevalue="0"/><Keyframe anchor="0,110" next="0,110" previous="0,110" roving="0" timevalue="7000"/><Keyframe anchor="0,93.487" next="0,93.487" previous="0,93.487" roving="0" timevalue="12000"/><Keyframe anchor="0,93.487" next="0,93.487" previous="0,93.487" roving="0" timevalue="28000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle" name="" centerPoint3DX="95" centerPoint3DY="160">
+                  <matrix>
+                    <Matrix a="0.0999755859375" d="0.0999908447265625" tx="92.05" ty="157"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.55" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

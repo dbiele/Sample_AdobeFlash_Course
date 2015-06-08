@@ -1,0 +1,163 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/assessment/assessment_07_content" itemID="4e4d6a54-000004f5" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame_Assessment_07" linkageClassName="assessment_07_content" lastModified="1314107881" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="assessment_07_content">
+      <layers>
+        <DOMLayer name="hit areas" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="hitarea1_mc" centerPoint3DX="35" centerPoint3DY="126">
+                  <matrix>
+                    <Matrix a="14.0999908447266" d="38.0999908447266" tx="30" ty="121"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="hitarea2_mc" centerPoint3DX="178" centerPoint3DY="126">
+                  <matrix>
+                    <Matrix a="34.7756500244141" d="38.0999908447266" tx="173" ty="121"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="hitarea3_mc" centerPoint3DX="555" centerPoint3DY="126">
+                  <matrix>
+                    <Matrix a="24.6044158935547" d="38.0999908447266" tx="550" ty="121"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="highlight float" color="#808080" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/assessment/assets/runners_float_mc" name="highlight3_mc" centerPoint3DX="473" centerPoint3DY="314">
+                  <matrix>
+                    <Matrix tx="-35" ty="110"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="508" y="204"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="highlight swing" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/assessment/assets/runners_swing_mc" name="highlight2_mc" centerPoint3DX="473" centerPoint3DY="314">
+                  <matrix>
+                    <Matrix tx="-35" ty="110"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="508" y="204"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="highlight support" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/assessment/assets/runners_support_mc" name="highlight1_mc" selected="true" centerPoint3DX="473" centerPoint3DY="314">
+                  <matrix>
+                    <Matrix tx="-35" ty="110"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="508" y="204"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="runners state" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/assessment/assets/runners_states_mc" name="runner_states_mc" centerPoint3DX="473" centerPoint3DY="314">
+                  <matrix>
+                    <Matrix tx="-35" ty="110"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="508" y="204"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="text" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" centerPoint3DX="287.5" centerPoint3DY="295">
+                  <matrix>
+                    <Matrix a="197.5107421875" d="94.0042419433594" tx="-5" ty="60"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.6" y="2.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" distance="0" strength="0.75"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.1015625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="textbox" width="883.8" height="46.5" includeOutlines="true" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.00021362304688" d="1.0006103515625" tx="42" ty="82"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Using the gate cycle image below, locate the swing phase.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="20" face="Clarendon" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="112.999998861635" distance="1" strength="0.25"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="questionnumber_txt" width="415.95" height="22.35" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.00016784667969" tx="42" ty="29"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Question X of Y</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="20" bitmapSize="400" face="_Claredon Regular copy*" fillColor="#767676"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/final assessment elements/btn_flag" name="btnFlagReview" centerPoint3DX="109" centerPoint3DY="561">
+                  <matrix>
+                    <Matrix tx="49" ty="546"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

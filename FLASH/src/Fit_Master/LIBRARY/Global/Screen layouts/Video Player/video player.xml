@@ -1,0 +1,322 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/Video Player/video player" itemID="4e53a5cf-00000b38" lastModified="1314104783">
+  <timeline>
+    <DOMTimeline name="video player">
+      <layers>
+        <DOMLayer name="slider" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/video_progress" name="mc_ProgressBar">
+                  <matrix>
+                    <Matrix d="0.99932861328125" tx="173" ty="274"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="125" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/video_progress" name="mc_ProgressBar">
+                  <matrix>
+                    <Matrix d="0.99932861328125" tx="173" ty="274"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="125" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mask" color="#4FFFFF" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!8500 5260|2100 5260!2100 5260|2100 460!2100 460|8500 460!8500 460|8500 5260"/>
+                    <Edge cubics="!2100 5260(;2100,5260 2100,460 2100,460q2100 5260 2100 460);"/>
+                    <Edge cubics="!8500 5260(;8500,5260 2100,5260 2100,5260q8500 5260 2100 5260);"/>
+                    <Edge cubics="!8500 460(;8500,460 8500,5260 8500,5260q8500 460 8500 5260);"/>
+                    <Edge cubics="!2100 460(;2100,460 8500,460 8500,460q2100 460 8500 460);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="videospace" color="#FF4FFF" parentLayerIndex="1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/toolbox_video_frame" name="videospace_mc">
+                  <matrix>
+                    <Matrix tx="105" ty="23"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="277.25" y="167.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bandwidth buttons" color="#4FFFFF" parentLayerIndex="1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/sizeButtonLarge" name="mc_HighBand">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="182" ty="132"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/sizeButtonSmall" name="mc_LowBand">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="182" ty="172"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="instructions" color="#FF4F4F" parentLayerIndex="1" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="defaultText" selected="true" width="195.95" height="36.7" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.999755859375" tx="165" ty="84"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Please select your video size &#xD;from the options below:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="14" bitmapSize="280" face="_MainMenu_font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mediaarea" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.0152587890625" c="0.0152587890625" d="0" tx="265" ty="275.5"/>
+                        </matrix>
+                        <GradientEntry color="#263C48" ratio="0"/>
+                        <GradientEntry color="#537279" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!9000 5760|1600 5760!1600 5760|1600 5260!1600 5260|9000 5260!9000 5260|9000 5760"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/bottom nav" name="mc_Player" centerPoint3DX="147" centerPoint3DY="275">
+                  <matrix>
+                    <Matrix d="1.00009155273438" tx="134" ty="263"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" distance="3" isEnabled="false" quality="2" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!10039 6319|0 6319!0 6319|0 0!0 0|10039 0!10039 0|10039 6319"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mask" color="#4FFFFF" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!8500 5260|2100 5260!2100 5260|2100 460!2100 460|8500 460!8500 460|8500 5260"/>
+                    <Edge cubics="!2100 5260(;2100,5260 2100,460 2100,460q2100 5260 2100 460);"/>
+                    <Edge cubics="!8500 5260(;8500,5260 2100,5260 2100,5260q8500 5260 2100 5260);"/>
+                    <Edge cubics="!8500 460(;8500,460 8500,5260 8500,5260q8500 460 8500 5260);"/>
+                    <Edge cubics="!2100 460(;2100,460 8500,460 8500,460q2100 460 8500 460);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="videospace" color="#FF4FFF" parentLayerIndex="1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/toolbox_video_frame" name="videospace_mc">
+                  <matrix>
+                    <Matrix tx="105" ty="23"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="277.25" y="167.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bandwidth buttons" color="#4FFFFF" parentLayerIndex="1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/sizeButtonLarge" name="mc_HighBand">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="182" ty="132"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/sizeButtonSmall" name="mc_LowBand">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="182" ty="172"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="instructions" color="#FF4F4F" parentLayerIndex="1" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="defaultText" selected="true" width="195.95" height="36.7" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.999755859375" tx="165" ty="84"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Please select your video size &#xD;from the options below:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="14" bitmapSize="280" face="_MainMenu_font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mediaarea" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.0152587890625" c="0.0152587890625" d="0" tx="265" ty="275.5"/>
+                        </matrix>
+                        <GradientEntry color="#263C48" ratio="0"/>
+                        <GradientEntry color="#537279" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!9000 5760|1600 5760!1600 5760|1600 5260!1600 5260|9000 5260!9000 5260|9000 5760"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/bottom nav" name="mc_Player" centerPoint3DX="147" centerPoint3DY="275">
+                  <matrix>
+                    <Matrix d="1.00009155273438" tx="134" ty="263"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" distance="3" isEnabled="false" quality="2" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!10039 6319|0 6319!0 6319|0 0!0 0|10039 0!10039 0|10039 6319"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

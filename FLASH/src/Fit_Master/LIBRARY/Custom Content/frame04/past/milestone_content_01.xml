@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/past/milestone_content_01" itemID="4dc7fd03-00000740" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame04_ContentWindow" linkageClassName="milestone_content_01" lastModified="1308666800" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="milestone_content_01" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;23&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="btn close" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/btn_close_pop_up" name="btnClose" centerPoint3DX="17.35" centerPoint3DY="8">
+                  <transformationPoint>
+                    <Point x="17.35" y="8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="content" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText right="6600" bottom="4975">
+                  <matrix>
+                    <Matrix tx="60" ty="80"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="20" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#545454" fontFamily="_Gotham Book copy*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="123.777778%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">William J. Riley, a 33-year old English immigrant, committed himself to helping people with problem feet.</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="20" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#545454" fontFamily="_Gotham Book copy*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="123.777778%" textAlpha="1" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">His first product, a flexible arch support, was designed with three points of support in the shape of a triangle. These points created greater balance and comfort in the shoe. It's believed that Riley came up with the name "New Balance" by observing the perfectly balanced chickens in his yard.</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMTLFText right="6800" bottom="500">
+                  <matrix>
+                    <Matrix tx="60" ty="40"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Clarendon" psName="Clarendon"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="20" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord" xmlns="http://ns.adobe.com/textLayout/2008"><span color="#45a8db" fontFamily="Clarendon" fontSize="22" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="123.777778%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%" xmlns="http://ns.adobe.com/textLayout/2008">New Balance Arch</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMBitmapInstance libraryItemName="Custom Content/frame04/frame04_assets/chickens_v2.png">
+                  <matrix>
+                    <Matrix a="0.989990234375" d="0.989990234375" tx="23.4" ty="319.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200" y="121.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tab" color="#0000FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/bg_popUp" centerPoint3DX="211.5" centerPoint3DY="290">
+                  <transformationPoint>
+                    <Point x="211.5" y="290"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/bg_pop_up" centerPoint3DX="223" centerPoint3DY="296.6">
+                  <matrix>
+                    <Matrix d="0.977203369140625" tx="23" ty="19.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

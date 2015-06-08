@@ -1,0 +1,174 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/Video Player/video player elements/video_progress" itemID="4e0211bd-00000ed4" lastModified="1228767975" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="video_progress">
+      <layers>
+        <DOMLayer name="slider_mc" color="#9933CC" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/trackBall" name="mc_Slider">
+                  <matrix>
+                    <Matrix ty="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" distance="3" quality="2" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/trackBall" name="mc_Slider">
+                  <matrix>
+                    <Matrix ty="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" distance="3" quality="2" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mask" color="#4F80FF" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <matrix>
+                    <Matrix d="2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#6699AE"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!4522 18S1[4522 11 4510 6!4510 6[4497 0 4482 0!4482 0/59 0!59 0[43 0 31 6!31 6[20 11 20 18!20 18|20 23!20 23[20 30 31 35!31 35[43 40 59 40!59 40/4482 40!4482 40[4499 40 4510 35!4510 35[4522 30 4522 23!4522 23/4522 18"/>
+                    <Edge cubics="!4510 6(;4502,2 4493,0 4482,0q4510 6Q4497 0q4482 0);"/>
+                    <Edge cubics="!4522 18(;4522,13 4518,9 4510,6q4522 18Q4522 11q4510 6);"/>
+                    <Edge cubics="!4522 23(;4522,23 4522,18 4522,18q4522 23 4522 18);"/>
+                    <Edge cubics="!4510 35(;4518,32 4522,28 4522,23q4510 35Q4522 30q4522 23);"/>
+                    <Edge cubics="!4482 40(;4493,40 4502,39 4510,35q4482 40Q4499 40q4510 35);"/>
+                    <Edge cubics="!31 35(;39,39 48,40 59,40q31 35Q43 40q59 40);"/>
+                    <Edge cubics="!20 23(;20,28 24,32 31,35q20 23Q20 30q31 35);"/>
+                    <Edge cubics="!20 18(;20,18 20,23 20,23q20 18 20 23);"/>
+                    <Edge cubics="!31 6(;24,9 20,13 20,18q31 6Q20 11q20 18);"/>
+                    <Edge cubics="!59 0(;48,0 39,2 31,6q59 0Q43 0q31 6);"/>
+                    <Edge cubics="!4482 0(;4482,0 59,0 59,0q4482 0 59 0);"/>
+                    <Edge cubics="!59 40(;59,40 4482,40 4482,40q59 40 4482 40);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="progress" color="#FF4F4F" parentLayerIndex="1" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/mediaplayer_progressbar" name="mc_vsliderfill">
+                  <matrix>
+                    <Matrix a="0.04998779296875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="scrubline" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/mediaplayer_scrubline" name="scrubline_mc">
+                  <matrix>
+                    <Matrix a="1.0003662109375" d="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112.55" y="2"/>
+                  </transformationPoint>
+                  <filters>
+                    <BevelFilter blurX="0" blurY="0" quality="2" angle="236.999989754717" distance="1" strength="0.6" type="outer"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mask" color="#4F80FF" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <matrix>
+                    <Matrix d="2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#6699AE"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!4522 18S1[4522 11 4510 6!4510 6[4497 0 4482 0!4482 0/59 0!59 0[43 0 31 6!31 6[20 11 20 18!20 18|20 23!20 23[20 30 31 35!31 35[43 40 59 40!59 40/4482 40!4482 40[4499 40 4510 35!4510 35[4522 30 4522 23!4522 23/4522 18"/>
+                    <Edge cubics="!4510 6(;4502,2 4493,0 4482,0q4510 6Q4497 0q4482 0);"/>
+                    <Edge cubics="!4522 18(;4522,13 4518,9 4510,6q4522 18Q4522 11q4510 6);"/>
+                    <Edge cubics="!4522 23(;4522,23 4522,18 4522,18q4522 23 4522 18);"/>
+                    <Edge cubics="!4510 35(;4518,32 4522,28 4522,23q4510 35Q4522 30q4522 23);"/>
+                    <Edge cubics="!4482 40(;4493,40 4502,39 4510,35q4482 40Q4499 40q4510 35);"/>
+                    <Edge cubics="!31 35(;39,39 48,40 59,40q31 35Q43 40q59 40);"/>
+                    <Edge cubics="!20 23(;20,28 24,32 31,35q20 23Q20 30q31 35);"/>
+                    <Edge cubics="!20 18(;20,18 20,23 20,23q20 18 20 23);"/>
+                    <Edge cubics="!31 6(;24,9 20,13 20,18q31 6Q20 11q20 18);"/>
+                    <Edge cubics="!59 0(;48,0 39,2 31,6q59 0Q43 0q31 6);"/>
+                    <Edge cubics="!4482 0(;4482,0 59,0 59,0q4482 0 59 0);"/>
+                    <Edge cubics="!59 40(;59,40 4482,40 4482,40q59 40 4482 40);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="progress" color="#FF4F4F" parentLayerIndex="1" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/mediaplayer_progressbar" name="mc_vsliderfill">
+                  <matrix>
+                    <Matrix a="0.04998779296875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="scrubline" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/mediaplayer_scrubline" name="scrubline_mc">
+                  <matrix>
+                    <Matrix a="1.0003662109375" d="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112.55" y="2"/>
+                  </transformationPoint>
+                  <filters>
+                    <BevelFilter blurX="0" blurY="0" quality="2" angle="236.999989754717" distance="1" strength="0.6" type="outer"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

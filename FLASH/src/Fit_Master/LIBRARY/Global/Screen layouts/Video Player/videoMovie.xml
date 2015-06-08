@@ -1,0 +1,17 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/Video Player/videoMovie" itemID="4dcaeac6-00000a1b" lastModified="1305144006">
+  <timeline>
+    <DOMTimeline name="videoMovie">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMVideoInstance libraryItemName="Global/Screen layouts/Video Player/video player elements/toolbox_video_container" name="instance_video" selected="true" frameRight="3200" frameBottom="2400"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

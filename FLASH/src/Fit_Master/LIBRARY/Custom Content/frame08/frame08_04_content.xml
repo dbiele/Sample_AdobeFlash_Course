@@ -1,0 +1,354 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame08/frame08_04_content" itemID="4e087f05-00000fd6" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame08_04_Content" linkageClassName="frame08_04_content" lastModified="1309300520" lastUniqueIdentifier="8">
+  <timeline>
+    <DOMTimeline name="frame08_04_content" currentFrame="34">
+      <layers>
+        <DOMLayer name="labels" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="13" name="board_lasted" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="13" name="combi_lasted" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="27" duration="13" name="strobel_lasted" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="40" duration="13" name="slip_lasted" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[initializeResponseWindow1();
+stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="8" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="21" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[initializeResponseWindow2();
+stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="26" duration="8" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="34" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[initializeResponseWindow3();
+stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" duration="8" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="47" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[initializeResponseWindow4();
+stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="52" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="popUps" color="#4FFF4F" current="true" isSelected="true" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="13" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="13000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.501083" xformPtYOffsetPct="0.679502" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-20" next="0,-20" previous="0,-20" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Motion_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Rotation_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Rotation_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,-68" next="0,-68" previous="0,-68" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,112" next="0,112" previous="0,112" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="0"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="7000"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="0"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="7000"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="12000"/></Property></PropertyContainer><PropertyContainer id="Colors"><PropertyContainer id="Alpha_ColorXform"><Property enabled="1" id="Alpha_Amount" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property></PropertyContainer></PropertyContainer><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame08/assets/popUp_lasting_board" name="responseWindow1" matrix3D="0.374606519937515 0 0.927183866500854 0 0 1 0 0 -0.927183866500854 0 0.374606519937515 0 8466.6953125 3600 -4290.07958984375 1" centerPoint3DX="510" centerPoint3DY="330">
+                  <matrix>
+                    <Matrix a="0.999984741210938" d="0.999984741210938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="511" y="338"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="13" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="13000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.501083" xformPtYOffsetPct="0.679502" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-20" next="0,-20" previous="0,-20" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Motion_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Rotation_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Rotation_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,-68" next="0,-68" previous="0,-68" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,112" next="0,112" previous="0,112" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="0"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="7000"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="0"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="7000"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="12000"/></Property></PropertyContainer><PropertyContainer id="Colors"><PropertyContainer id="Alpha_ColorXform"><Property enabled="1" id="Alpha_Amount" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property></PropertyContainer></PropertyContainer><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame08/assets/popUp_lasting_combi" name="responseWindow2" matrix3D="0.374606519937515 0 0.927183866500854 0 0 1 0 0 -0.927183866500854 0 0.374606519937515 0 8466.6953125 3600 -4290.07958984375 1" centerPoint3DX="510" centerPoint3DY="330">
+                  <matrix>
+                    <Matrix a="0.999984741210938" d="0.999984741210938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="511" y="338"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" duration="13" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="13000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.501083" xformPtYOffsetPct="0.679502" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-20" next="0,-20" previous="0,-20" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Motion_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Rotation_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Rotation_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,-68" next="0,-68" previous="0,-68" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,112" next="0,112" previous="0,112" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="0"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="7000"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="0"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="7000"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="12000"/></Property></PropertyContainer><PropertyContainer id="Colors"><PropertyContainer id="Alpha_ColorXform"><Property enabled="1" id="Alpha_Amount" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property></PropertyContainer></PropertyContainer><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame08/assets/popUp_lasting_strobel" name="responseWindow3" selected="true" matrix3D="0.374606519937515 0 0.927183866500854 0 0 1 0 0 -0.927183866500854 0 0.374606519937515 0 8466.6953125 3600 -4290.07958984375 1" centerPoint3DX="510" centerPoint3DY="330">
+                  <matrix>
+                    <Matrix a="0.999984741210938" d="0.999984741210938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="511" y="338"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" duration="13" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="13000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.501083" xformPtYOffsetPct="0.679502" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-20" next="0,-20" previous="0,-20" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Motion_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Rotation_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Rotation_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,-68" next="0,-68" previous="0,-68" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,112" next="0,112" previous="0,112" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="0"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="7000"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="12000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="0"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="7000"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="12000"/></Property></PropertyContainer><PropertyContainer id="Colors"><PropertyContainer id="Alpha_ColorXform"><Property enabled="1" id="Alpha_Amount" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/></Property></PropertyContainer></PropertyContainer><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame08/assets/popUp_lasting_slip" name="responseWindow4" matrix3D="0.374606519937515 0 0.927183866500854 0 0 1 0 0 -0.927183866500854 0 0.374606519937515 0 8466.6953125 3600 -4290.07958984375 1" centerPoint3DX="510" centerPoint3DY="330">
+                  <matrix>
+                    <Matrix a="0.999984741210938" d="0.999984741210938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="511" y="338"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hit area" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="53" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/btn_hitarea" name="shoehit1_mc" centerPoint3DX="138" centerPoint3DY="603">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="128" ty="593"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/btn_hitarea" name="shoehit2_mc" centerPoint3DX="388" centerPoint3DY="603">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="378" ty="593"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/btn_hitarea" name="shoehit3_mc" centerPoint3DX="628" centerPoint3DY="603">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="618" ty="593"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/buttons/button elements/btn_hitarea" name="shoehit4_mc" centerPoint3DX="871" centerPoint3DY="603">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="861" ty="593"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="labels" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="53" keyMode="9728">
+              <elements>
+                <DOMTLFText left="-1804" right="756" bottom="380">
+                  <matrix>
+                    <Matrix tx="170.2" ty="570"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Gotham Bold*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%">BOARD LASTED</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_13px" name="status1_mc" centerPoint3DX="148.5" centerPoint3DY="611.5">
+                  <matrix>
+                    <Matrix a="0.423721313476563" d="0.423721313476563" tx="136" ty="599"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMTLFText left="-1232" right="1228" bottom="380">
+                  <matrix>
+                    <Matrix tx="385.6" ty="571"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Gotham Bold*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%">COMBI-LASTED</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_13px" name="status2_mc" centerPoint3DX="391.15" centerPoint3DY="612">
+                  <matrix>
+                    <Matrix a="0.423721313476563" d="0.423721313476563" tx="378.65" ty="599.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMTLFText left="-1432" right="1456" bottom="380">
+                  <matrix>
+                    <Matrix tx="633.95" ty="571.5"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Gotham Bold*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%">STROBEL LASTED</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_13px" name="status3_mc" centerPoint3DX="639.5" centerPoint3DY="612.5">
+                  <matrix>
+                    <Matrix a="0.423721313476563" d="0.423721313476563" tx="627" ty="600"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMTLFText left="-1004" right="1090" bottom="380">
+                  <matrix>
+                    <Matrix tx="876.95" ty="571.5"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Point" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="explicit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Gotham Bold*" fontSize="16" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%">SLIP LASTED</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_13px" name="status4_mc" centerPoint3DX="882.5" centerPoint3DY="612.5">
+                  <matrix>
+                    <Matrix a="0.423721313476563" d="0.423721313476563" tx="870" ty="600"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="lastings_slip.png" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="53" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/lastings_slip.png">
+                  <matrix>
+                    <Matrix tx="747.95" ty="190"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="lastings_strobel.png" color="#808080" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="53" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/lastings_strobel.png">
+                  <matrix>
+                    <Matrix tx="505.3" ty="190"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="lastings_combi.png" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="53" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/lastings_combi.png">
+                  <matrix>
+                    <Matrix tx="262.65" ty="190"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="lastings_board.png" color="#FF4F4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="53" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/lastings_board.png">
+                  <matrix>
+                    <Matrix tx="20" ty="190"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="titletext" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="53" keyMode="9728">
+              <elements>
+                <DOMTLFText right="13099" bottom="1101">
+                  <matrix>
+                    <Matrix tx="40" ty="40"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="toFit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#2a6786" fontFamily="_Gotham Bold*" fontSize="34" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">Lasting</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+                <DOMTLFText right="10139" bottom="2360">
+                  <matrix>
+                    <Matrix tx="40" ty="80"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Calibri" psName="Calibri"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" lineBreak="toFit" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">The term “lasting” refers to the type of construction. This term is not to be confused with the “last” or model discussed earlier. There are several different types of lasting with various purposes and benefits.</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="_Calibri Regular*" fontSize="18" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" lineThrough="false" locale="en_US" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%">Click on each last term to learn more.</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

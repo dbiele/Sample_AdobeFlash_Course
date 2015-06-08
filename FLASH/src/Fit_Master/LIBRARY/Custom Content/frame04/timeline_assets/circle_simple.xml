@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/timeline_assets/circle_simple" itemID="4dcbdcb0-000005cb" lastModified="1305205936">
+  <timeline>
+    <DOMTimeline name="circle_simple">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!973 590S2[973 431 861 319!861 319[748 206 590 206!590 206[431 206 319 319!319 319[206 431 206 590!206 590[206 748 319 861!319 861[431 973 590 973!590 973[748 973 861 861!861 861[973 748 973 590!1180 590[1180 834 1007 1007!1007 1007[834
+ 1180 590 1180!590 1180[346 1180 173 1007!173 1007[0 834 0 590!0 590[0 346 173 173!173 173[346 0 590 0!590 0[834 0 1007 173!1007 173[1180 346 1180 590"/>
+                    <Edge cubics="!590 206(;378,206 206,378 206,590q590 206Q431 206q319 319Q206 431q206 590);"/>
+                    <Edge cubics="!206 590(;206,801 378,973 590,973q206 590Q206 748q319 861Q431 973q590 973);"/>
+                    <Edge cubics="!590 973(;801,973 973,801 973,590q590 973Q748 973q861 861Q973 748q973 590);"/>
+                    <Edge cubics="!973 590(;973,378 801,206 590,206q973 590Q973 431q861 319Q748 206q590 206);"/>
+                    <Edge cubics="!1180 590(;1180,915 915,1180 590,1180q1180 590Q1180 834q1007 1007Q834 1180q590 1180);"/>
+                    <Edge cubics="!590 1180(;264,1180 0,915 0,590q590 1180Q346 1180q173 1007Q0 834q0 590);"/>
+                    <Edge cubics="!0 590(;0,264 264,0 590,0q0 590Q0 346q173 173Q346 0q590 0);"/>
+                    <Edge cubics="!590 0(;915,0 1180,264 1180,590q590 0Q834 0q1007 173Q1180 346q1180 590);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

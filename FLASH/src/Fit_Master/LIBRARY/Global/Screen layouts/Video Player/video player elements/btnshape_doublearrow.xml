@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/Video Player/video player elements/btnshape_doublearrow" itemID="4e53a5cf-00000b3e" lastModified="1314104783">
+  <timeline>
+    <DOMTimeline name="btnshape_doublearrow">
+      <layers>
+        <DOMLayer name="arrows" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <edges>
+                    <Edge edges="!0 0|0 300!0 300|144 150!144 150|0 0!300 150|155 0!155 0|155 300!155 300|300 150"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

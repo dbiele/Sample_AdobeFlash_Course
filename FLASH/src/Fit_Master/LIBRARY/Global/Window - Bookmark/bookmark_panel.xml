@@ -1,0 +1,106 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Window - Bookmark/bookmark_panel" itemID="4dc29b69-00006bf2" lastModified="1313183171" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="bookmark_panel">
+      <layers>
+        <DOMLayer name="instruction text" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="315.15" height="16.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="22" ty="22"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Bookmarking</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.7" size="15" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="322.95" height="33.2" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="21" ty="59"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Would you like to start from the point where you last exited?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="14" bitmapSize="280" face="_Gotham Bold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="button no" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/btn-no" name="btnNo" selected="true" centerPoint3DX="131.5" centerPoint3DY="151">
+                  <matrix>
+                    <Matrix tx="100" ty="140.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="button yes" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/btn-yes" name="btnYes" centerPoint3DX="51.5" centerPoint3DY="151">
+                  <matrix>
+                    <Matrix tx="20" ty="140.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="drag window" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/blank_mc" name="dragWindow" centerPoint3DX="6.15" centerPoint3DY="5">
+                  <matrix>
+                    <Matrix a="36.4001617431641" d="17.8949890136719"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Error/bg_box_gradient" centerPoint3DX="182" centerPoint3DY="89.45">
+                  <matrix>
+                    <Matrix d="1.19340515136719"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="182" y="74.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

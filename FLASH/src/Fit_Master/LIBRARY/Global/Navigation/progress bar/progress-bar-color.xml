@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Navigation/progress bar/progress-bar-color" itemID="4dbf0e69-00000210" lastModified="1304366697">
+  <timeline>
+    <DOMTimeline name="progress-bar-color">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.01220703125" c="-0.01220703125" d="0" tx="55.45" ty="10"/>
+                        </matrix>
+                        <GradientEntry color="#45A8DB" ratio="0.396078431372549"/>
+                        <GradientEntry color="#32799E" ratio="0.72156862745098"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2218 400|0 400!0 400|0 0!0 0|2218 0!2218 0|2218 400"/>
+                    <Edge cubics="!0 400(0,400;0,400 0,0 0,0q0 400 0 0)0,0;"/>
+                    <Edge cubics="!2218 400(2218,400;2218,400 0,400 0,400q2218 400 0 400);"/>
+                    <Edge cubics="!2218 0(2218,0;2218,0 2218,400 2218,400q2218 0 2218 400);"/>
+                    <Edge cubics="!0 0(;0,0 2218,0 2218,0q0 0 2218 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

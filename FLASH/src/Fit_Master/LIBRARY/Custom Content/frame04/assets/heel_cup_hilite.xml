@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/assets/heel_cup_hilite" itemID="4e021817-0000128c" lastModified="1308760358">
+  <timeline>
+    <DOMTimeline name="heel_cup_hilite">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="5">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2621 146[2459 295 2295 542!2295 542[1967 1036 1954 1529!1954 1529[1942 2022 2240 2515!2240 2515[2389 2762 2541 2910!2541 2910[2453 2939 1962 2946!1962 2946[1492 2954 1370 2937!1370 2937[813 2861 412 2426!412 2426[0 1979 0 1408!0 1408
+[0 826 389 413!389 413[779 0 1328 0!1328 0[1451 0 1982 58!1982 58[2532 117 2621 146"/>
+                    <Edge cubics="!2541 2910(;2414,2951 1515,2957 1370,2937q2541 2910Q2453 2939q1962 2946Q1492 2954q1370 2937);"/>
+                    <Edge cubics="!1370 2937(;643,2838 0,2184 0,1408q1370 2937Q813 2861q412 2426Q0 1979q0 1408);"/>
+                    <Edge cubics="!0 1408(;0,630 594,0 1328,0q0 1408Q0 826q389 413Q779 0q1328 0);"/>
+                    <Edge cubics="!1328 0(;1474,0 2494,105 2621,146q1328 0Q1451 0q1982 58Q2532 117q2621 146);"/>
+                    <Edge cubics="!2541 2910(;2541,2910 1934,2318 1954,1529q2541 2910Q2389 2762q2240 2515Q1942 2022q1954 1529);"/>
+                    <Edge cubics="!1954 1529(;1974,740 2621,146 2621,146q1954 1529Q1967 1036q2295 542Q2459 295q2621 146);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

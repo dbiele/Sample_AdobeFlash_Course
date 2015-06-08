@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Window - Exit/exitWindow" itemID="4dc2aa8f-00006c4a" linkageExportForAS="true" linkageBaseClass="com.invision.client.components.ExitWindow" linkageClassName="exitWindow" lastModified="1308342922" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="exitWindow">
+      <layers>
+        <DOMLayer name="text" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="buttons" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Exit/exit panel" name="panel_mc" selected="true" centerPoint3DX="528.5" centerPoint3DY="206.5">
+                  <matrix>
+                    <Matrix tx="378" ty="140"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="119.5" y="62.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Bookmark/background_panel" name="background_mc" centerPoint3DX="518.15" centerPoint3DY="345">
+                  <matrix>
+                    <Matrix a="101.60107421875" d="69.0006713867188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

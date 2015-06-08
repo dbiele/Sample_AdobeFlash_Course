@@ -1,0 +1,585 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/past/frame04_milestone02" itemID="4dc7e31b-000003d1" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame04_Milestone" linkageClassName="frame04_milestone02" lastModified="1308340486" lastUniqueIdentifier="50">
+  <timeline>
+    <DOMTimeline name="frame04_milestone02" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;305&lt;/guideline&gt;&lt;guideline direction="h"&gt;51&lt;/guideline&gt;&lt;guideline direction="v"&gt;285&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="labels" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="28" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="28" name="normal" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="31" name="selected" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="60" duration="30" name="closing" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="27" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="27" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+activate();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="22" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[import com.greensock.TweenLite;
+import com.greensock.easing.*;]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="51" duration="8" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[TweenLite.to(Object(this).milestone_1_popup, .5, {scaleX:1, scaleY:1, x:327, y:45, ease:Back.easeOut, onComplete:onOpenTweenComplete});
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="60" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="76" duration="13" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[transitionBackground();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="89" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndStop('normal');]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="btn" color="#FF800A" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="28" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/square_timeline" name="hit_zone" selected="true" centerPoint3DX="219.45" centerPoint3DY="357.35">
+                  <matrix>
+                    <Matrix a="75.8399810791016" d="89.1900024414063" tx="29.85" ty="134.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="60" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="popUp content" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="51" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="51" duration="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/past/milestone_content_02" name="milestone_1_popup" centerPoint3DX="531.35" centerPoint3DY="332.6">
+                  <matrix>
+                    <Matrix a="0.0099945068359375" d="0.0099945068359375" tx="320" ty="54"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="60" blurX="16.0555992126465" blurY="17" distance="18" quality="2" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="77" duration="13" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="dotted line 3" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="50" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="50" duration="16" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="9">
+                        <fill>
+                          <BitmapFill bitmapPath="Custom Content/frame04/frame04_assets/bg-dot.png" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="294.75" ty="49.45"/>
+                            </matrix>
+                          </BitmapFill>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!5944 1119/6010 1119!6010 1119/6321 1119"/>
+                    <Edge cubics="!5944 1119(;5944,1119 6010,1119 6010,1119q5944 1119 6010 1119);"/>
+                    <Edge cubics="!6010 1119(;6010,1119 6321,1119 6321,1119q6010 1119 6321 1119);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="9">
+                        <fill>
+                          <BitmapFill bitmapPath="Custom Content/frame04/frame04_assets/bg-dot.png" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="294.75" ty="49.45"/>
+                            </matrix>
+                          </BitmapFill>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!5944 1119/6010 1119!6010 1119/6321 1119"/>
+                    <Edge cubics="!5944 1119(;5944,1119 6010,1119 6010,1119q5944 1119 6010 1119);"/>
+                    <Edge cubics="!6010 1119(;6010,1119 6321,1119 6321,1119q6010 1119 6321 1119);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="67" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="77" duration="13" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="dotted line 2" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="44" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="44" duration="5" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="#16.8A, #E.E1" startPointB="#16.8A, #4.57" strokeIndex1="0" strokeIndex2="0">
+                    <MorphCurves controlPointA="#16.8A, #E.E3" anchorPointA="#16.8A, #E.E5" controlPointB="#16.8A, #4.AC" anchorPointB="#16.8A, 5" isLine="true"/>
+                    <MorphCurves controlPointA="#16.8A, #E.FE" anchorPointA="#16.8A, #F.17" controlPointB="#16.8A, #A.0F" anchorPointB="#16.8A, #F.1D" isLine="true"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="9">
+                        <fill>
+                          <BitmapFill bitmapPath="Custom Content/frame04/frame04_assets/bg-dot.png" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="282.5" ty="184.2"/>
+                            </matrix>
+                          </BitmapFill>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!5770 3863/5770 3809"/>
+                    <Edge cubics="!5716 3863(;5716,3863 5716,3809 5716,3809q5716 3863 5716 3809);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="17" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="9">
+                        <fill>
+                          <BitmapFill bitmapPath="Custom Content/frame04/frame04_assets/bg-dot.png" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="282.5" ty="184.2"/>
+                            </matrix>
+                          </BitmapFill>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!5770 3869/5770 1280!5770 1280/5770 1111"/>
+                    <Edge cubics="!5770 3869(;5770,3869 5770,1280 5770,1280q5770 3869 5770 1280);"/>
+                    <Edge cubics="!5770 1280(;5770,1280 5770,1111 5770,1111q5770 1280 5770 1111);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" duration="5" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="#16.8A, #4.57" startPointB="#16.8A, #E.E1" strokeIndex1="0" strokeIndex2="0">
+                    <MorphCurves controlPointA="#16.8A, #4.AC" anchorPointA="#16.8A, 5" controlPointB="#16.8A, #E.E3" anchorPointB="#16.8A, #E.E5" isLine="true"/>
+                    <MorphCurves controlPointA="#16.8A, #A.0F" anchorPointA="#16.8A, #F.1D" controlPointB="#16.8A, #E.FE" anchorPointB="#16.8A, #F.17" isLine="true"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="9">
+                        <fill>
+                          <BitmapFill bitmapPath="Custom Content/frame04/frame04_assets/bg-dot.png" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="282.5" ty="184.2"/>
+                            </matrix>
+                          </BitmapFill>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!5770 3869/5770 1280!5770 1280/5770 1111"/>
+                    <Edge cubics="!5770 3869(;5770,3869 5770,1280 5770,1280q5770 3869 5770 1280);"/>
+                    <Edge cubics="!5770 1280(;5770,1280 5770,1111 5770,1111q5770 1280 5770 1111);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="9">
+                        <fill>
+                          <BitmapFill bitmapPath="Custom Content/frame04/frame04_assets/bg-dot.png" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="282.5" ty="184.2"/>
+                            </matrix>
+                          </BitmapFill>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!5770 3863/5770 3809"/>
+                    <Edge cubics="!5716 3863(;5716,3863 5716,3809 5716,3809q5716 3863 5716 3809);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="77" duration="13" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="dotted line 1" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="40" duration="4" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="#A.12, #F.94" startPointB="#A.12, #F.94" strokeIndex1="0" strokeIndex2="0">
+                    <MorphCurves controlPointA="#A.5A, #F.94" anchorPointA="#A.A1, #F.94" controlPointB="#10.6F, #F.94" anchorPointB="#16.CB, #F.94" isLine="true"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="9">
+                        <fill>
+                          <BitmapFill bitmapPath="Custom Content/frame04/frame04_assets/bg-dot.png" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="198.4" ty="192.9"/>
+                            </matrix>
+                          </BitmapFill>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2578 3988/2721 3988"/>
+                    <Edge cubics="!2578 3988(;2578,3988 2721,3988 2721,3988q2578 3988 2721 3988);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" duration="22" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="9">
+                        <fill>
+                          <BitmapFill bitmapPath="Custom Content/frame04/frame04_assets/bg-dot.png" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="198.4" ty="192.9"/>
+                            </matrix>
+                          </BitmapFill>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2578 3988/5835 3988"/>
+                    <Edge cubics="!2578 3988(;2578,3988 5835,3988 5835,3988q2578 3988 5835 3988);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" duration="5" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="9">
+                        <fill>
+                          <BitmapFill bitmapPath="Custom Content/frame04/frame04_assets/bg-dot.png" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="198.4" ty="192.9"/>
+                            </matrix>
+                          </BitmapFill>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2578 3988/5835 3988"/>
+                    <Edge cubics="!2578 3988(;2578,3988 5835,3988 5835,3988q2578 3988 5835 3988);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" duration="4" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="#A.12, #F.94" startPointB="#A.12, #F.94" strokeIndex1="0" strokeIndex2="0">
+                    <MorphCurves controlPointA="#10.6F, #F.94" anchorPointA="#16.CB, #F.94" controlPointB="#A.5A, #F.94" anchorPointB="#A.A1, #F.94" isLine="true"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="9">
+                        <fill>
+                          <BitmapFill bitmapPath="Custom Content/frame04/frame04_assets/bg-dot.png" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="198.4" ty="192.9"/>
+                            </matrix>
+                          </BitmapFill>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2578 3988/5835 3988"/>
+                    <Edge cubics="!2578 3988(;2578,3988 5835,3988 5835,3988q2578 3988 5835 3988);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="75" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="9">
+                        <fill>
+                          <BitmapFill bitmapPath="Custom Content/frame04/frame04_assets/bg-dot.png" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="198.4" ty="192.9"/>
+                            </matrix>
+                          </BitmapFill>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2578 3988/2721 3988"/>
+                    <Edge cubics="!2578 3988(;2578,3988 2721,3988 2721,3988q2578 3988 2721 3988);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="76" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="77" duration="13" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="date" color="#808080" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" duration="82" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="82000"><TimeMap strength="99" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.245343" xformPtYOffsetPct="1.41379" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="4000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="21000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="26000"/><Keyframe anchor="0,-9.9" next="0,-9.9" previous="0,-9.9" roving="0" timevalue="28000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="32000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="68000"/><Keyframe anchor="0,-9.9" next="0,-9.9" previous="0,-9.9" roving="0" timevalue="71000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="73000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="79000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="4000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="21000"/><Keyframe anchor="0,-174.118" next="0,-174.118" previous="0,-174.118" roving="0" timevalue="26000"/><Keyframe anchor="0,-162.711" next="0,-162.711" previous="0,-162.711" roving="0" timevalue="28000"/><Keyframe anchor="0,-167.6" next="0,-167.6" previous="0,-167.6" roving="0" timevalue="32000"/><Keyframe anchor="0,-167.6" next="0,-167.6" previous="0,-167.6" roving="0" timevalue="68000"/><Keyframe anchor="0,-162.7" next="0,-162.7" previous="0,-162.7" roving="0" timevalue="71000"/><Keyframe anchor="0,-174.1" next="0,-174.1" previous="0,-174.1" roving="0" timevalue="73000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="79000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="4000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="21000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="26000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="28000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="32000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="68000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="71000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="73000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="79000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="4000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="21000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="26000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="28000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="32000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="68000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="71000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="73000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="79000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="4000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="21000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="26000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="28000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="32000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="68000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="71000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="73000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="79000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,110" next="0,110" previous="0,110" roving="0" timevalue="4000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="9000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="21000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="26000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="28000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="32000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="68000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="71000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="73000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="79000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,110" next="0,110" previous="0,110" roving="0" timevalue="4000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="9000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="21000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="26000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="28000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="32000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="68000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="71000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="73000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="79000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/past/1933" centerPoint3DX="157" centerPoint3DY="287">
+                  <matrix>
+                    <Matrix a="0.0099945068359375" d="0.0099945068359375" tx="94" ty="366.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.05" y="125.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="circle" color="#4FFFFF" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="90" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="90000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.500847" xformPtYOffsetPct="0.508475" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property TimeMapIndex="0" enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="35000"/><Keyframe anchor="0,14.3" next="0,14.3" previous="0,14.3" roving="0" timevalue="37000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="40000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="76000"/><Keyframe anchor="0,14.3" next="0,14.3" previous="0,14.3" roving="0" timevalue="79000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="81000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="87000"/></Property><Property TimeMapIndex="0" enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/><Keyframe anchor="0,-174.118" next="0,-174.118" previous="0,-174.118" roving="0" timevalue="35000"/><Keyframe anchor="0,-171.511" next="0,-171.511" previous="0,-171.511" roving="0" timevalue="37000"/><Keyframe anchor="0,-167.6" next="0,-167.6" previous="0,-167.6" roving="0" timevalue="40000"/><Keyframe anchor="0,-167.6" next="0,-167.6" previous="0,-167.6" roving="0" timevalue="76000"/><Keyframe anchor="0,-171.4" next="0,-171.4" previous="0,-171.4" roving="0" timevalue="79000"/><Keyframe anchor="0,-174" next="0,-174" previous="0,-174" roving="0" timevalue="81000"/><Keyframe anchor="0,0.1" next="0,0.1" previous="0,0.1" roving="0" timevalue="87000"/></Property><Property TimeMapIndex="0" enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="35000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="37000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="40000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="76000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="35000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="37000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="40000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="76000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="12000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="35000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="37000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="40000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="76000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,9.99908" next="0,9.99908" previous="0,9.99908" roving="0" timevalue="0"/><Keyframe anchor="0,110" next="0,110" previous="0,110" roving="0" timevalue="7000"/><Keyframe anchor="0,100.528" next="0,100.528" previous="0,100.528" roving="0" timevalue="12000"/><Keyframe anchor="0,100.528" next="0,100.528" previous="0,100.528" roving="0" timevalue="35000"/><Keyframe anchor="0,100.528" next="0,100.528" previous="0,100.528" roving="0" timevalue="37000"/><Keyframe anchor="0,100.528" next="0,100.528" previous="0,100.528" roving="0" timevalue="40000"/><Keyframe anchor="0,100.528" next="0,100.528" previous="0,100.528" roving="0" timevalue="76000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,10" next="0,10" previous="0,10" roving="0" timevalue="0"/><Keyframe anchor="0,110" next="0,110" previous="0,110" roving="0" timevalue="7000"/><Keyframe anchor="0,93.487" next="0,93.487" previous="0,93.487" roving="0" timevalue="12000"/><Keyframe anchor="0,93.487" next="0,93.487" previous="0,93.487" roving="0" timevalue="35000"/><Keyframe anchor="0,93.487" next="0,93.487" previous="0,93.487" roving="0" timevalue="37000"/><Keyframe anchor="0,93.487" next="0,93.487" previous="0,93.487" roving="0" timevalue="40000"/><Keyframe anchor="0,93.487" next="0,93.487" previous="0,93.487" roving="0" timevalue="76000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/circle_stroke_fill" name="statusindicator_mc" centerPoint3DX="94.5" centerPoint3DY="367.5">
+                  <matrix>
+                    <Matrix a="0.0999755859375" d="0.0999908447265625" tx="91.55" ty="364.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ad" color="#9933CC" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" duration="79" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="79000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.441956" xformPtYOffsetPct="0.42525" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="3000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="18000"/><Keyframe anchor="0,96.55" next="0,96.55" previous="0,96.55" roving="0" timevalue="24000"/><Keyframe anchor="0,96.55" next="0,96.55" previous="0,96.55" roving="0" timevalue="68000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="73000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="75000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="3000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="18000"/><Keyframe anchor="0,-38.55" next="0,-38.55" previous="0,-38.55" roving="0" timevalue="24000"/><Keyframe anchor="0,-38.55" next="0,-38.55" previous="0,-38.55" roving="0" timevalue="68000"/><Keyframe anchor="0,0.05" next="0,0.05" previous="0,0.05" roving="0" timevalue="73000"/><Keyframe anchor="0,0.05" next="0,0.05" previous="0,0.05" roving="0" timevalue="75000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="3000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="18000"/><Keyframe anchor="0,12" next="0,12" previous="0,12" roving="0" timevalue="24000"/><Keyframe anchor="0,12" next="0,12" previous="0,12" roving="0" timevalue="68000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="73000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="75000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="3000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="18000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="68000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="73000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="75000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="3000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="18000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="68000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="73000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="75000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="3000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="5000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="18000"/><Keyframe anchor="0,74" next="0,74" previous="0,74" roving="0" timevalue="24000"/><Keyframe anchor="0,74" next="0,74" previous="0,74" roving="0" timevalue="68000"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="73000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="75000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="3000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="5000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="18000"/><Keyframe anchor="0,74" next="0,74" previous="0,74" roving="0" timevalue="24000"/><Keyframe anchor="0,74" next="0,74" previous="0,74" roving="0" timevalue="68000"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="73000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="75000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/past/1933_ad" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.0099945068359375" d="0.0099945068359375" tx="205.1" ty="458.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="140.1" y="85.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="brochure" color="#FF800A" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" duration="82" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="82000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.497656" xformPtYOffsetPct="0.499145" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,3" next="0,3" previous="0,3" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="20000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="21000"/><Keyframe anchor="0,-157.1" next="0,-157.1" previous="0,-157.1" roving="0" timevalue="27000"/><Keyframe anchor="0,-157.1" next="0,-157.1" previous="0,-157.1" roving="0" timevalue="71000"/><Keyframe anchor="0,0.05" next="0,0.05" previous="0,0.05" roving="0" timevalue="76000"/><Keyframe anchor="0,5.05" next="0,5.05" previous="0,5.05" roving="0" timevalue="77000"/><Keyframe anchor="0,0.0500002" next="0,0.0500002" previous="0,0.0500002" roving="0" timevalue="80000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,7.5" next="0,7.5" previous="0,7.5" roving="0" timevalue="5000"/><Keyframe anchor="0,17.7702" next="0,17.7702" previous="0,17.7702" roving="0" timevalue="7000"/><Keyframe anchor="0,17.7702" next="0,17.7702" previous="0,17.7702" roving="0" timevalue="9000"/><Keyframe anchor="0,17.7702" next="0,17.7702" previous="0,17.7702" roving="0" timevalue="20000"/><Keyframe anchor="0,17.7702" next="0,17.7702" previous="0,17.7702" roving="0" timevalue="21000"/><Keyframe anchor="0,22.1202" next="0,22.1202" previous="0,22.1202" roving="0" timevalue="27000"/><Keyframe anchor="0,22.1202" next="0,22.1202" previous="0,22.1202" roving="0" timevalue="71000"/><Keyframe anchor="0,17.8" next="0,17.8" previous="0,17.8" roving="0" timevalue="76000"/><Keyframe anchor="0,13.8" next="0,13.8" previous="0,13.8" roving="0" timevalue="77000"/><Keyframe anchor="0,17.8" next="0,17.8" previous="0,17.8" roving="0" timevalue="80000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,45" next="0,45" previous="0,45" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,-1" next="0,-1" previous="0,-1" roving="0" timevalue="7000"/><Keyframe anchor="0,-1.62328e-007" next="0,-1.62328e-007" previous="0,-1.62328e-007" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="20000"/><Keyframe anchor="0,-12" next="0,-12" previous="0,-12" roving="0" timevalue="27000"/><Keyframe anchor="0,-12" next="0,-12" previous="0,-12" roving="0" timevalue="71000"/><Keyframe anchor="0,-1.7" next="0,-1.7" previous="0,-1.7" roving="0" timevalue="76000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="77000"/><Keyframe anchor="0,1.62327e-009" next="0,1.62327e-009" previous="0,1.62327e-009" roving="0" timevalue="80000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="20000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="71000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="76000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="77000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="80000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="20000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="71000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="76000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="77000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="80000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="5000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="7000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="9000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="20000"/><Keyframe anchor="0,95" next="0,95" previous="0,95" roving="0" timevalue="21000"/><Keyframe anchor="0,65" next="0,65" previous="0,65" roving="0" timevalue="27000"/><Keyframe anchor="0,65" next="0,65" previous="0,65" roving="0" timevalue="71000"/><Keyframe anchor="0,95" next="0,95" previous="0,95" roving="0" timevalue="76000"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="77000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="80000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="5000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="7000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="9000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="20000"/><Keyframe anchor="0,95" next="0,95" previous="0,95" roving="0" timevalue="21000"/><Keyframe anchor="0,65" next="0,65" previous="0,65" roving="0" timevalue="27000"/><Keyframe anchor="0,65" next="0,65" previous="0,65" roving="0" timevalue="71000"/><Keyframe anchor="0,95" next="0,95" previous="0,95" roving="0" timevalue="76000"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="77000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="80000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/past/1933_brochure" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.0070648193359375" b="0.0070648193359375" c="-0.0070648193359375" d="0.0070648193359375" tx="356.1" ty="348.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.4" y="233.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="arrow" color="#0000FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/arrow_build" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="136.6" ty="362.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="60" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/arrow_build" centerPoint3DX="145.3" centerPoint3DY="369.45">
+                  <matrix>
+                    <Matrix tx="136.6" ty="362.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/arrow_build" symbolType="graphic" firstFrame="12" loop="single frame">
+                  <matrix>
+                    <Matrix tx="136.6" ty="362.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,1592 @@
+<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/did_you_know/dyk_pop_up" itemID="4ddbf34f-00000bfe" linkageExportForAS="true" linkageBaseClass="com.invision.client.components.DYKWindow" linkageClassName="dyk_pop_up" lastModified="1308839090" lastUniqueIdentifier="8" displayAsComponent="false" customIconID="0" actionscriptClass="com.invision.client.components.DYKWindow" persistLivePreview11="true" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true">
+  <timeline>
+    <DOMTimeline name="dyk_pop_up">
+      <layers>
+        <DOMLayer name="labels" color="#808080" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="normal" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="23" name="openBubble" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="16" name="closeBubble" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="23" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[onInitialize();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="23" duration="16" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[waitForClose();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[timelineComplete();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="close icon closing" color="#FF4F4F" locked="true" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="13" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="13000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.490196" xformPtYOffsetPct="0.490196" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="2000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="4000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="6000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="2000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="4000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="6000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="2000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="4000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="6000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="2000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="4000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="6000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="2000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="4000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="6000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="2000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="4000"/><Keyframe anchor="0,110" next="0,110" previous="0,110" roving="0" timevalue="6000"/><Keyframe anchor="0,1" next="0,1" previous="0,1" roving="0" timevalue="11000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="2000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="4000"/><Keyframe anchor="0,110" next="0,110" previous="0,110" roving="0" timevalue="6000"/><Keyframe anchor="0,1" next="0,1" previous="0,1" roving="0" timevalue="11000"/></Property></PropertyContainer><PropertyContainer id="Colors"><PropertyContainer id="Alpha_ColorXform"><Property enabled="1" id="Alpha_Amount" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="2000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="4000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="6000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/></Property></PropertyContainer></PropertyContainer><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_close" centerPoint3DX="338.5" centerPoint3DY="259.5">
+                  <matrix>
+                    <Matrix tx="313.5" ty="234.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="3" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="close icon opening" color="#FF800A" locked="true" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="17" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="17000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.490196" xformPtYOffsetPct="0.490196" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="16000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="16000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="16000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="16000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="16000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,1" next="0,1" previous="0,1" roving="0" timevalue="0"/><Keyframe anchor="0,110" next="0,110" previous="0,110" roving="0" timevalue="5000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="7000"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="9000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="11000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="16000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,1" next="0,1" previous="0,1" roving="0" timevalue="0"/><Keyframe anchor="0,110" next="0,110" previous="0,110" roving="0" timevalue="5000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="7000"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="9000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="11000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="16000"/></Property></PropertyContainer><PropertyContainer id="Colors"><PropertyContainer id="Alpha_ColorXform"><Property enabled="1" id="Alpha_Amount" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="5000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="7000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="9000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="11000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="16000"/></Property></PropertyContainer></PropertyContainer><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_close" name="dyk_btn_closeMe">
+                  <matrix>
+                    <Matrix a="0.0099945068359375" d="0.0099945068359375" tx="338.25" ty="259.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="16" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icon" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_icon" name="dyk_btn_openMe" centerPoint3DX="338.5" centerPoint3DY="259.5">
+                  <matrix>
+                    <Matrix tx="313" ty="234"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.5" y="25.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_icon" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="313" ty="234"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.5" y="25.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_icon" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.0099945068359375" d="0.0099945068359375" tx="338.25" ty="259.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="33" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_icon" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.0099945068359375" d="0.0099945068359375" tx="338.25" ty="259.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_icon" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="313" ty="234"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.5" y="25.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bubble open CLOSE" color="#9933CC" current="true" isSelected="true" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="36" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="36000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="1" xformPtYOffsetPct="1" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="8000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="15000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="19000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="23000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="25000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="27000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="30000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="33000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="35000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="8000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="15000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="19000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="23000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="25000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="27000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="30000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="33000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="35000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="8000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="15000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="19000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="23000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="25000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="27000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="30000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="33000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="35000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-2" next="0,-2" previous="0,-2" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="8000"/><Keyframe anchor="0,2" next="0,2" previous="0,2" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="15000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="19000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="23000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="25000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="27000"/><Keyframe anchor="0,2" next="0,2" previous="0,2" roving="0" timevalue="29000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="30000"/><Keyframe anchor="0,-2" next="0,-2" previous="0,-2" roving="0" timevalue="33000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="35000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="5000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="8000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="15000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="19000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="23000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="25000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="27000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="30000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="33000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="35000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,1" next="0,1" previous="0,1" roving="0" timevalue="0"/><Keyframe anchor="0,110" next="0,110" previous="0,110" roving="0" timevalue="5000"/><Keyframe anchor="0,106" next="0,106" previous="0,106" roving="0" timevalue="8000"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="9000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="11000"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="13000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="15000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="19000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="23000"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="25000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="27000"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="29000"/><Keyframe anchor="0,106" next="0,106" previous="0,106" roving="0" timevalue="30000"/><Keyframe anchor="0,110" next="0,110" previous="0,110" roving="0" timevalue="33000"/><Keyframe anchor="0,1" next="0,1" previous="0,1" roving="0" timevalue="35000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,1" next="0,1" previous="0,1" roving="0" timevalue="0"/><Keyframe anchor="0,110" next="0,110" previous="0,110" roving="0" timevalue="5000"/><Keyframe anchor="0,106" next="0,106" previous="0,106" roving="0" timevalue="8000"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="9000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="11000"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="13000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="15000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="19000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="23000"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="25000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="27000"/><Keyframe anchor="0,105" next="0,105" previous="0,105" roving="0" timevalue="29000"/><Keyframe anchor="0,106" next="0,106" previous="0,106" roving="0" timevalue="30000"/><Keyframe anchor="0,110" next="0,110" previous="0,110" roving="0" timevalue="33000"/><Keyframe anchor="0,1" next="0,1" previous="0,1" roving="0" timevalue="35000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/dyk_bubble" name="dyk_bubble" centerPoint3DX="173.5" centerPoint3DY="137.5">
+                  <matrix>
+                    <Matrix a="0.0099945068359375" d="0.0099945068359375" tx="347" ty="275"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" duration="4" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+  <parametersAsXML><![CDATA[   <property id="componentText">
+      <Inspectable name="WindowText" variable="componentText" category="" verbose="0" defaultValue="Hello2" type="String"/>
+   </property>
+]]></parametersAsXML>
+  <classProperties><![CDATA[<classDefs>
+	<classDef id="Date"/>
+	<classDef id="Date"/>
+	<classDef id="Object"/>
+	<classDef id="Class"/>
+	<classDef id="Function"/>
+	<classDef id="builtin.as$1.MethodClosure"/>
+	<classDef id="Namespace"/>
+	<classDef id="Boolean"/>
+	<classDef id="Number"/>
+	<classDef id="int"/>
+	<classDef id="uint"/>
+	<classDef id="String"/>
+	<classDef id="Array"/>
+	<classDef id="__AS3__.vec.Vector"/>
+	<classDef id="__AS3__.vec.Vector$object"/>
+	<classDef id="__AS3__.vec.Vector$int"/>
+	<classDef id="__AS3__.vec.Vector$uint"/>
+	<classDef id="__AS3__.vec.Vector$double"/>
+	<classDef id="Object"/>
+	<classDef id="Class"/>
+	<classDef id="Function"/>
+	<classDef id="Namespace"/>
+	<classDef id="Boolean"/>
+	<classDef id="Number"/>
+	<classDef id="int"/>
+	<classDef id="uint"/>
+	<classDef id="String"/>
+	<classDef id="Array"/>
+	<classDef id="__AS3__.vec.Vector"/>
+	<classDef id="__AS3__.vec.Vector$object"/>
+	<classDef id="__AS3__.vec.Vector$int"/>
+	<classDef id="__AS3__.vec.Vector$uint"/>
+	<classDef id="__AS3__.vec.Vector$double"/>
+	<classDef id="builtin.as$1.MethodClosure"/>
+	<classDef id="flash.display.MovieClip"/>
+	<classDef id="flash.display.MovieClip"/>
+	<classDef id="flash.display.Sprite"/>
+	<classDef id="flash.display.Sprite"/>
+	<classDef id="flash.display.DisplayObjectContainer"/>
+	<classDef id="flash.display.DisplayObjectContainer"/>
+	<classDef id="flash.display.InteractiveObject"/>
+	<classDef id="flash.display.InteractiveObject"/>
+	<classDef id="flash.display.DisplayObject"/>
+	<classDef id="flash.display.DisplayObject"/>
+	<classDef id="flash.display.IBitmapDrawable"/>
+	<classDef id="flash.display.IBitmapDrawable"/>
+	<classDef id="flash.events.EventDispatcher"/>
+	<classDef id="flash.events.WeakMethodClosure"/>
+	<classDef id="flash.events.WeakFunctionClosure"/>
+	<classDef id="flash.events.WeakMethodClosure"/>
+	<classDef id="flash.events.WeakFunctionClosure"/>
+	<classDef id="flash.events.EventDispatcher"/>
+	<classDef id="flash.events.IEventDispatcher"/>
+	<classDef id="flash.events.IEventDispatcher"/>
+	<classDef id="XML"/>
+	<classDef id="XMLList"/>
+	<classDef id="QName"/>
+	<classDef id="XML"/>
+	<classDef id="XMLList"/>
+	<classDef id="QName"/>
+	<classDef id="flash.events.Event"/>
+	<classDef id="flash.events.Event"/>
+	<classDef id="flash.events.HTTPStatusEvent"/>
+	<classDef id="flash.events.HTTPStatusEvent"/>
+	<classDef id="flash.display.FocusDirection"/>
+	<classDef id="flash.display.Stage"/>
+	<classDef id="flash.display.Stage"/>
+	<classDef id="flash.display.FocusDirection"/>
+	<classDef id="flash.display.Shader"/>
+	<classDef id="flash.display.Shader"/>
+	<classDef id="flash.geom.Vector3D"/>
+	<classDef id="flash.geom.Vector3D"/>
+	<classDef id="flash.geom.Rectangle"/>
+	<classDef id="flash.geom.Rectangle"/>
+	<classDef id="flash.geom.Point"/>
+	<classDef id="flash.geom.Point"/>
+	<classDef id="flash.display.LoaderInfo"/>
+	<classDef id="flash.display.LoaderInfo"/>
+	<classDef id="flash.geom.Transform"/>
+	<classDef id="flash.geom.Transform"/>
+	<classDef id="flash.accessibility.AccessibilityProperties"/>
+	<classDef id="flash.accessibility.AccessibilityProperties"/>
+	<classDef id="flash.ui.ContextMenu"/>
+	<classDef id="flash.ui.ContextMenu"/>
+	<classDef id="flash.accessibility.AccessibilityImplementation"/>
+	<classDef id="flash.accessibility.AccessibilityImplementation"/>
+	<classDef id="flash.text.TextSnapshot"/>
+	<classDef id="flash.text.TextSnapshot"/>
+	<classDef id="flash.media.SoundTransform"/>
+	<classDef id="flash.media.SoundTransform"/>
+	<classDef id="flash.display.Graphics"/>
+	<classDef id="flash.display.Graphics"/>
+	<classDef id="flash.display.Scene"/>
+	<classDef id="flash.display.Scene"/>
+	<classDef id="flash.events.MouseEvent"/>
+	<classDef id="flash.events.MouseEvent"/>
+	<classDef id="fl.text.TLFTextField"/>
+	<classDef id="fl.text.TLFTextField"/>
+	<classDef id="Error"/>
+	<classDef id="DefinitionError"/>
+	<classDef id="EvalError"/>
+	<classDef id="RangeError"/>
+	<classDef id="ReferenceError"/>
+	<classDef id="SecurityError"/>
+	<classDef id="SyntaxError"/>
+	<classDef id="TypeError"/>
+	<classDef id="URIError"/>
+	<classDef id="VerifyError"/>
+	<classDef id="UninitializedError"/>
+	<classDef id="ArgumentError"/>
+	<classDef id="Error"/>
+	<classDef id="DefinitionError"/>
+	<classDef id="EvalError"/>
+	<classDef id="RangeError"/>
+	<classDef id="ReferenceError"/>
+	<classDef id="SecurityError"/>
+	<classDef id="SyntaxError"/>
+	<classDef id="TypeError"/>
+	<classDef id="URIError"/>
+	<classDef id="VerifyError"/>
+	<classDef id="UninitializedError"/>
+	<classDef id="ArgumentError"/>
+	<classDef id="flash.net.URLRequestHeader"/>
+	<classDef id="flash.net.URLRequestHeader"/>
+	<classDef id="flash.events.TransformGestureEvent"/>
+	<classDef id="flash.events.TransformGestureEvent"/>
+	<classDef id="flash.events.FocusEvent"/>
+	<classDef id="flash.events.FocusEvent"/>
+	<classDef id="flash.events.PressAndTapGestureEvent"/>
+	<classDef id="flash.events.PressAndTapGestureEvent"/>
+	<classDef id="flash.events.TouchEvent"/>
+	<classDef id="flash.events.TouchEvent"/>
+	<classDef id="flash.events.GestureEvent"/>
+	<classDef id="flash.events.GestureEvent"/>
+	<classDef id="flash.events.IMEEvent"/>
+	<classDef id="flash.events.IMEEvent"/>
+	<classDef id="flash.events.KeyboardEvent"/>
+	<classDef id="flash.events.KeyboardEvent"/>
+	<classDef id="flash.events.TextEvent"/>
+	<classDef id="flash.events.TextEvent"/>
+	<classDef id="Math"/>
+	<classDef id="Math"/>
+	<classDef id="flash.display.NativeMenu"/>
+	<classDef id="flash.display.NativeMenu"/>
+	<classDef id="flash.display.ShaderData"/>
+	<classDef id="flash.display.ShaderData"/>
+	<classDef id="flash.utils.ByteArray"/>
+	<classDef id="flash.utils.ByteArray"/>
+	<classDef id="flash.geom.Matrix"/>
+	<classDef id="flash.geom.Matrix"/>
+	<classDef id="flash.geom.Matrix3D"/>
+	<classDef id="flash.geom.Matrix3D"/>
+	<classDef id="flash.geom.ColorTransform"/>
+	<classDef id="flash.geom.ColorTransform"/>
+	<classDef id="flash.geom.PerspectiveProjection"/>
+	<classDef id="flash.geom.PerspectiveProjection"/>
+	<classDef id="flash.display.IGraphicsData"/>
+	<classDef id="flash.display.IGraphicsData"/>
+	<classDef id="flash.display.IGraphicsStroke"/>
+	<classDef id="flash.display.IGraphicsStroke"/>
+	<classDef id="flash.display.GraphicsPath"/>
+	<classDef id="flash.display.GraphicsPath"/>
+	<classDef id="flash.display.GraphicsStroke"/>
+	<classDef id="flash.display.GraphicsStroke"/>
+	<classDef id="flash.display.GraphicsShaderFill"/>
+	<classDef id="flash.display.GraphicsShaderFill"/>
+	<classDef id="flash.display.GraphicsGradientFill"/>
+	<classDef id="flash.display.GraphicsGradientFill"/>
+	<classDef id="flash.display.BitmapData"/>
+	<classDef id="flash.display.BitmapData"/>
+	<classDef id="flash.display.GraphicsBitmapFill"/>
+	<classDef id="flash.display.GraphicsBitmapFill"/>
+	<classDef id="flash.display.IGraphicsFill"/>
+	<classDef id="flash.display.IGraphicsFill"/>
+	<classDef id="flash.display.IGraphicsPath"/>
+	<classDef id="flash.display.IGraphicsPath"/>
+	<classDef id="flash.display.GraphicsSolidFill"/>
+	<classDef id="flash.display.GraphicsSolidFill"/>
+	<classDef id="flash.display.GraphicsTrianglePath"/>
+	<classDef id="flash.display.GraphicsTrianglePath"/>
+	<classDef id="flash.display.Loader"/>
+	<classDef id="flash.display.Loader"/>
+	<classDef id="flash.system.ApplicationDomain"/>
+	<classDef id="flash.system.ApplicationDomain"/>
+	<classDef id="flash.events.UncaughtErrorEvents"/>
+	<classDef id="flash.events.UncaughtErrorEvents"/>
+	<classDef id="flash.text.ime.IIMEClient"/>
+	<classDef id="flash.text.ime.IIMEClient"/>
+	<classDef id="flash.ui.ContextMenuClipboardItems"/>
+	<classDef id="flash.ui.ContextMenuClipboardItems"/>
+	<classDef id="flash.net.URLRequest"/>
+	<classDef id="flash.net.URLRequest"/>
+	<classDef id="flash.ui.ContextMenuBuiltInItems"/>
+	<classDef id="flash.ui.ContextMenuBuiltInItems"/>
+	<classDef id="flashx.textLayout.container.ContainerController"/>
+	<classDef id="ContainerController.as$195.PsuedoMouseEvent"/>
+	<classDef id="ContainerController.as$195.PsuedoMouseEvent"/>
+	<classDef id="flashx.textLayout.container.ContainerController"/>
+	<classDef id="flashx.textLayout.operations.PasteOperation"/>
+	<classDef id="flashx.textLayout.operations.PasteOperation"/>
+	<classDef id="flashx.textLayout.events.FlowElementMouseEvent"/>
+	<classDef id="flashx.textLayout.events.FlowElementMouseEvent"/>
+	<classDef id="flashx.textLayout.edit.EditManager"/>
+	<classDef id="flashx.textLayout.edit.EditManager"/>
+	<classDef id="flashx.textLayout.elements.FlowGroupElement"/>
+	<classDef id="flashx.textLayout.elements.FlowGroupElement"/>
+	<classDef id="flashx.textLayout.formats.ITextLayoutFormat"/>
+	<classDef id="flashx.textLayout.formats.ITextLayoutFormat"/>
+	<classDef id="flash.text.TextFormat"/>
+	<classDef id="flash.text.TextFormat"/>
+	<classDef id="flashx.textLayout.elements.FlowElement"/>
+	<classDef id="flashx.textLayout.elements.FlowElement"/>
+	<classDef id="flashx.textLayout.formats.TextLayoutFormat"/>
+	<classDef id="flashx.textLayout.formats.TextLayoutFormat"/>
+	<classDef id="flashx.textLayout.elements.FlowLeafElement"/>
+	<classDef id="flashx.textLayout.elements.FlowLeafElement"/>
+	<classDef id="flashx.textLayout.elements.Configuration"/>
+	<classDef id="flashx.textLayout.elements.Configuration"/>
+	<classDef id="flash.text.engine.TextLine"/>
+	<classDef id="flash.text.engine.TextLine"/>
+	<classDef id="flashx.textLayout.edit.ElementRange"/>
+	<classDef id="flashx.textLayout.edit.ElementRange"/>
+	<classDef id="flashx.textLayout.formats.TabStopFormat"/>
+	<classDef id="flashx.textLayout.formats.TabStopFormat"/>
+	<classDef id="flash.text.TextLineMetrics"/>
+	<classDef id="flash.text.TextLineMetrics"/>
+	<classDef id="flashx.textLayout.operations.FlowTextOperation"/>
+	<classDef id="flashx.textLayout.operations.FlowTextOperation"/>
+	<classDef id="flashx.textLayout.elements.InlineGraphicElement"/>
+	<classDef id="flashx.textLayout.elements.InlineGraphicElement"/>
+	<classDef id="flashx.textLayout.edit.ISelectionManager"/>
+	<classDef id="flashx.textLayout.edit.ISelectionManager"/>
+	<classDef id="flashx.textLayout.events.TextLayoutEvent"/>
+	<classDef id="flashx.textLayout.events.TextLayoutEvent"/>
+	<classDef id="flashx.textLayout.conversion.ITextImporter"/>
+	<classDef id="flashx.textLayout.conversion.ITextImporter"/>
+	<classDef id="flashx.textLayout.edit.SelectionFormat"/>
+	<classDef id="flashx.textLayout.edit.SelectionFormat"/>
+	<classDef id="flashx.textLayout.container.ColumnState"/>
+	<classDef id="flashx.textLayout.container.ColumnState"/>
+	<classDef id="fl.text.container.TLFContainerController"/>
+	<classDef id="fl.text.container.TLFContainerController"/>
+	<classDef id="flashx.textLayout.operations.FlowOperation"/>
+	<classDef id="flashx.textLayout.operations.FlowOperation"/>
+	<classDef id="flashx.textLayout.compose.TextFlowLine"/>
+	<classDef id="TextFlowLine.as$207.SelectionCache"/>
+	<classDef id="TextFlowLine.as$207.NumberLineUserData"/>
+	<classDef id="TextFlowLine.as$207.NumberLineFactory"/>
+	<classDef id="TextFlowLine.as$207.NumberLineFactory"/>
+	<classDef id="TextFlowLine.as$207.SelectionCache"/>
+	<classDef id="TextFlowLine.as$207.NumberLineUserData"/>
+	<classDef id="flashx.textLayout.compose.TextFlowLine"/>
+	<classDef id="flash.display.Shape"/>
+	<classDef id="flash.display.Shape"/>
+	<classDef id="flashx.textLayout.elements.TextFlow"/>
+	<classDef id="TextFlow.as$29.HostFormatHelper"/>
+	<classDef id="flashx.textLayout.elements.TextFlow"/>
+	<classDef id="TextFlow.as$29.HostFormatHelper"/>
+	<classDef id="flashx.textLayout.elements.LinkElement"/>
+	<classDef id="flashx.textLayout.elements.LinkElement"/>
+	<classDef id="flashx.textLayout.events.CompositionCompleteEvent"/>
+	<classDef id="flashx.textLayout.events.CompositionCompleteEvent"/>
+	<classDef id="flashx.textLayout.edit.SelectionState"/>
+	<classDef id="flashx.textLayout.edit.SelectionState"/>
+	<classDef id="flashx.textLayout.events.FlowOperationEvent"/>
+	<classDef id="flashx.textLayout.events.FlowOperationEvent"/>
+	<classDef id="flashx.textLayout.operations.InsertTextOperation"/>
+	<classDef id="flashx.textLayout.operations.InsertTextOperation"/>
+	<classDef id="flashx.textLayout.compose.IFlowComposer"/>
+	<classDef id="flashx.textLayout.compose.IFlowComposer"/>
+	<classDef id="flash.text.StyleSheet"/>
+	<classDef id="flash.text.StyleSheet"/>
+	<classDef id="flashx.textLayout.elements.ContainerFormattedElement"/>
+	<classDef id="flashx.textLayout.elements.ContainerFormattedElement"/>
+	<classDef id="flash.display.GraphicsEndFill"/>
+	<classDef id="flash.display.GraphicsEndFill"/>
+	<classDef id="flash.events.ProgressEvent"/>
+	<classDef id="flash.events.ProgressEvent"/>
+	<classDef id="flash.events.IOErrorEvent"/>
+	<classDef id="flash.events.IOErrorEvent"/>
+	<classDef id="flash.errors.IllegalOperationError"/>
+	<classDef id="flash.errors.IOError"/>
+	<classDef id="flash.errors.MemoryError"/>
+	<classDef id="flash.errors.EOFError"/>
+	<classDef id="flash.errors.StackOverflowError"/>
+	<classDef id="flash.errors.ScriptTimeoutError"/>
+	<classDef id="flash.errors.InvalidSWFError"/>
+	<classDef id="flash.errors.IllegalOperationError"/>
+	<classDef id="flash.errors.IOError"/>
+	<classDef id="flash.errors.MemoryError"/>
+	<classDef id="flash.errors.StackOverflowError"/>
+	<classDef id="flash.errors.ScriptTimeoutError"/>
+	<classDef id="flash.errors.InvalidSWFError"/>
+	<classDef id="flash.errors.EOFError"/>
+	<classDef id="flash.events.ContextMenuEvent"/>
+	<classDef id="flash.events.ContextMenuEvent"/>
+	<classDef id="flash.events.FullScreenEvent"/>
+	<classDef id="flash.events.FullScreenEvent"/>
+	<classDef id="flash.display.LineScaleMode"/>
+	<classDef id="flash.display.LineScaleMode"/>
+	<classDef id="flash.text.engine.FontDescription"/>
+	<classDef id="flash.text.engine.FontDescription"/>
+	<classDef id="flash.display.JointStyle"/>
+	<classDef id="flash.display.JointStyle"/>
+	<classDef id="flashx.textLayout.formats.WhiteSpaceCollapse"/>
+	<classDef id="flashx.textLayout.formats.WhiteSpaceCollapse"/>
+	<classDef id="flash.text.engine.RenderingMode"/>
+	<classDef id="flash.text.engine.RenderingMode"/>
+	<classDef id="flashx.textLayout.edit.EditingMode"/>
+	<classDef id="flashx.textLayout.edit.EditingMode"/>
+	<classDef id="flashx.textLayout.operations.SplitParagraphOperation"/>
+	<classDef id="flashx.textLayout.operations.SplitParagraphOperation"/>
+	<classDef id="flashx.textLayout.conversion.ConversionType"/>
+	<classDef id="flashx.textLayout.conversion.ConversionType"/>
+	<classDef id="flashx.textLayout.formats.Direction"/>
+	<classDef id="flashx.textLayout.formats.Direction"/>
+	<classDef id="flash.text.FontStyle"/>
+	<classDef id="flash.text.FontStyle"/>
+	<classDef id="flash.text.engine.Kerning"/>
+	<classDef id="flash.text.engine.Kerning"/>
+	<classDef id="flash.text.engine.CFFHinting"/>
+	<classDef id="flash.text.engine.CFFHinting"/>
+	<classDef id="flashx.textLayout.formats.TextDecoration"/>
+	<classDef id="flashx.textLayout.formats.TextDecoration"/>
+	<classDef id="flash.text.GridFitType"/>
+	<classDef id="flash.text.GridFitType"/>
+	<classDef id="flashx.textLayout.operations.CutOperation"/>
+	<classDef id="flashx.textLayout.operations.CutOperation"/>
+	<classDef id="flash.text.engine.TabAlignment"/>
+	<classDef id="flash.text.engine.TabAlignment"/>
+	<classDef id="flash.text.TextFormatAlign"/>
+	<classDef id="flash.text.TextFormatAlign"/>
+	<classDef id="flash.display.CapsStyle"/>
+	<classDef id="flash.display.CapsStyle"/>
+	<classDef id="flash.text.engine.FontPosture"/>
+	<classDef id="flash.text.engine.FontPosture"/>
+	<classDef id="flash.text.engine.TextLineValidity"/>
+	<classDef id="flash.text.engine.TextLineValidity"/>
+	<classDef id="flashx.textLayout.operations.DeleteTextOperation"/>
+	<classDef id="flashx.textLayout.operations.DeleteTextOperation"/>
+	<classDef id="flash.text.engine.FontLookup"/>
+	<classDef id="flash.text.engine.FontLookup"/>
+	<classDef id="flash.text.TextFieldAutoSize"/>
+	<classDef id="flash.text.TextFieldAutoSize"/>
+	<classDef id="flash.text.TextFieldType"/>
+	<classDef id="flash.text.TextFieldType"/>
+	<classDef id="flashx.textLayout.formats.LeadingModel"/>
+	<classDef id="flashx.textLayout.formats.LeadingModel"/>
+	<classDef id="flashx.textLayout.formats.FormatValue"/>
+	<classDef id="flashx.textLayout.formats.FormatValue"/>
+	<classDef id="flash.text.AntiAliasType"/>
+	<classDef id="flash.text.AntiAliasType"/>
+	<classDef id="flashx.textLayout.formats.LineBreak"/>
+	<classDef id="flashx.textLayout.formats.LineBreak"/>
+	<classDef id="flashx.textLayout.formats.BlockProgression"/>
+	<classDef id="flashx.textLayout.formats.BlockProgression"/>
+	<classDef id="flashx.textLayout.conversion.TextConverter"/>
+	<classDef id="flashx.textLayout.conversion.TextConverter"/>
+	<classDef id="flash.text.engine.FontWeight"/>
+	<classDef id="flash.text.engine.FontWeight"/>
+	<classDef id="flashx.textLayout.edit.SelectionManager"/>
+	<classDef id="flashx.textLayout.edit.SelectionManager"/>
+	<classDef id="flash.utils.IDataInput"/>
+	<classDef id="flash.utils.IDataInput"/>
+	<classDef id="flash.utils.IDataOutput"/>
+	<classDef id="flash.utils.IDataOutput"/>
+	<classDef id="flashx.textLayout.edit.IInteractionEventHandler"/>
+	<classDef id="flashx.textLayout.edit.IInteractionEventHandler"/>
+	<classDef id="flashx.textLayout.container.ISandboxSupport"/>
+	<classDef id="flashx.textLayout.container.ISandboxSupport"/>
+	<classDef id="flashx.textLayout.edit.IEditManager"/>
+	<classDef id="flashx.textLayout.edit.IEditManager"/>
+	<classDef id="flashx.textLayout.elements.IConfiguration"/>
+	<classDef id="flashx.textLayout.elements.IConfiguration"/>
+	<classDef id="flashx.textLayout.formats.ITabStopFormat"/>
+	<classDef id="flashx.textLayout.formats.ITabStopFormat"/>
+	<classDef id="flashx.undo.IOperation"/>
+	<classDef id="flashx.undo.IOperation"/>
+	<classDef id="flashx.textLayout.compose.IVerticalJustificationLine"/>
+	<classDef id="flashx.textLayout.compose.IVerticalJustificationLine"/>
+	<classDef id="flashx.textLayout.factory.StringTextLineFactory"/>
+	<classDef id="flashx.textLayout.factory.StringTextLineFactory"/>
+	<classDef id="flashx.textLayout.elements.SubParagraphGroupElementBase"/>
+	<classDef id="flashx.textLayout.elements.SubParagraphGroupElementBase"/>
+	<classDef id="flashx.textLayout.elements.TextRange"/>
+	<classDef id="flashx.textLayout.elements.TextRange"/>
+	<classDef id="flashx.textLayout.elements.ParagraphFormattedElement"/>
+	<classDef id="flashx.textLayout.elements.ParagraphFormattedElement"/>
+	<classDef id="flash.events.ErrorEvent"/>
+	<classDef id="flash.events.ErrorEvent"/>
+	<classDef id="flash.events.ActivityEvent"/>
+	<classDef id="flash.events.ActivityEvent"/>
+	<classDef id="flashx.textLayout.operations.SplitElementOperation"/>
+	<classDef id="flashx.textLayout.operations.SplitElementOperation"/>
+	<classDef id="flashx.textLayout.factory.TextLineFactoryBase"/>
+	<classDef id="flashx.textLayout.factory.TextLineFactoryBase"/>
+	<classDef id="flash.text.ime.CompositionAttributeRange"/>
+	<classDef id="flash.text.ime.CompositionAttributeRange"/>
+	<classDef id="RegExp"/>
+	<classDef id="RegExp"/>
+	<classDef id="flashx.textLayout.elements.ParagraphElement"/>
+	<classDef id="flashx.textLayout.elements.ParagraphElement"/>
+	<classDef id="flashx.textLayout.compose.ISWFContext"/>
+	<classDef id="flashx.textLayout.compose.ISWFContext"/>
+	<classDef id="flashx.textLayout.conversion.FormatDescriptor"/>
+	<classDef id="flashx.textLayout.conversion.FormatDescriptor"/>
+	<classDef id="flashx.textLayout.conversion.ITextExporter"/>
+	<classDef id="flashx.textLayout.conversion.ITextExporter"/>
+	<classDef id="flashx.textLayout.formats.IListMarkerFormat"/>
+	<classDef id="flashx.textLayout.formats.IListMarkerFormat"/>
+	<classDef id="flashx.textLayout.factory.TruncationOptions"/>
+	<classDef id="flashx.textLayout.factory.TruncationOptions"/>
+	<classDef id="flash.text.engine.TextBlock"/>
+	<classDef id="flash.text.engine.TextBlock"/>
+	<classDef id="flashx.textLayout.compose.SimpleCompose"/>
+	<classDef id="SimpleCompose.as$198.VJHelper"/>
+	<classDef id="flashx.textLayout.compose.SimpleCompose"/>
+	<classDef id="SimpleCompose.as$198.VJHelper"/>
+	<classDef id="flash.filters.BitmapFilter"/>
+	<classDef id="flash.filters.BitmapFilter"/>
+	<classDef id="flashx.textLayout.property.Property"/>
+	<classDef id="flashx.textLayout.property.Property"/>
+	<classDef id="flashx.textLayout.elements.FlowValueHolder"/>
+	<classDef id="flashx.textLayout.elements.FlowValueHolder"/>
+	<classDef id="flashx.textLayout.formats.ListMarkerFormat"/>
+	<classDef id="flashx.textLayout.formats.ListMarkerFormat"/>
+	<classDef id="flashx.textLayout.elements.SpanElement"/>
+	<classDef id="flashx.textLayout.elements.SpanElement"/>
+	<classDef id="flashx.textLayout.elements.BackgroundManager"/>
+	<classDef id="flashx.textLayout.elements.BackgroundManager"/>
+	<classDef id="flash.events.TimerEvent"/>
+	<classDef id="flash.events.TimerEvent"/>
+	<classDef id="flash.utils.Timer"/>
+	<classDef id="flash.utils.Timer"/>
+	<classDef id="flashx.textLayout.compose.FloatCompositionData"/>
+	<classDef id="flashx.textLayout.compose.FloatCompositionData"/>
+	<classDef id="flashx.textLayout.events.FlowElementMouseEventManager"/>
+	<classDef id="flashx.textLayout.events.FlowElementMouseEventManager"/>
+	<classDef id="flash.text.engine.GroupElement"/>
+	<classDef id="flash.text.engine.GroupElement"/>
+	<classDef id="flash.text.engine.ContentElement"/>
+	<classDef id="flash.text.engine.ContentElement"/>
+	<classDef id="flash.text.engine.TextElement"/>
+	<classDef id="flash.text.engine.TextElement"/>
+	<classDef id="flashx.textLayout.elements.TCYElement"/>
+	<classDef id="flashx.textLayout.elements.TCYElement"/>
+	<classDef id="flash.text.engine.FontMetrics"/>
+	<classDef id="flash.text.engine.FontMetrics"/>
+	<classDef id="flash.text.engine.ElementFormat"/>
+	<classDef id="flash.text.engine.ElementFormat"/>
+	<classDef id="flashx.textLayout.events.FlowElementEventDispatcher"/>
+	<classDef id="flashx.textLayout.events.FlowElementEventDispatcher"/>
+	<classDef id="flash.desktop.ClipboardFormats"/>
+	<classDef id="flash.desktop.ClipboardTransferMode"/>
+	<classDef id="flash.desktop.Clipboard"/>
+	<classDef id="flash.desktop.ClipboardFormats"/>
+	<classDef id="flash.desktop.ClipboardTransferMode"/>
+	<classDef id="flash.desktop.Clipboard"/>
+	<classDef id="flashx.textLayout.edit.Mark"/>
+	<classDef id="flashx.textLayout.edit.Mark"/>
+	<classDef id="flashx.textLayout.elements.ListElement"/>
+	<classDef id="flashx.textLayout.elements.ListElement"/>
+	<classDef id="flashx.textLayout.elements.SubParagraphGroupElement"/>
+	<classDef id="flashx.textLayout.elements.SubParagraphGroupElement"/>
+	<classDef id="flashx.textLayout.elements.DivElement"/>
+	<classDef id="flashx.textLayout.elements.DivElement"/>
+	<classDef id="flashx.undo.IUndoManager"/>
+	<classDef id="flashx.undo.IUndoManager"/>
+	<classDef id="flashx.textLayout.edit.TextScrap"/>
+	<classDef id="flashx.textLayout.edit.TextScrap"/>
+	<classDef id="flash.utils.Dictionary"/>
+	<classDef id="flash.utils.Dictionary"/>
+	<classDef id="flashx.textLayout.elements.ListItemElement"/>
+	<classDef id="flashx.textLayout.elements.ListItemElement"/>
+	<classDef id="flash.display.SimpleButton"/>
+	<classDef id="flash.display.SimpleButton"/>
+	<classDef id="flash.text.engine.GraphicElement"/>
+	<classDef id="flash.text.engine.GraphicElement"/>
+	<classDef id="flashx.textLayout.operations.InsertInlineGraphicOperation"/>
+	<classDef id="flashx.textLayout.operations.InsertInlineGraphicOperation"/>
+	<classDef id="flashx.textLayout.operations.UndoOperation"/>
+	<classDef id="flashx.textLayout.operations.UndoOperation"/>
+	<classDef id="flashx.textLayout.operations.ApplyLinkOperation"/>
+	<classDef id="flashx.textLayout.operations.ApplyLinkOperation"/>
+	<classDef id="flashx.textLayout.operations.CompositeOperation"/>
+	<classDef id="flashx.textLayout.operations.CompositeOperation"/>
+	<classDef id="flashx.textLayout.operations.MoveChildrenOperation"/>
+	<classDef id="flashx.textLayout.operations.MoveChildrenOperation"/>
+	<classDef id="flashx.textLayout.edit.IMEClient"/>
+	<classDef id="flashx.textLayout.edit.IMEClient"/>
+	<classDef id="flashx.textLayout.operations.CreateListOperation"/>
+	<classDef id="flashx.textLayout.operations.CreateListOperation"/>
+	<classDef id="flashx.textLayout.operations.CreateDivOperation"/>
+	<classDef id="flashx.textLayout.operations.CreateDivOperation"/>
+	<classDef id="flashx.textLayout.operations.ApplyTCYOperation"/>
+	<classDef id="flashx.textLayout.operations.ApplyTCYOperation"/>
+	<classDef id="flashx.textLayout.operations.CreateSubParagraphGroupOperation"/>
+	<classDef id="flashx.textLayout.operations.CreateSubParagraphGroupOperation"/>
+	<classDef id="flashx.textLayout.operations.RedoOperation"/>
+	<classDef id="flashx.textLayout.operations.RedoOperation"/>
+	<classDef id="flashx.textLayout.operations.ApplyFormatOperation"/>
+	<classDef id="flashx.textLayout.operations.ApplyFormatOperation"/>
+	<classDef id="flashx.textLayout.operations.ApplyFormatToElementOperation"/>
+	<classDef id="flashx.textLayout.operations.ApplyFormatToElementOperation"/>
+	<classDef id="flashx.textLayout.edit.PointFormat"/>
+	<classDef id="flashx.textLayout.edit.PointFormat"/>
+	<classDef id="flashx.textLayout.edit.IMemento"/>
+	<classDef id="flashx.textLayout.edit.IMemento"/>
+	<classDef id="flashx.textLayout.edit.ElementMark"/>
+	<classDef id="flashx.textLayout.edit.ElementMark"/>
+	<classDef id="flash.system.LoaderContext"/>
+	<classDef id="flash.system.LoaderContext"/>
+	<classDef id="flash.system.SecurityDomain"/>
+	<classDef id="flash.system.SecurityDomain"/>
+	<classDef id="flash.text.engine.TextLineMirrorRegion"/>
+	<classDef id="flash.text.engine.TextLineMirrorRegion"/>
+	<classDef id="flashx.textLayout.elements.IFormatResolver"/>
+	<classDef id="flashx.textLayout.elements.IFormatResolver"/>
+	<classDef id="flash.net.URLLoader"/>
+	<classDef id="flash.net.URLLoader"/>
+	<classDef id="flashx.textLayout.formats.Category"/>
+	<classDef id="flashx.textLayout.formats.Category"/>
+	<classDef id="flashx.textLayout.utils.Twips"/>
+	<classDef id="flashx.textLayout.utils.Twips"/>
+	<classDef id="flashx.textLayout.conversion.PlainTextExporter"/>
+	<classDef id="flashx.textLayout.conversion.PlainTextExporter"/>
+	<classDef id="flashx.textLayout.conversion.TextLayoutImporter"/>
+	<classDef id="flashx.textLayout.conversion.TextLayoutImporter"/>
+	<classDef id="flashx.textLayout.conversion.TextFieldHtmlImporter"/>
+	<classDef id="TextFieldHtmlImporter.as$311.CaseInsensitiveTLFFormatImporter"/>
+	<classDef id="TextFieldHtmlImporter.as$311.HtmlCustomParaFormatImporter"/>
+	<classDef id="TextFieldHtmlImporter.as$311.TextFormatImporter"/>
+	<classDef id="TextFieldHtmlImporter.as$311.FontImporter"/>
+	<classDef id="TextFieldHtmlImporter.as$311.CaseInsensitiveTLFFormatImporter"/>
+	<classDef id="TextFieldHtmlImporter.as$311.HtmlCustomParaFormatImporter"/>
+	<classDef id="TextFieldHtmlImporter.as$311.TextFormatImporter"/>
+	<classDef id="TextFieldHtmlImporter.as$311.FontImporter"/>
+	<classDef id="flashx.textLayout.conversion.TextFieldHtmlImporter"/>
+	<classDef id="flashx.textLayout.conversion.TextFieldHtmlExporter"/>
+	<classDef id="flashx.textLayout.conversion.TextFieldHtmlExporter"/>
+	<classDef id="flashx.textLayout.conversion.PlainTextImporter"/>
+	<classDef id="flashx.textLayout.conversion.PlainTextImporter"/>
+	<classDef id="flashx.textLayout.conversion.TextLayoutExporter"/>
+	<classDef id="flashx.textLayout.conversion.TextLayoutExporter"/>
+	<classDef id="flashx.textLayout.container.ScrollPolicy"/>
+	<classDef id="flashx.textLayout.container.ScrollPolicy"/>
+	<classDef id="flashx.textLayout.factory.FactoryDisplayComposer"/>
+	<classDef id="FactoryDisplayComposer.as$204.FactoryBackgroundManager"/>
+	<classDef id="flashx.textLayout.factory.FactoryDisplayComposer"/>
+	<classDef id="FactoryDisplayComposer.as$204.FactoryBackgroundManager"/>
+	<classDef id="flash.display.InterpolationMethod"/>
+	<classDef id="flash.display.InterpolationMethod"/>
+	<classDef id="flash.display.SpreadMethod"/>
+	<classDef id="flash.display.SpreadMethod"/>
+	<classDef id="flash.display.GradientType"/>
+	<classDef id="flash.display.GradientType"/>
+	<classDef id="flash.display.GraphicsPathWinding"/>
+	<classDef id="flash.display.GraphicsPathWinding"/>
+	<classDef id="flash.display.GraphicsPathCommand"/>
+	<classDef id="flash.display.GraphicsPathCommand"/>
+	<classDef id="flash.display.TriangleCulling"/>
+	<classDef id="flash.display.TriangleCulling"/>
+	<classDef id="flashx.textLayout.events.ModelChange"/>
+	<classDef id="flashx.textLayout.events.ModelChange"/>
+	<classDef id="flashx.textLayout.elements.GlobalSettings"/>
+	<classDef id="flashx.textLayout.elements.GlobalSettings"/>
+	<classDef id="flash.text.engine.JustificationStyle"/>
+	<classDef id="flash.text.engine.JustificationStyle"/>
+	<classDef id="flashx.textLayout.formats.VerticalAlign"/>
+	<classDef id="flashx.textLayout.formats.VerticalAlign"/>
+	<classDef id="flashx.textLayout.formats.TLFTypographicCase"/>
+	<classDef id="flashx.textLayout.formats.TLFTypographicCase"/>
+	<classDef id="flashx.textLayout.formats.ListStylePosition"/>
+	<classDef id="flashx.textLayout.formats.ListStylePosition"/>
+	<classDef id="flashx.textLayout.formats.JustificationRule"/>
+	<classDef id="flashx.textLayout.formats.JustificationRule"/>
+	<classDef id="flashx.textLayout.formats.BaselineShift"/>
+	<classDef id="flashx.textLayout.formats.BaselineShift"/>
+	<classDef id="flash.text.engine.DigitCase"/>
+	<classDef id="flash.text.engine.DigitCase"/>
+	<classDef id="flashx.textLayout.formats.BaselineOffset"/>
+	<classDef id="flashx.textLayout.formats.BaselineOffset"/>
+	<classDef id="flashx.textLayout.formats.BackgroundColor"/>
+	<classDef id="flashx.textLayout.formats.BackgroundColor"/>
+	<classDef id="flashx.textLayout.formats.TextJustify"/>
+	<classDef id="flashx.textLayout.formats.TextJustify"/>
+	<classDef id="flashx.textLayout.formats.ListStyleType"/>
+	<classDef id="flashx.textLayout.formats.ListStyleType"/>
+	<classDef id="flash.text.engine.LigatureLevel"/>
+	<classDef id="flash.text.engine.LigatureLevel"/>
+	<classDef id="flash.text.engine.TextRotation"/>
+	<classDef id="flash.text.engine.TextRotation"/>
+	<classDef id="flash.text.engine.DigitWidth"/>
+	<classDef id="flash.text.engine.DigitWidth"/>
+	<classDef id="flashx.textLayout.formats.ClearFloats"/>
+	<classDef id="flashx.textLayout.formats.ClearFloats"/>
+	<classDef id="flashx.textLayout.formats.TextAlign"/>
+	<classDef id="flashx.textLayout.formats.TextAlign"/>
+	<classDef id="flash.text.engine.BreakOpportunity"/>
+	<classDef id="flash.text.engine.BreakOpportunity"/>
+	<classDef id="flash.text.engine.TextBaseline"/>
+	<classDef id="flash.text.engine.TextBaseline"/>
+	<classDef id="flashx.textLayout.compose.StandardFlowComposer"/>
+	<classDef id="flashx.textLayout.compose.StandardFlowComposer"/>
+	<classDef id="flashx.textLayout.elements.OverflowPolicy"/>
+	<classDef id="flashx.textLayout.elements.OverflowPolicy"/>
+	<classDef id="flash.display.BlendMode"/>
+	<classDef id="flash.display.BlendMode"/>
+	<classDef id="flash.system.Capabilities"/>
+	<classDef id="flash.system.Capabilities"/>
+	<classDef id="flashx.textLayout.compose.FlowComposerBase"/>
+	<classDef id="flashx.textLayout.compose.FlowComposerBase"/>
+	<classDef id="flash.events.UncaughtErrorEvent"/>
+	<classDef id="flash.events.UncaughtErrorEvent"/>
+	<classDef id="flashx.textLayout.compose.FlowDamageType"/>
+	<classDef id="flashx.textLayout.compose.FlowDamageType"/>
+	<classDef id="flashx.textLayout.compose.TextLineRecycler"/>
+	<classDef id="flashx.textLayout.compose.TextLineRecycler"/>
+	<classDef id="flashx.textLayout.events.ScrollEvent"/>
+	<classDef id="flashx.textLayout.events.ScrollEvent"/>
+	<classDef id="flashx.textLayout.events.UpdateCompleteEvent"/>
+	<classDef id="flashx.textLayout.events.UpdateCompleteEvent"/>
+	<classDef id="flashx.textLayout.events.ScrollEventDirection"/>
+	<classDef id="flashx.textLayout.events.ScrollEventDirection"/>
+	<classDef id="flashx.textLayout.formats.Float"/>
+	<classDef id="flashx.textLayout.formats.Float"/>
+	<classDef id="flashx.textLayout.utils.CharacterUtil"/>
+	<classDef id="flashx.textLayout.utils.CharacterUtil"/>
+	<classDef id="flashx.textLayout.utils.LocaleUtil"/>
+	<classDef id="LocaleUtil.as$136.LocaleSettings"/>
+	<classDef id="flashx.textLayout.utils.LocaleUtil"/>
+	<classDef id="LocaleUtil.as$136.LocaleSettings"/>
+	<classDef id="flash.text.engine.TypographicCase"/>
+	<classDef id="flash.text.engine.TypographicCase"/>
+	<classDef id="flashx.textLayout.formats.IMEStatus"/>
+	<classDef id="flashx.textLayout.formats.IMEStatus"/>
+	<classDef id="flashx.textLayout.events.SelectionEvent"/>
+	<classDef id="flashx.textLayout.events.SelectionEvent"/>
+	<classDef id="flashx.textLayout.operations.CopyOperation"/>
+	<classDef id="flashx.textLayout.operations.CopyOperation"/>
+	<classDef id="flash.ui.MouseCursor"/>
+	<classDef id="flash.ui.MouseCursor"/>
+	<classDef id="flash.ui.Mouse"/>
+	<classDef id="flash.ui.Mouse"/>
+	<classDef id="flashx.textLayout.edit.SelectionFormatState"/>
+	<classDef id="flashx.textLayout.edit.SelectionFormatState"/>
+	<classDef id="flashx.textLayout.edit.TextClipboard"/>
+	<classDef id="TextClipboard.as$270.TextClipboardSingletonEnforcer"/>
+	<classDef id="flashx.textLayout.edit.TextClipboard"/>
+	<classDef id="TextClipboard.as$270.TextClipboardSingletonEnforcer"/>
+	<classDef id="flash.ui.Keyboard"/>
+	<classDef id="flash.ui.Keyboard"/>
+	<classDef id="flashx.textLayout.utils.NavigationUtil"/>
+	<classDef id="flashx.textLayout.utils.NavigationUtil"/>
+	<classDef id="flashx.textLayout.elements.LinkState"/>
+	<classDef id="flashx.textLayout.elements.LinkState"/>
+	<classDef id="flashx.textLayout.compose.BaseCompose"/>
+	<classDef id="BaseCompose.as$159.AlignData"/>
+	<classDef id="BaseCompose.as$159.GlobalSWFContext"/>
+	<classDef id="BaseCompose.as$159.LeadingAdjustment"/>
+	<classDef id="flashx.textLayout.compose.BaseCompose"/>
+	<classDef id="BaseCompose.as$159.AlignData"/>
+	<classDef id="BaseCompose.as$159.LeadingAdjustment"/>
+	<classDef id="BaseCompose.as$159.GlobalSWFContext"/>
+	<classDef id="flashx.textLayout.compose.TextFlowLineLocation"/>
+	<classDef id="flashx.textLayout.compose.TextFlowLineLocation"/>
+	<classDef id="flash.system.IME"/>
+	<classDef id="flash.system.IME"/>
+	<classDef id="flashx.textLayout.events.StatusChangeEvent"/>
+	<classDef id="flashx.textLayout.events.StatusChangeEvent"/>
+	<classDef id="flashx.textLayout.elements.InlineGraphicElementStatus"/>
+	<classDef id="flashx.textLayout.elements.InlineGraphicElementStatus"/>
+	<classDef id="flashx.textLayout.operations.ApplyElementIDOperation"/>
+	<classDef id="flashx.textLayout.operations.ApplyElementIDOperation"/>
+	<classDef id="flashx.textLayout.operations.ModifyInlineGraphicOperation"/>
+	<classDef id="flashx.textLayout.operations.ModifyInlineGraphicOperation"/>
+	<classDef id="flashx.textLayout.operations.ApplyElementTypeNameOperation"/>
+	<classDef id="flashx.textLayout.operations.ApplyElementTypeNameOperation"/>
+	<classDef id="flashx.textLayout.operations.ClearFormatOnElementOperation"/>
+	<classDef id="flashx.textLayout.operations.ClearFormatOnElementOperation"/>
+	<classDef id="flashx.textLayout.operations.ClearFormatOperation"/>
+	<classDef id="flashx.textLayout.operations.ClearFormatOperation"/>
+	<classDef id="flashx.textLayout.edit.TextFlowEdit"/>
+	<classDef id="flashx.textLayout.edit.TextFlowEdit"/>
+	<classDef id="flashx.textLayout.conversion.ConverterBase"/>
+	<classDef id="flashx.textLayout.conversion.ConverterBase"/>
+	<classDef id="flashx.textLayout.edit.ModelEdit"/>
+	<classDef id="ModelEdit.as$164.BaseMemento"/>
+	<classDef id="ModelEdit.as$164.DeleteTextMemento"/>
+	<classDef id="ModelEdit.as$164.TextRangeMemento"/>
+	<classDef id="ModelEdit.as$164.InternalSplitFGEMemento"/>
+	<classDef id="ModelEdit.as$164.SplitMemento"/>
+	<classDef id="ModelEdit.as$164.JoinMemento"/>
+	<classDef id="ModelEdit.as$164.AddElementMemento"/>
+	<classDef id="ModelEdit.as$164.MoveElementMemento"/>
+	<classDef id="ModelEdit.as$164.RemoveElementsMemento"/>
+	<classDef id="flashx.textLayout.edit.ModelEdit"/>
+	<classDef id="ModelEdit.as$164.BaseMemento"/>
+	<classDef id="ModelEdit.as$164.DeleteTextMemento"/>
+	<classDef id="ModelEdit.as$164.InternalSplitFGEMemento"/>
+	<classDef id="ModelEdit.as$164.SplitMemento"/>
+	<classDef id="ModelEdit.as$164.JoinMemento"/>
+	<classDef id="ModelEdit.as$164.AddElementMemento"/>
+	<classDef id="ModelEdit.as$164.MoveElementMemento"/>
+	<classDef id="ModelEdit.as$164.RemoveElementsMemento"/>
+	<classDef id="ModelEdit.as$164.TextRangeMemento"/>
+	<classDef id="flashx.textLayout.edit.ParaEdit"/>
+	<classDef id="flashx.textLayout.edit.ParaEdit"/>
+	<classDef id="flashx.textLayout.events.DamageEvent"/>
+	<classDef id="flashx.textLayout.events.DamageEvent"/>
+	<classDef id="flash.text.ime.IIMEClient"/>
+	<classDef id="flash.text.ime.IIMEClient"/>
+	<classDef id="flashx.textLayout.operations.FlowElementOperation"/>
+	<classDef id="flashx.textLayout.operations.FlowElementOperation"/>
+	<classDef id="flashx.textLayout.conversion.IPlainTextExporter"/>
+	<classDef id="flashx.textLayout.conversion.IPlainTextExporter"/>
+	<classDef id="flashx.textLayout.conversion.BaseTextLayoutImporter"/>
+	<classDef id="flashx.textLayout.conversion.BaseTextLayoutImporter"/>
+	<classDef id="flashx.textLayout.conversion.ITextLayoutImporter"/>
+	<classDef id="flashx.textLayout.conversion.ITextLayoutImporter"/>
+	<classDef id="flashx.textLayout.conversion.IHTMLImporter"/>
+	<classDef id="flashx.textLayout.conversion.IHTMLImporter"/>
+	<classDef id="flashx.textLayout.conversion.TLFormatImporter"/>
+	<classDef id="flashx.textLayout.conversion.TLFormatImporter"/>
+	<classDef id="flashx.textLayout.conversion.BaseTextLayoutExporter"/>
+	<classDef id="flashx.textLayout.conversion.BaseTextLayoutExporter"/>
+	<classDef id="flashx.textLayout.conversion.IFormatImporter"/>
+	<classDef id="flashx.textLayout.conversion.IFormatImporter"/>
+	<classDef id="flash.text.engine.TextJustifier"/>
+	<classDef id="flash.text.engine.TextJustifier"/>
+	<classDef id="flash.text.engine.TabStop"/>
+	<classDef id="flash.text.engine.TabStop"/>
+	<classDef id="flashx.textLayout.property.EnumPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.EnumPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.NumberPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.NumberPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.FormatPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.FormatPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.BooleanPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.BooleanPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.UintPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.UintPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.ArrayProperty"/>
+	<classDef id="flashx.textLayout.property.ArrayProperty"/>
+	<classDef id="flashx.textLayout.property.StringPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.StringPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.IntPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.IntPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.PercentPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.PercentPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.UndefinedPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.UndefinedPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.PropertyHandler"/>
+	<classDef id="flashx.textLayout.property.PropertyHandler"/>
+	<classDef id="flashx.textLayout.utils.HitTestArea"/>
+	<classDef id="flashx.textLayout.utils.HitTestArea"/>
+	<classDef id="flash.net.SharedObject"/>
+	<classDef id="flash.net.SharedObject"/>
+	<classDef id="flash.text.TextField"/>
+	<classDef id="flash.text.TextField"/>
+	<classDef id="flash.events.SecurityErrorEvent"/>
+	<classDef id="flash.events.SecurityErrorEvent"/>
+	<classDef id="flash.events.NetStatusEvent"/>
+	<classDef id="flash.events.NetStatusEvent"/>
+	<classDef id="flash.media.Video"/>
+	<classDef id="flash.media.Video"/>
+	<classDef id="flash.media.Sound"/>
+	<classDef id="flash.media.Sound"/>
+	<classDef id="flash.net.NetConnection"/>
+	<classDef id="flash.net.NetConnection"/>
+	<classDef id="flash.net.NetStream"/>
+	<classDef id="flash.net.NetStream"/>
+	<classDef id="flashx.textLayout.edit.MementoList"/>
+	<classDef id="flashx.textLayout.edit.MementoList"/>
+	<classDef id="flash.text.ime.CompositionAttributeRange"/>
+	<classDef id="flash.text.ime.CompositionAttributeRange"/>
+	<classDef id="flashx.textLayout.compose.Parcel"/>
+	<classDef id="Parcel.as$90.Span"/>
+	<classDef id="Parcel.as$90.Edge"/>
+	<classDef id="flashx.textLayout.compose.Parcel"/>
+	<classDef id="Parcel.as$90.Span"/>
+	<classDef id="Parcel.as$90.Edge"/>
+	<classDef id="flashx.textLayout.compose.ParcelList"/>
+	<classDef id="flashx.textLayout.compose.ParcelList"/>
+	<classDef id="flashx.textLayout.compose.Slug"/>
+	<classDef id="flashx.textLayout.compose.Slug"/>
+	<classDef id="flashx.textLayout.compose.ComposeState"/>
+	<classDef id="flashx.textLayout.compose.ComposeState"/>
+	<classDef id="flashx.textLayout.elements.BreakElement"/>
+	<classDef id="flashx.textLayout.elements.BreakElement"/>
+	<classDef id="flashx.textLayout.elements.TabElement"/>
+	<classDef id="flashx.textLayout.elements.TabElement"/>
+	<classDef id="flashx.textLayout.conversion.FlowElementInfo"/>
+	<classDef id="flashx.textLayout.conversion.FlowElementInfo"/>
+	<classDef id="flashx.textLayout.conversion.ImportExportConfiguration"/>
+	<classDef id="flashx.textLayout.conversion.ImportExportConfiguration"/>
+	<classDef id="flashx.undo.UndoManager"/>
+	<classDef id="flashx.undo.UndoManager"/>
+	<classDef id="flash.net.URLStream"/>
+	<classDef id="flash.net.URLStream"/>
+	<classDef id="flashx.textLayout.conversion.CustomFormatImporter"/>
+	<classDef id="flashx.textLayout.conversion.CustomFormatImporter"/>
+	<classDef id="flashx.textLayout.conversion.SingletonAttributeImporter"/>
+	<classDef id="flashx.textLayout.conversion.SingletonAttributeImporter"/>
+	<classDef id="flash.text.engine.SpaceJustifier"/>
+	<classDef id="flash.text.engine.SpaceJustifier"/>
+	<classDef id="flash.text.engine.EastAsianJustifier"/>
+	<classDef id="flash.text.engine.EastAsianJustifier"/>
+	<classDef id="flash.media.SoundChannel"/>
+	<classDef id="flash.media.SoundChannel"/>
+	<classDef id="flash.printing.PrintJob"/>
+	<classDef id="flash.printing.PrintJob"/>
+	<classDef id="flash.net.URLVariables"/>
+	<classDef id="flash.net.URLVariables"/>
+	<classDef id="flash.media.SoundLoaderContext"/>
+	<classDef id="flash.media.SoundLoaderContext"/>
+	<classDef id="flashx.textLayout.property.SpacingLimitPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.SpacingLimitPropertyHandler"/>
+	<classDef id="flashx.textLayout.property.TabStopsProperty"/>
+	<classDef id="flashx.textLayout.property.TabStopsProperty"/>
+	<classDef id="flashx.textLayout.utils.GeometryUtil"/>
+	<classDef id="flashx.textLayout.utils.GeometryUtil"/>
+	<classDef id="flash.system.Security"/>
+	<classDef id="flash.system.Security"/>
+	<classDef id="flash.system.FSCommand"/>
+	<classDef id="flash.system.FSCommand"/>
+	<classDef id="flash.external.ExternalInterface"/>
+	<classDef id="flash.external.ExternalInterface"/>
+	<classDef id="flash.net.URLRequestMethod"/>
+	<classDef id="flash.net.URLRequestMethod"/>
+	<classDef id="flash.system.System"/>
+	<classDef id="flash.system.System"/>
+	<classDef id="flashx.textLayout.compose.VerticalJustifier"/>
+	<classDef id="VerticalJustifier.as$93.IVerticalAdjustmentHelper"/>
+	<classDef id="VerticalJustifier.as$93.TB_VJHelper"/>
+	<classDef id="VerticalJustifier.as$93.RL_VJHelper"/>
+	<classDef id="flashx.textLayout.compose.VerticalJustifier"/>
+	<classDef id="VerticalJustifier.as$93.IVerticalAdjustmentHelper"/>
+	<classDef id="VerticalJustifier.as$93.TB_VJHelper"/>
+	<classDef id="VerticalJustifier.as$93.RL_VJHelper"/>
+	<classDef id="flash.text.engine.TextLineCreationResult"/>
+	<classDef id="flash.text.engine.TextLineCreationResult"/>
+	<classDef id="flashx.textLayout.accessibility.TextAccImpl"/>
+	<classDef id="flashx.textLayout.accessibility.TextAccImpl"/>
+	<classDef id="flashx.textLayout.TextLayoutVersion"/>
+	<classDef id="flashx.textLayout.TextLayoutVersion"/>
+	<classDef id="flashx.textLayout.formats.Suffix"/>
+	<classDef id="flashx.textLayout.formats.Suffix"/>
+	<classDef id="flashx.textLayout.property.CounterPropHandler"/>
+	<classDef id="flashx.textLayout.property.CounterPropHandler"/>
+	<classDef id="flashx.textLayout.property.CounterContentHandler"/>
+	<classDef id="flashx.textLayout.property.CounterContentHandler"/>
+	<classDef id="flash.text.engine.LineJustification"/>
+	<classDef id="flash.text.engine.LineJustification"/>
+	<classDef id="flash.media.SoundMixer"/>
+	<classDef id="flash.media.SoundMixer"/>
+	<classDef id="flashx.textLayout.elements.SpecialCharacterElement"/>
+	<classDef id="flashx.textLayout.elements.SpecialCharacterElement"/>
+	<classDef id="flash.media.ID3Info"/>
+	<classDef id="flash.media.ID3Info"/>
+	<classDef id="flash.net.Responder"/>
+	<classDef id="flash.net.Responder"/>
+	<classDef id="flash.media.Microphone"/>
+	<classDef id="flash.media.Microphone"/>
+	<classDef id="flash.net.NetStreamInfo"/>
+	<classDef id="flash.net.NetStreamInfo"/>
+	<classDef id="flash.net.NetStreamMulticastInfo"/>
+	<classDef id="flash.net.NetStreamMulticastInfo"/>
+	<classDef id="flash.media.Camera"/>
+	<classDef id="flash.media.Camera"/>
+	<classDef id="flash.net.NetStreamPlayOptions"/>
+	<classDef id="flash.net.NetStreamPlayOptions"/>
+	<classDef id="flash.printing.PrintJobOptions"/>
+	<classDef id="flash.printing.PrintJobOptions"/>
+	<classDef id="flash.text.TextRun"/>
+	<classDef id="flash.text.TextRun"/>
+	<classDef id="flash.filters.GlowFilter"/>
+	<classDef id="flash.filters.GlowFilter"/>
+	<classDef id="flash.filters.BevelFilter"/>
+	<classDef id="flash.filters.BevelFilter"/>
+	<classDef id="flash.filters.DropShadowFilter"/>
+	<classDef id="flash.filters.DropShadowFilter"/>
+	<classDef id="flash.ui.ContextMenuItem"/>
+	<classDef id="flash.ui.ContextMenuItem"/>
+	<classDef id="flash.accessibility.Accessibility"/>
+	<classDef id="flash.accessibility.Accessibility"/>
+	<classDef id="flash.events.AsyncErrorEvent"/>
+	<classDef id="flash.events.AsyncErrorEvent"/>
+	<classDef id="flash.events.SyncEvent"/>
+	<classDef id="flash.events.SyncEvent"/>
+	<classDef id="flash.net.SharedObjectFlushStatus"/>
+	<classDef id="flash.net.SharedObjectFlushStatus"/>
+	<classDef id="flash.events.SampleDataEvent"/>
+	<classDef id="flash.events.SampleDataEvent"/>
+	<classDef id="flash.events.DRMAuthenticateEvent"/>
+	<classDef id="flash.events.DRMAuthenticateEvent"/>
+	<classDef id="flash.events.DRMErrorEvent"/>
+	<classDef id="flash.events.DRMErrorEvent"/>
+	<classDef id="flash.events.DRMCustomProperties"/>
+	<classDef id="flash.events.DRMStatusEvent"/>
+	<classDef id="flash.events.DRMStatusEvent"/>
+	<classDef id="flash.events.DRMCustomProperties"/>
+	<classDef id="flash.events.StatusEvent"/>
+	<classDef id="flash.events.StatusEvent"/>
+	<classDef id="flash.filters.ColorMatrixFilter"/>
+	<classDef id="flash.filters.ColorMatrixFilter"/>
+	<classDef id="flash.filters.BlurFilter"/>
+	<classDef id="flash.filters.BlurFilter"/>
+	<classDef id="flash.display.StageScaleMode"/>
+	<classDef id="flash.display.StageScaleMode"/>
+	<classDef id="flash.display.NativeMenuItem"/>
+	<classDef id="flash.display.NativeMenuItem"/>
+	<classDef id="flash.net.drm.DRMManagerSession"/>
+	<classDef id="flash.net.drm.DRMAuthenticationContext"/>
+	<classDef id="flash.net.drm.DRMPlaybackTimeWindow"/>
+	<classDef id="flash.net.drm.DRMVoucher"/>
+	<classDef id="flash.net.drm.DRMVoucherDownloadContext"/>
+	<classDef id="flash.net.drm.DRMVoucherStoreContext"/>
+	<classDef id="flash.net.drm.DRMManager"/>
+	<classDef id="flash.net.drm.DRMModuleCycleProvider"/>
+	<classDef id="flash.net.drm.DRMURLDownloadContext"/>
+	<classDef id="flash.net.drm.DRMManagerSession"/>
+	<classDef id="flash.net.drm.DRMManager"/>
+	<classDef id="flash.net.drm.DRMURLDownloadContext"/>
+	<classDef id="flash.net.drm.DRMAuthenticationContext"/>
+	<classDef id="flash.net.drm.DRMVoucherDownloadContext"/>
+	<classDef id="flash.net.drm.DRMVoucherStoreContext"/>
+	<classDef id="flash.net.drm.DRMPlaybackTimeWindow"/>
+	<classDef id="flash.net.drm.DRMVoucher"/>
+	<classDef id="flash.net.drm.DRMModuleCycleProvider"/>
+	<classDef id="flash.net.drm.DRMContentData"/>
+	<classDef id="flash.net.drm.DRMContentData"/>
+	<classDef id="flash.net.drm.AuthenticationMethod"/>
+	<classDef id="flash.net.drm.LoadVoucherSetting"/>
+	<classDef id="flash.net.drm.AuthenticationMethod"/>
+	<classDef id="flash.net.drm.LoadVoucherSetting"/>
+	<classDef id="flash.net.drm.VoucherAccessInfo"/>
+	<classDef id="flash.net.drm.VoucherAccessInfo"/>
+	<classDef id="flash.events.DRMAuthenticationCompleteEvent"/>
+	<classDef id="flash.events.DRMAuthenticationCompleteEvent"/>
+	<classDef id="flash.events.DRMAuthenticationErrorEvent"/>
+	<classDef id="flash.events.DRMAuthenticationErrorEvent"/>
+	<classDef id="flash.net.URLLoaderDataFormat"/>
+	<classDef id="flash.net.URLLoaderDataFormat"/>
+	<classDef id="com.invision.CoreConstants"/>
+	<classDef id="com.invision.interfaces.ISceneRenderer"/>
+	<classDef id="com.invision.Scene"/>
+	<classDef id="com.invision.module.Module"/>
+	<classDef id="com.invision.ui.ControlManager"/>
+	<classDef id="com.invision.data.Preprocessor"/>
+	<classDef id="com.invision.utils.KeyListener"/>
+	<classDef id="com.invision.data.CustomTracking"/>
+	<classDef id="com.invision.ui.PopupManager"/>
+	<classDef id="com.invision.debug.DebugKeyListener"/>
+	<classDef id="com.invision.debug.SceneJumper"/>
+	<classDef id="com.invision.XMLManager"/>
+	<classDef id="com.invision.data.SCORM12"/>
+	<classDef id="com.invision.ui.VideoControls"/>
+	<classDef id="com.invision.data.ServerCommunication"/>
+	<classDef id="com.invision.Template"/>
+	<classDef id="com.invision.interfaces.ISequence"/>
+	<classDef id="com.invision.ui.MP3"/>
+	<classDef id="com.invision.data.Hashtable"/>
+	<classDef id="com.greensock.core.TweenCore"/>
+	<classDef id="com.invision.ui.TextContainer"/>
+	<classDef id="com.invision.ui.ImageContainer"/>
+	<classDef id="com.invision.Interaction"/>
+	<classDef id="com.invision.module.JobAidData"/>
+	<classDef id="com.invision.data.List"/>
+	<classDef id="com.invision.module.AdminData"/>
+	<classDef id="com.invision.module.GlossaryData"/>
+	<classDef id="com.invision.interfaces.IQuestion"/>
+	<classDef id="com.invision.module.CSSStyleData"/>
+	<classDef id="com.invision.interfaces.IControl"/>
+	<classDef id="com.invision.interfaces.IPopup"/>
+	<classDef id="com.greensock.core.PropTween"/>
+	<classDef id="com.invision.client.CourseSecurity"/>
+	<classDef id="com.invision.ui.VideoContainer"/>
+	<classDef id="com.invision.ui.Image"/>
+	<classDef id="com.invision.ui.Shape"/>
+	<classDef id="com.invision.interfaces.IInteractive"/>
+	<classDef id="com.invision.EncryptDecrypt"/>
+	<classDef id="com.invision.data.SCORM"/>
+	<classDef id="com.greensock.OverwriteManager"/>
+	<classDef id="com.greensock.plugins.TweenPlugin"/>
+	<classDef id="com.invision.client.ProgramConstants"/>
+	<classDef id="com.invision.assessment.Question"/>
+	<classDef id="com.invision.ui.Graphic"/>
+	<classDef id="com.invision.ui.FLVVideo"/>
+	<classDef id="com.invision.ui.FLV"/>
+	<classDef id="com.invision.data.XMLUtility"/>
+	<classDef id="com.greensock.easing.Expo"/>
+	<classDef id="com.invision.client.interfaces.IOutline"/>
+	<classDef id="com.invision.controller.AudioEvent"/>
+	<classDef id="com.greensock.events.TweenEvent"/>
+	<classDef id="com.invision.events.AudioEvent"/>
+	<classDef id="com.invision.client.events.OutlineEvent"/>
+	<classDef id="com.invision.module.Lesson"/>
+	<classDef id="com.greensock.TweenLite"/>
+	<classDef id="com.greensock.core.SimpleTimeline"/>
+	<classDef id="com.greensock.plugins.BezierPlugin"/>
+	<classDef id="com.greensock.plugins.EndArrayPlugin"/>
+	<classDef id="EndArrayPlugin.as$439.ArrayTweenInfo"/>
+	<classDef id="com.greensock.plugins.VolumePlugin"/>
+	<classDef id="com.greensock.plugins.HexColorsPlugin"/>
+	<classDef id="com.greensock.plugins.VisiblePlugin"/>
+	<classDef id="com.greensock.plugins.RoundPropsPlugin"/>
+	<classDef id="com.greensock.plugins.ShortRotationPlugin"/>
+	<classDef id="com.greensock.plugins.FramePlugin"/>
+	<classDef id="com.greensock.plugins.AutoAlphaPlugin"/>
+	<classDef id="com.greensock.plugins.TintPlugin"/>
+	<classDef id="com.greensock.plugins.FilterPlugin"/>
+	<classDef id="com.invision.assessment.RankOrderQuestion"/>
+	<classDef id="com.invision.assessment.TrueFalseQuestion"/>
+	<classDef id="com.invision.assessment.MultipleChoiceQuestion"/>
+	<classDef id="com.invision.assessment.FillBlankQuestion"/>
+	<classDef id="com.invision.assessment.ExploreQuestion"/>
+	<classDef id="com.invision.assessment.DragDropQuestion"/>
+	<classDef id="com.invision.client.NavigationManager"/>
+	<classDef id="com.invision.client.model.ProgressIndicatorModel"/>
+	<classDef id="com.invision.client.controllers.ProgressIndicatorController"/>
+	<classDef id="com.invision.client.controllers.OutlineController"/>
+	<classDef id="com.invision.utils.Watcher"/>
+	<classDef id="com.invision.client.model.OutlineModel"/>
+	<classDef id="com.invision.module.Assessment"/>
+	<classDef id="com.invision.module.SubSequence"/>
+	<classDef id="com.greensock.TweenMax"/>
+	<classDef id="com.greensock.plugins.BezierThroughPlugin"/>
+	<classDef id="com.greensock.plugins.FrameLabelPlugin"/>
+	<classDef id="com.greensock.plugins.RemoveTintPlugin"/>
+	<classDef id="com.greensock.plugins.ColorTransformPlugin"/>
+	<classDef id="com.greensock.plugins.BevelFilterPlugin"/>
+	<classDef id="com.greensock.plugins.DropShadowFilterPlugin"/>
+	<classDef id="com.greensock.plugins.ColorMatrixFilterPlugin"/>
+	<classDef id="com.greensock.plugins.BlurFilterPlugin"/>
+	<classDef id="com.greensock.plugins.GlowFilterPlugin"/>
+	<classDef id="com.invision.Audio"/>
+	<classDef id="com.invision.client.components.DYKWindow"/>
+	<classDef id="com.invision.client.components.BasicButton"/>
+	<classDef id="com.invision.Core"/>
+	<classDef id="com.invision.client.Course"/>
+	<classDef id="com.invision.ui.ErrorManager"/>
+	<classDef id="com.invision.SceneContainer"/>
+	<classDef id="com.invision.ui.BookMarkContainer"/>
+	<classDef id="com.invision.SceneRenderer"/>
+	<classDef id="com.invision.client.views.ProgressIndicatorView"/>
+	<classDef id="com.invision.client.components.TranscriptWindow"/>
+	<classDef id="com.invision.client.components.BookmarkWindow"/>
+	<classDef id="com.invision.client.StubCore"/>
+	<classDef id="com.invision.ui.Popup"/>
+	<classDef id="com.invision.client.views.ComponentView"/>
+	<classDef id="com.invision.StubLoader"/>
+	<classDef id="com.invision.client.components.NavButton"/>
+	<classDef id="com.invision.client.components.SummaryQuestion"/>
+	<classDef id="answer_multi"/>
+	<classDef id="video_player_imagescreens"/>
+	<classDef id="btn_video_play_image"/>
+	<classDef id="btn_video_play_bubble"/>
+	<classDef id="com.invision.client.BasicRenderer"/>
+	<classDef id="closedcaptionWindow"/>
+	<classDef id="bookmarkWindow"/>
+	<classDef id="com.invision.client.components.NavigationWindow"/>
+	<classDef id="com.invision.client.components.AudioPreloaderWindow"/>
+	<classDef id="com.invision.client.components.PDAWindow"/>
+	<classDef id="com.invision.client.components.ErrorWindow"/>
+	<classDef id="com.invision.client.components.ImageWindow"/>
+	<classDef id="com.invision.client.views.CompositeView"/>
+	<classDef id="com.invision.client.components.StubView"/>
+	<classDef id="com.invision.client.components.PauseButton"/>
+	<classDef id="summaryQuestion"/>
+	<classDef id="com.invision.client.renderers.FinalTestResults"/>
+	<classDef id="com.invision.client.renderers.FinalTestIntro"/>
+	<classDef id="com.invision.client.renderers.FinalTestSubmit"/>
+	<classDef id="com.invision.client.renderers.CourseConclusion"/>
+	<classDef id="com.invision.client.renderers.MultipleChoice"/>
+	<classDef id="audiopreloadWindow"/>
+	<classDef id="errorWindow"/>
+	<classDef id="com.invision.client.views.OutlineView"/>
+	<classDef id="com.invision.client.views.OutlineContainerView"/>
+	<classDef id="com.invision.client.views.OutlineItemView"/>
+	<classDef id="com.invision.client.views.OutlineSubItemView"/>
+	<classDef id="mainmenuoutline_mc"/>
+	<classDef id="container_lesson"/>
+	<classDef id="lesson_item"/>
+	<classDef id="lesson_subitem_text"/>
+</classDefs>
+<class id="com.invision.client.components.DYKWindow" >
+	<__go_to_ctor_definition_help file="C:\Projects\New Balance\New Balance History 101\FLASH\src\com\invision\client\components\DYKWindow.as" pos="728" />
+	<native cls="MovieClipClass" instance="MovieClipObject" methods="auto" />
+	<native cls="SpriteClass" instance="SpriteObject" methods="auto" />
+	<native cls="ContainerClass" instance="ContainerObject" methods="auto" />
+	<native cls="InteractiveObjectClass" instance="InteractiveObject" methods="auto" />
+	<Event name="textInput" type="flash.events.TextEvent" />
+	<Event name="imeStartComposition" type="flash.events.IMEEvent" />
+	<Event name="contextMenu" type="flash.events.MouseEvent" />
+	<Event name="nativeDragComplete" type="flash.events.NativeDragEvent" />
+	<Event name="nativeDragUpdate" type="flash.events.NativeDragEvent" />
+	<Event name="nativeDragStart" type="flash.events.NativeDragEvent" />
+	<Event name="nativeDragExit" type="flash.events.NativeDragEvent" />
+	<Event name="nativeDragDrop" type="flash.events.NativeDragEvent" />
+	<Event name="nativeDragOver" type="flash.events.NativeDragEvent" />
+	<Event name="nativeDragEnter" type="flash.events.NativeDragEvent" />
+	<Event name="tabIndexChange" type="flash.events.Event" />
+	<Event name="tabEnabledChange" type="flash.events.Event" />
+	<Event name="tabChildrenChange" type="flash.events.Event" />
+	<Event name="keyUp" type="flash.events.KeyboardEvent" />
+	<Event name="keyDown" type="flash.events.KeyboardEvent" />
+	<Event name="rightMouseUp" type="flash.events.MouseEvent" />
+	<Event name="rightMouseDown" type="flash.events.MouseEvent" />
+	<Event name="rightClick" type="flash.events.MouseEvent" />
+	<Event name="middleMouseUp" type="flash.events.MouseEvent" />
+	<Event name="middleMouseDown" type="flash.events.MouseEvent" />
+	<Event name="middleClick" type="flash.events.MouseEvent" />
+	<Event name="gestureSwipe" type="flash.events.TransformGestureEvent" />
+	<Event name="gestureZoom" type="flash.events.TransformGestureEvent" />
+	<Event name="gestureRotate" type="flash.events.TransformGestureEvent" />
+	<Event name="gesturePressAndTap" type="flash.events.PressAndTapGestureEvent" />
+	<Event name="gesturePan" type="flash.events.TransformGestureEvent" />
+	<Event name="gestureTwoFingerTap" type="flash.events.GestureEvent" />
+	<Event name="touchTap" type="flash.events.TouchEvent" />
+	<Event name="touchRollOver" type="flash.events.TouchEvent" />
+	<Event name="touchRollOut" type="flash.events.TouchEvent" />
+	<Event name="touchOver" type="flash.events.TouchEvent" />
+	<Event name="touchOut" type="flash.events.TouchEvent" />
+	<Event name="touchMove" type="flash.events.TouchEvent" />
+	<Event name="touchEnd" type="flash.events.TouchEvent" />
+	<Event name="touchBegin" type="flash.events.TouchEvent" />
+	<Event name="rollOver" type="flash.events.MouseEvent" />
+	<Event name="rollOut" type="flash.events.MouseEvent" />
+	<Event name="mouseWheel" type="flash.events.MouseEvent" />
+	<Event name="mouseUp" type="flash.events.MouseEvent" />
+	<Event name="mouseOver" type="flash.events.MouseEvent" />
+	<Event name="mouseOut" type="flash.events.MouseEvent" />
+	<Event name="mouseMove" type="flash.events.MouseEvent" />
+	<Event name="mouseDown" type="flash.events.MouseEvent" />
+	<Event name="doubleClick" type="flash.events.MouseEvent" />
+	<Event name="click" type="flash.events.MouseEvent" />
+	<Event name="mouseFocusChange" type="flash.events.FocusEvent" />
+	<Event name="keyFocusChange" type="flash.events.FocusEvent" />
+	<Event name="focusOut" type="flash.events.FocusEvent" />
+	<Event name="focusIn" type="flash.events.FocusEvent" />
+	<Event name="selectAll" type="flash.events.Event" />
+	<Event name="paste" type="flash.events.Event" />
+	<Event name="cut" type="flash.events.Event" />
+	<Event name="copy" type="flash.events.Event" />
+	<Event name="clear" type="flash.events.Event" />
+	<native cls="DisplayObjectClass" instance="DisplayObject" methods="auto" />
+	<Event name="render" type="flash.events.Event" />
+	<Event name="removedFromStage" type="flash.events.Event" />
+	<Event name="removed" type="flash.events.Event" />
+	<Event name="exitFrame" type="flash.events.Event" />
+	<Event name="frameConstructed" type="flash.events.Event" />
+	<Event name="enterFrame" type="flash.events.Event" />
+	<Event name="addedToStage" type="flash.events.Event" />
+	<Event name="added" type="flash.events.Event" />
+	<native cls="EventDispatcherClass" instance="EventDispatcherObject" methods="auto" />
+	<Event name="deactivate" type="flash.events.Event" />
+	<Event name="activate" type="flash.events.Event" />
+	<native cls="ObjectClass" methods="auto" />
+	<method id="componentText" returnType="String" isProperty="true" permissions="readwrite">
+		<Inspectable name="WindowText" defaultValue="Hello2" type="String" />
+	</method>
+	<method id="dyk_btn_openMe" returnType="MovieClip" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="dyk_bubble" returnType="MovieClip" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="dyk_btn_closeMe" returnType="MovieClip" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="currentFrame" returnType="int" isProperty="true" permissions="readonly">
+	</method>
+	<method id="framesLoaded" returnType="int" isProperty="true" permissions="readonly">
+	</method>
+	<method id="totalFrames" returnType="int" isProperty="true" permissions="readonly">
+	</method>
+	<method id="trackAsMenu" returnType="Boolean" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="scenes" returnType="Array" isProperty="true" permissions="readonly">
+	</method>
+	<method id="currentScene" returnType="Scene" isProperty="true" permissions="readonly">
+	</method>
+	<method id="currentLabel" returnType="String" isProperty="true" permissions="readonly">
+	</method>
+	<method id="currentFrameLabel" returnType="String" isProperty="true" permissions="readonly">
+		<Version param1="10" />
+	</method>
+	<method id="currentLabels" returnType="Array" isProperty="true" permissions="readonly">
+	</method>
+	<method id="enabled" returnType="Boolean" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="graphics" returnType="Graphics" isProperty="true" permissions="readonly">
+	</method>
+	<method id="buttonMode" returnType="Boolean" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="dropTarget" returnType="DisplayObject" isProperty="true" permissions="readonly">
+	</method>
+	<method id="hitArea" returnType="Sprite" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="useHandCursor" returnType="Boolean" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="soundTransform" returnType="SoundTransform" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="numChildren" returnType="int" isProperty="true" permissions="readonly">
+	</method>
+	<method id="textSnapshot" returnType="TextSnapshot" isProperty="true" permissions="readonly">
+	</method>
+	<method id="tabChildren" returnType="Boolean" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="mouseChildren" returnType="Boolean" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="tabEnabled" returnType="Boolean" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="tabIndex" returnType="int" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="focusRect" returnType="Object" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="mouseEnabled" returnType="Boolean" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="doubleClickEnabled" returnType="Boolean" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="contextMenu" returnType="ContextMenu" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="accessibilityImplementation" returnType="AccessibilityImplementation" isProperty="true" permissions="readwrite">
+		<Inspectable environment="none" />
+	</method>
+	<method id="root" returnType="DisplayObject" isProperty="true" permissions="readonly">
+	</method>
+	<method id="stage" returnType="Stage" isProperty="true" permissions="readonly">
+	</method>
+	<method id="name" returnType="String" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="parent" returnType="DisplayObjectContainer" isProperty="true" permissions="readonly">
+	</method>
+	<method id="mask" returnType="DisplayObject" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="visible" returnType="Boolean" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="x" returnType="Number" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="y" returnType="Number" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="z" returnType="Number" isProperty="true" permissions="readwrite">
+		<Version param1="10" />
+		<Version param1="10" />
+	</method>
+	<method id="scaleX" returnType="Number" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="scaleY" returnType="Number" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="scaleZ" returnType="Number" isProperty="true" permissions="readwrite">
+		<Version param1="10" />
+		<Version param1="10" />
+	</method>
+	<method id="mouseX" returnType="Number" isProperty="true" permissions="readonly">
+	</method>
+	<method id="mouseY" returnType="Number" isProperty="true" permissions="readonly">
+	</method>
+	<method id="rotation" returnType="Number" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="rotationX" returnType="Number" isProperty="true" permissions="readwrite">
+		<Version param1="10" />
+		<Version param1="10" />
+	</method>
+	<method id="rotationY" returnType="Number" isProperty="true" permissions="readwrite">
+		<Version param1="10" />
+		<Version param1="10" />
+	</method>
+	<method id="rotationZ" returnType="Number" isProperty="true" permissions="readwrite">
+		<Version param1="10" />
+		<Version param1="10" />
+	</method>
+	<method id="alpha" returnType="Number" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="width" returnType="Number" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="height" returnType="Number" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="cacheAsBitmap" returnType="Boolean" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="opaqueBackground" returnType="Object" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="scrollRect" returnType="Rectangle" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="filters" returnType="Array" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="blendMode" returnType="String" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="transform" returnType="Transform" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="scale9Grid" returnType="Rectangle" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="loaderInfo" returnType="LoaderInfo" isProperty="true" permissions="readonly">
+	</method>
+	<method id="accessibilityProperties" returnType="AccessibilityProperties" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="blendShader" returnType="Shader" isProperty="true" permissions="writeonly">
+		<Version param1="10" />
+	</method>
+	<method id="onFrameScript24" returnType="void" isProperty="false">
+	</method>
+	<method id="initialize" returnType="void" isProperty="false">
+	</method>
+	<method id="timelineComplete" returnType="void" isProperty="false">
+	</method>
+	<method id="DYKWindow" isConstructor="true" isProperty="false">
+	</method>
+	<method id="play" returnType="void" isProperty="false">
+	</method>
+	<method id="stop" returnType="void" isProperty="false">
+	</method>
+	<method id="nextFrame" returnType="void" isProperty="false">
+	</method>
+	<method id="prevFrame" returnType="void" isProperty="false">
+	</method>
+	<method id="gotoAndPlay" returnType="void" isProperty="false">
+	</method>
+	<method id="gotoAndStop" returnType="void" isProperty="false">
+	</method>
+	<method id="addFrameScript" returnType="void" isProperty="false">
+		<Inspectable environment="none" />
+	</method>
+	<method id="prevScene" returnType="void" isProperty="false">
+	</method>
+	<method id="nextScene" returnType="void" isProperty="false">
+	</method>
+	<method id="MovieClip" isConstructor="true" isProperty="false">
+	</method>
+	<method id="startDrag" returnType="void" isProperty="false">
+	</method>
+	<method id="stopDrag" returnType="void" isProperty="false">
+	</method>
+	<method id="startTouchDrag" returnType="void" isProperty="false">
+		<API param1="667" />
+	</method>
+	<method id="stopTouchDrag" returnType="void" isProperty="false">
+		<API param1="667" />
+	</method>
+	<method id="Sprite" isConstructor="true" isProperty="false">
+	</method>
+	<method id="addChild" returnType="DisplayObject" isProperty="false">
+	</method>
+	<method id="addChildAt" returnType="DisplayObject" isProperty="false">
+	</method>
+	<method id="removeChild" returnType="DisplayObject" isProperty="false">
+	</method>
+	<method id="removeChildAt" returnType="DisplayObject" isProperty="false">
+	</method>
+	<method id="getChildIndex" returnType="int" isProperty="false">
+	</method>
+	<method id="setChildIndex" returnType="void" isProperty="false">
+	</method>
+	<method id="getChildAt" returnType="DisplayObject" isProperty="false">
+	</method>
+	<method id="getChildByName" returnType="DisplayObject" isProperty="false">
+	</method>
+	<method id="getObjectsUnderPoint" returnType="Array" isProperty="false">
+	</method>
+	<method id="areInaccessibleObjectsUnderPoint" returnType="Boolean" isProperty="false">
+	</method>
+	<method id="contains" returnType="Boolean" isProperty="false">
+	</method>
+	<method id="swapChildrenAt" returnType="void" isProperty="false">
+	</method>
+	<method id="swapChildren" returnType="void" isProperty="false">
+	</method>
+	<method id="DisplayObjectContainer" isConstructor="true" isProperty="false">
+	</method>
+	<method id="InteractiveObject" isConstructor="true" isProperty="false">
+	</method>
+	<method id="globalToLocal" returnType="Point" isProperty="false">
+	</method>
+	<method id="localToGlobal" returnType="Point" isProperty="false">
+	</method>
+	<method id="getBounds" returnType="Rectangle" isProperty="false">
+	</method>
+	<method id="getRect" returnType="Rectangle" isProperty="false">
+	</method>
+	<method id="hitTestObject" returnType="Boolean" isProperty="false">
+	</method>
+	<method id="hitTestPoint" returnType="Boolean" isProperty="false">
+	</method>
+	<method id="globalToLocal3D" returnType="Vector3D" isProperty="false">
+		<Version param1="10" />
+	</method>
+	<method id="local3DToGlobal" returnType="Point" isProperty="false">
+		<Version param1="10" />
+	</method>
+	<method id="DisplayObject" isConstructor="true" isProperty="false">
+	</method>
+	<method id="toString" returnType="String" isProperty="false">
+	</method>
+	<method id="addEventListener" returnType="void" isProperty="false">
+	</method>
+	<method id="removeEventListener" returnType="void" isProperty="false">
+	</method>
+	<method id="dispatchEvent" returnType="Boolean" isProperty="false">
+	</method>
+	<method id="hasEventListener" returnType="Boolean" isProperty="false">
+	</method>
+	<method id="willTrigger" returnType="Boolean" isProperty="false">
+	</method>
+	<method id="EventDispatcher" isConstructor="true" isProperty="false">
+	</method>
+	<method id="Object" isConstructor="true" isProperty="false">
+	</method>
+</class>]]></classProperties>
+</DOMComponentItem>

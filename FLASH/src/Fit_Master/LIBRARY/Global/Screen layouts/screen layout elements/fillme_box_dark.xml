@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/screen layout elements/fillme_box_dark" itemID="4682efa4-00000ba2" sourceFlashFilepath="../../../../New Balance History 101/FLASH/src/History_101_Master/History_101_Master.xfl" sourceLibraryItemHRef="Global/Screen layouts/screen layout elements/fillme_box_dark" sourceLastModified="1228761774" lastModified="1228761774" lastUniqueIdentifier="1" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="fillme_box_dark">
+      <layers>
+        <DOMLayer name="outline" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.250980392156863"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke caps="square" weight="0.05" pixelHinting="true" joints="miter" solidStyle="hairline">
+                        <fill>
+                          <SolidColor alpha="0.694117647058824"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke caps="square" weight="0.05" pixelHinting="true" joints="miter" solidStyle="hairline">
+                        <fill>
+                          <SolidColor alpha="0.4"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="2" edges="!399.5 -0.5|399.5 399.5!399.5 399.5|-0.5 399.5"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-0.5 399.5|-0.5 -0.5!-0.5 -0.5|399.5 -0.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

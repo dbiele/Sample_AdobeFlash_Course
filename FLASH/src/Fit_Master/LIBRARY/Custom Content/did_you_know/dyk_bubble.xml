@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/did_you_know/dyk_bubble" itemID="4dd57dc6-0000053f" lastModified="1308839117">
+  <timeline>
+    <DOMTimeline name="dyk_bubble">
+      <layers>
+        <DOMLayer name="text" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText name="dyk_text_container" selected="true" right="5200" bottom="1101">
+                  <matrix>
+                    <Matrix tx="-296.7" ty="-190"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Arial" psName="ArialMT"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#4f4f4f" fontFamily="_Gotham Book copy*" fontSize="15" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%">25 to 40% of all Americans have foot problems, mostly caused by improperly fitting footwear.</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/did_you_know_bubble_03.png">
+                  <matrix>
+                    <Matrix tx="-347" ty="-146"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/assets/dyk_bubble_top" name="dyk_bubble_top" centerPoint3DX="-173.5" centerPoint3DY="-218.5">
+                  <matrix>
+                    <Matrix tx="-347" ty="-275"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="173.5" y="56.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/did_you_know/assets/dyk_bubble_middle" name="dyk_bubble_middle" centerPoint3DX="-173.5" centerPoint3DY="-154">
+                  <matrix>
+                    <Matrix tx="-347" ty="-162"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="173.5" y="8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

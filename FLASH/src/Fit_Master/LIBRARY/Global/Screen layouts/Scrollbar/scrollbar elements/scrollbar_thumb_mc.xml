@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/Scrollbar/scrollbar elements/scrollbar_thumb_mc" itemID="4dfb7b13-00000646" lastModified="1308326675">
+  <timeline>
+    <DOMTimeline name="scrollbar_thumb_mc">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Global/Navigation/MainMenu Outline/menu elements/scrollbar_slider_19x21.png">
+                  <matrix>
+                    <Matrix d="0.999984741210938"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
